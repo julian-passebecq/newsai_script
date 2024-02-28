@@ -30,8 +30,23 @@ jobs:
       - name: Run Concatenation
         run: python ./concatenation.py
 
+      - name: Check for CSV File Changes
+        id: check-csv
+        run: |
+          echo "Checking if CSV files have changed..."
+          if git diff --exit-code data/; then
+            echo "No changes in CSV files."
+            echo "CSV_CHANGED=false" >> $GITHUB_ENV
+          else
+            echo "CSV files have changed."
+            echo "CSV_CHANGED=true" >> $GITHUB_ENV
+          fi
+
       - name: Commit and Push if Changes
+        if: env.CSV_CHANGED == 'true'
         run: |
           git config --global user.name 'GitHub Actions'
           git config --global user.email 'actions@github.com'
-          git diff --quiet && git diff --staged --quiet || (git add . && git commit -m "Automated data update" && git push origin HEAD:main)
+          git add data/
+          git commit -m "Automated CSV update"
+          git push origin HEAD:main
