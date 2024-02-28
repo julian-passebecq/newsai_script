@@ -3,7 +3,7 @@ import csv
 from datetime import datetime
 import os
 
-api_key = "AIzaSyCVu4izhQztNO_9IDGXDuivhgaE-WP_8t0"  # Replace with your actual API key
+api_key = "AIzaSyDNlmMMuKSBJNV5gaWvXmCK08z3VWkZh4I"  # Replace with your actual API key
 channels = {
     "UCFp1vaKzpfvoGai0vE5VJ0w": "GuyInACube",
     "UCcfngi7_ASuo5jdWX0bNauQ": "HowToPowerBI",
