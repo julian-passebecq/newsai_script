@@ -1,5 +1,5 @@
 website,loc,lastmod,cured_name
-www.kevinrchant.com,https://www.kevinrchant.com/,2024-03-19,
+www.kevinrchant.com,https://www.kevinrchant.com/,2024-03-23,
 www.kevinrchant.com,https://www.kevinrchant.com/2019/08/28/finding-sql-server-versions-for-docker-and-linux-using-a-web-browser/,2019-08-29,finding sql server versions for docker and linux using a web browser
 www.kevinrchant.com,https://www.kevinrchant.com/2019/10/14/speaking-at-sql-saturday-sofia/,2019-10-14,speaking at sql saturday sofia
 www.kevinrchant.com,https://www.kevinrchant.com/2019/10/16/challenging-yourself-at-conferences/,2019-10-16,challenging yourself at conferences
@@ -384,6 +384,7 @@ www.kevinrchant.com,https://www.kevinrchant.com/2024/01/29/analytics-development
 www.kevinrchant.com,https://www.kevinrchant.com/2024/03/16/scripts-to-improve-copying-a-direct-lake-semantic-model-to-another-workspace-using-microsoft-fabric-git-integration-locally/,2024-03-16,scripts to improve copying a direct lake semantic model to another workspace using microsoft fabric git integration locally
 www.kevinrchant.com,https://www.kevinrchant.com/2024/01/10/checklist-for-the-beta-version-of-the-dp-600-beta-exam-for-microsoft-fabric/,2024-03-19,checklist for the beta version of the dp 600 beta exam for microsoft fabric
 www.kevinrchant.com,https://www.kevinrchant.com/2024/01/16/overview-of-the-microsoft-fabric-admin-portal-for-the-dp-600-exam/,2024-03-19,overview of the microsoft fabric admin portal for the dp 600 exam
+www.kevinrchant.com,https://www.kevinrchant.com/2024/03/23/thoughts-about-gaining-the-fabric-analytics-engineer-associate-certification/,2024-03-23,thoughts about gaining the fabric analytics engineer associate certification
 thomas-leblanc.com,https://thomas-leblanc.com/,,
 thomas-leblanc.com,https://thomas-leblanc.com/sample-page/,2016-02-12,sample page
 thomas-leblanc.com,https://thomas-leblanc.com/2016/02/14/cost-threshold-and-max-degree-of-parallelism/,2016-03-13,cost threshold and max degree of parallelism
@@ -2955,6 +2956,7 @@ pragmaticworks.com,https://pragmaticworks.com/blog/azure-data-factory-integratio
 pragmaticworks.com,https://pragmaticworks.com/blog/using-drill-through-buttons-to-replace-right-click-navigation-in-power-bi,2023-03-28,using drill through buttons to replace right click navigation in power bi
 pragmaticworks.com,https://pragmaticworks.com/blog/publishing-and-sharing-powerapps-applications,2024-02-13,publishing and sharing powerapps applications
 pragmaticworks.com,https://pragmaticworks.com/blog/setting-up-power-bi-row-level-security,2023-03-28,setting up power bi row level security
+pragmaticworks.com,https://pragmaticworks.com/blog,2024-02-05,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/azure-data-week-how-to-keep-your-data-from-deceiving-you,2023-03-28,azure data week how to keep your data from deceiving you
 pragmaticworks.com,https://pragmaticworks.com/blog/loading-folders-as-data-sources-in-power-bi,2023-03-16,loading folders as data sources in power bi
 pragmaticworks.com,https://pragmaticworks.com/blog/sql-server-2016-data-masking-and-always-encrypted,2023-03-28,sql server 2016 data masking and always encrypted
@@ -3310,7 +3312,6 @@ pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-custom-visuals-enlig
 pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-dataflows-sorting-through-fact-and-fiction,2023-03-28,power bi dataflows sorting through fact and fiction
 pragmaticworks.com,https://pragmaticworks.com/events/aug-02-test-event-7,2024-03-14,aug 02 test event 7
 pragmaticworks.com,https://pragmaticworks.com/introduction-to-azure-data-factory,2023-10-03,introduction to azure data factory
-pragmaticworks.com,https://pragmaticworks.com/blog,2024-02-05,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/how-power-bi-can-make-your-life-easier-i-wish-i-knew,2023-03-28,how power bi can make your life easier i wish i knew
 pragmaticworks.com,https://pragmaticworks.com/blog/microsoft-copilot-for-word-top-5-features,2024-01-25,microsoft copilot for word top 5 features
 pragmaticworks.com,https://pragmaticworks.com/blog/5-ways-azure-makes-your-enterprise-more-secure,2023-03-28,5 ways azure makes your enterprise more secure
@@ -3635,7 +3636,7 @@ data-marc.com,https://data-marc.com/2018/10/19/multiple-tier-architecture-and-co
 data-marc.com,https://data-marc.com/2018/09/25/the-journey-begins/,2018-10-06,the journey begins
 data-marc.com,https://data-marc.com,2024-02-20,
 www.data-traveling.com,https://www.data-traveling.com/articles,2024-03-22,articles
-www.data-traveling.com,https://www.data-traveling.com/articles/how-to-handle-different-granularities-power-bi,2024-01-18,how to handle different granularities power bi
+www.data-traveling.com,https://www.data-traveling.com/articles/how-to-handle-different-granularities-power-bi,2024-03-22,how to handle different granularities power bi
 www.data-traveling.com,https://www.data-traveling.com/articles/table-filters-vs-column-filter-power-bi-expanded-tables,2023-09-11,table filters vs column filter power bi expanded tables
 www.data-traveling.com,https://www.data-traveling.com/articles/how-to-add-a-custom-python-package-in-azure-synapse-analytics,2023-09-27,how to add a custom python package in azure synapse analytics
 www.data-traveling.com,https://www.data-traveling.com/articles/how-apply-dynamic-conditional-formatting-text-box-powerbi,2023-12-22,how apply dynamic conditional formatting text box powerbi
@@ -3645,6 +3646,7 @@ www.data-traveling.com,https://www.data-traveling.com/articles/pro-tips-to-optim
 www.data-traveling.com,https://www.data-traveling.com/articles/milestone-trend-analysis-visual-in-power-bi-with-deneb,2024-01-16,milestone trend analysis visual in power bi with deneb
 www.data-traveling.com,https://www.data-traveling.com/articles/how-to-optimize-pyspark-pivot-operations,2024-02-21,how to optimize pyspark pivot operations
 www.data-traveling.com,https://www.data-traveling.com/articles/performance-impact-of-visual-calculations-using-directquery-mode-in-power-bi,2024-03-21,performance impact of visual calculations using directquery mode in power bi
+www.data-traveling.com,https://www.data-traveling.com/articles/dax-measures-to-calculate-same-period-last-month-/-quarter-in-power-bi,2024-03-22,quarter in power bi
 www.data-traveling.com,https://www.data-traveling.com/articles/category/Azure,,Azure
 www.data-traveling.com,https://www.data-traveling.com/articles/category/Power+BI,,Power+BI
 www.data-traveling.com,https://www.data-traveling.com/articles/category/Data+modeling,,Data+modeling
