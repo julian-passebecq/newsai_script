@@ -451,6 +451,7 @@ thomas-leblanc.com,https://thomas-leblanc.com/2023/11/13/show-rows-for-attribute
 thomas-leblanc.com,https://thomas-leblanc.com/2023/12/04/fabric-personas/,2024-01-11,fabric personas,blog
 thomas-leblanc.com,https://thomas-leblanc.com/2024/01/11/power-bi-updates-dec-2023-release-preview-features/,2024-01-11,power bi updates dec 2023 release preview features,blog
 thomas-leblanc.com,https://thomas-leblanc.com/2024/03/15/power-bi-performance-calculated-columns-versus-new-column-in-power-query/,2024-03-15,power bi performance calculated columns versus new column in power query,blog
+thomas-leblanc.com,https://thomas-leblanc.com/2024/03/29/power-bi-or-fabric-monitoring/,2024-03-29,power bi or fabric monitoring,blog
 www.oliviertravers.com,https://www.oliviertravers.com/bi-job-profiles-career-paths-niches/,2024-03-15,bi job profiles career paths niches,blog
 www.oliviertravers.com,https://www.oliviertravers.com/synology-apps-containers-media-self-hosted/,2024-02-17,synology apps containers media self hosted,blog
 www.oliviertravers.com,https://www.oliviertravers.com/nas-lan-administration-security-101-home-office-post-covid/,2024-02-17,nas lan administration security 101 home office post covid,blog
@@ -1451,7 +1452,7 @@ www.oliviertravers.com,https://www.oliviertravers.com/more-marketing-blogs/,2002
 www.oliviertravers.com,https://www.oliviertravers.com/pick-a-car-any-car/,2002-05-07,pick a car any car,blog
 www.oliviertravers.com,https://www.oliviertravers.com/france-or-a-frontier/,2002-05-07,france or a frontier,blog
 www.oliviertravers.com,https://www.oliviertravers.com/hell-be-back-m-le-pen-is-down-but-not-out/,2002-05-07,hell be back m le pen is down but not out,blog
-data-mozart.com,https://data-mozart.com/,2024-03-21,,blog
+data-mozart.com,https://data-mozart.com/,2024-03-29,,blog
 data-mozart.com,https://data-mozart.com/to-direct-query-or-not/,2019-12-31,to direct query or not,blog
 data-mozart.com,https://data-mozart.com/secretlifeofctes/,2020-01-02,secretlifeofctes,blog
 data-mozart.com,https://data-mozart.com/working-with-images-in-power-bi/,2020-01-03,working with images in power bi,blog
@@ -1628,6 +1629,7 @@ data-mozart.com,https://data-mozart.com/mastering-dp-600-exam-create-and-manage-
 data-mozart.com,https://data-mozart.com/50-shades-of-direct-lake-everything-you-need-to-know-about-the-new-power-bi-storage-mode/,2024-03-19,50 shades of direct lake everything you need to know about the new power bi storage mode,blog
 data-mozart.com,https://data-mozart.com/parquet-file-format-everything-you-need-to-know/,2024-03-20,parquet file format everything you need to know,blog
 data-mozart.com,https://data-mozart.com/mastering-dp-600-exam-live-in-person-training-in-the-usa/,2024-03-21,mastering dp 600 exam live in person training in the usa,blog
+data-mozart.com,https://data-mozart.com/what-is-mirroring-in-ms-fabric-and-why-do-i-consider-it-the-next-big-thing/,2024-03-29,what is mirroring in ms fabric and why do i consider it the next big thing,blog
 www.sqlbi.com,https://www.sqlbi.com/articles/datetool-dimension-an-alternative-time-intelligence-implementation/,2024-03-24,datetool dimension an alternative time intelligence implementation,blog
 www.sqlbi.com,https://www.sqlbi.com/articles/keepfilters-a-new-dax-feature-to-correctly-compute-over-arbitrary-shaped-sets/,2024-03-24,keepfilters a new dax feature to correctly compute over arbitrary shaped sets,blog
 www.sqlbi.com,https://www.sqlbi.com/articles/creating-a-copy-of-a-bism-tabular-project/,2024-03-24,creating a copy of a bism tabular project,blog
@@ -2963,7 +2965,6 @@ pragmaticworks.com,https://pragmaticworks.com/blog/azure-data-factory-integratio
 pragmaticworks.com,https://pragmaticworks.com/blog/using-drill-through-buttons-to-replace-right-click-navigation-in-power-bi,2023-03-28,using drill through buttons to replace right click navigation in power bi,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/publishing-and-sharing-powerapps-applications,2024-02-13,publishing and sharing powerapps applications,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/setting-up-power-bi-row-level-security,2023-03-28,setting up power bi row level security,blog
-pragmaticworks.com,https://pragmaticworks.com/blog,2024-02-05,blog,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/azure-data-week-how-to-keep-your-data-from-deceiving-you,2023-03-28,azure data week how to keep your data from deceiving you,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/loading-folders-as-data-sources-in-power-bi,2023-03-16,loading folders as data sources in power bi,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/sql-server-2016-data-masking-and-always-encrypted,2023-03-28,sql server 2016 data masking and always encrypted,blog
@@ -3008,6 +3009,7 @@ pragmaticworks.com,https://pragmaticworks.com/blog/new-training-course-introduct
 pragmaticworks.com,https://pragmaticworks.com/blog/how-to-run-a-databricks-notebook-using-azure-data-factory,2023-03-28,how to run a databricks notebook using azure data factory,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/how-and-when-to-scale-up/out-using-azure-analysis-services,2023-03-28,out using azure analysis services,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-the-foundations-of-m,2023-03-28,power bi the foundations of m,blog
+pragmaticworks.com,https://pragmaticworks.com/blog/visual-calculations-in-power-bi-calculating-moving-averages,2024-03-29,visual calculations in power bi calculating moving averages,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/real-time-structured-streaming-in-azure-databricks,2023-03-28,real time structured streaming in azure databricks,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/holiday-giving-blog,2023-03-28,holiday giving blog,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/how-to-create-an-inspection-app-in-power-apps,2023-03-28,how to create an inspection app in power apps,blog
@@ -3326,6 +3328,7 @@ pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-custom-visuals-enlig
 pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-dataflows-sorting-through-fact-and-fiction,2023-03-28,power bi dataflows sorting through fact and fiction,blog
 pragmaticworks.com,https://pragmaticworks.com/events/aug-02-test-event-7,2024-03-14,aug 02 test event 7,blog
 pragmaticworks.com,https://pragmaticworks.com/introduction-to-azure-data-factory,2023-10-03,introduction to azure data factory,blog
+pragmaticworks.com,https://pragmaticworks.com/blog,2024-02-05,blog,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/how-power-bi-can-make-your-life-easier-i-wish-i-knew,2023-03-28,how power bi can make your life easier i wish i knew,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/microsoft-copilot-for-word-top-5-features,2024-01-25,microsoft copilot for word top 5 features,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/5-ways-azure-makes-your-enterprise-more-secure,2023-03-28,5 ways azure makes your enterprise more secure,blog
