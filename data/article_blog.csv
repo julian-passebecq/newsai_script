@@ -1928,6 +1928,7 @@ www.sqlbi.com,https://www.sqlbi.com/articles/optimizing-time-intelligence-in-dir
 www.sqlbi.com,https://www.sqlbi.com/articles/improving-data-labels-with-format-strings/,2024-03-24,improving data labels with format strings
 www.sqlbi.com,https://www.sqlbi.com/articles/dax-limitations-with-inactive-relationships-and-row-level-security-rls/,2024-03-24,dax limitations with inactive relationships and row level security rls
 www.sqlbi.com,https://www.sqlbi.com/articles/introducing-visual-shape-for-visual-calculations-in-power-bi/,2024-03-24,introducing visual shape for visual calculations in power bi
+www.sqlbi.com,https://www.sqlbi.com/articles/revolutionizing-power-bi-introducing-the-ultimate-formula-language/,2024-03-24,revolutionizing power bi introducing the ultimate formula language
 www.sqlbi.com,https://www.sqlbi.com/articles/introducing-expand-and-collapse-for-visual-calculations/,2024-03-24,introducing expand and collapse for visual calculations
 en.brunner.bi,https://en.brunner.bi/post/allocating-amounts-using-lists-in-power-query,2022-02-18,allocating amounts using lists in power query
 en.brunner.bi,https://en.brunner.bi/post/changing-data-types-that-do-not-break-query-folding-in-power-query-power-bi-1,2023-12-05,changing data types that do not break query folding in power query power bi 1
@@ -2209,6 +2210,7 @@ pragmaticworks.com,https://pragmaticworks.com/excel-beginner-to-pro-certificate,
 pragmaticworks.com,https://pragmaticworks.com/power-platform-for-teams,2023-08-29,power platform for teams
 pragmaticworks.com,https://pragmaticworks.com/blog/announcing-our-updated-introduction-to-ssis-course,2023-03-28,announcing our updated introduction to ssis course
 pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-licensing,2023-03-28,power bi licensing
+pragmaticworks.com,https://pragmaticworks.com/dax-made-easy-student-files,2024-04-01,dax made easy student files
 pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-and-data-security-on-premises-data-gateway,2024-02-20,power bi and data security on premises data gateway
 pragmaticworks.com,https://pragmaticworks.com/events/mar-08-learn-with-the-nerds-microsoft-project-beginner-to-pro-111,2024-03-14,mar 08 learn with the nerds microsoft project beginner to pro 111
 pragmaticworks.com,https://pragmaticworks.com/blog/building-your-1st-data-solution-in-azure,2023-03-28,building your 1st data solution in azure
@@ -2270,6 +2272,7 @@ pragmaticworks.com,https://pragmaticworks.com/blog/powerapps-nested-galleries-an
 pragmaticworks.com,https://pragmaticworks.com/blog/webinar-follow-up-data-analytics-distribution-with-power-bi,2023-09-28,webinar follow up data analytics distribution with power bi
 pragmaticworks.com,https://pragmaticworks.com/learn-with-the-nerds-conquering-pl-300-power-bi-data-analyst-certification,2023-11-08,learn with the nerds conquering pl 300 power bi data analyst certification
 pragmaticworks.com,https://pragmaticworks.com/blog/databricks-and-azure-key-vault,2023-03-28,databricks and azure key vault
+pragmaticworks.com,https://pragmaticworks.com/events/apr-29-virtual-microsoft-project-bootcamp-85,2024-04-01,apr 29 virtual microsoft project bootcamp 85
 pragmaticworks.com,https://pragmaticworks.com/blog/cellular-retailer-saves-1million-a-month-with-powerapps,2023-03-28,cellular retailer saves 1million a month with powerapps
 pragmaticworks.com,https://pragmaticworks.com/blog/how-to-merge-data-using-change-data-capture-in-databricks,2023-03-28,how to merge data using change data capture in databricks
 pragmaticworks.com,https://pragmaticworks.com/blog/automating-your-etl-creating-a-sql-agent-job,2024-01-29,automating your etl creating a sql agent job
@@ -2285,6 +2288,7 @@ pragmaticworks.com,https://pragmaticworks.com/blog/the-cost-of-bad-data-infograp
 pragmaticworks.com,https://pragmaticworks.com/blog/azure-active-directory-and-guest-users,2023-03-28,azure active directory and guest users
 pragmaticworks.com,https://pragmaticworks.com/blog/applying-conditional-formatting-to-emails-in-microsoft-outlook,2023-10-18,applying conditional formatting to emails in microsoft outlook
 pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-timeline-and-use-cases,2023-03-28,power bi timeline and use cases
+pragmaticworks.com,https://pragmaticworks.com/lwtn-dax-made-easy-certificate,2024-04-01,lwtn dax made easy certificate
 pragmaticworks.com,https://pragmaticworks.com/blog/lets-make-a-power-app-round-3,2023-03-28,lets make a power app round 3
 pragmaticworks.com,https://pragmaticworks.com/blog/ssas-tabular-vs.-ssas-multidimensional-part-iii-complex-business-problems,2023-09-28,ssas tabular vs. ssas multidimensional part iii complex business problems
 pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-custom-visuals-percentile-chart,2023-03-28,power bi custom visuals percentile chart
@@ -2635,6 +2639,7 @@ pragmaticworks.com,https://pragmaticworks.com/blog/dtu-vs-vcore-in-azure-sql-dat
 pragmaticworks.com,https://pragmaticworks.com/blog/rpa-using-power-automate,2023-03-16,rpa using power automate
 pragmaticworks.com,https://pragmaticworks.com/blog/azure-integration-with-logic-apps,2023-03-28,azure integration with logic apps
 pragmaticworks.com,https://pragmaticworks.com/blog/embedding-a-power-bi-report-in-sharepoint,2024-01-31,embedding a power bi report in sharepoint
+pragmaticworks.com,https://pragmaticworks.com/blog/power-platform-for-educators,2024-04-01,power platform for educators
 pragmaticworks.com,https://pragmaticworks.com/lwtn-lwtn-conquering-pl-300-thank-you,2023-10-19,lwtn lwtn conquering pl 300 thank you
 pragmaticworks.com,https://pragmaticworks.com/blog/copilot-in-power-bi-course-preview,2024-02-23,copilot in power bi course preview
 pragmaticworks.com,https://pragmaticworks.com/introduction-to-ssrs,2023-09-14,introduction to ssrs
@@ -2647,7 +2652,6 @@ pragmaticworks.com,https://pragmaticworks.com/blog/meet-the-newest-member-of-our
 pragmaticworks.com,https://pragmaticworks.com/introduction-to-t-sql,2023-08-29,introduction to t sql
 pragmaticworks.com,https://pragmaticworks.com/blog/clay-chamber-names-pragmatic-works-as-the-june-2014-small-business-of-the-month,2023-03-16,clay chamber names pragmatic works as the june 2014 small business of the month
 pragmaticworks.com,https://pragmaticworks.com/introduction-to-microsoft-project-for-the-web,2023-08-29,introduction to microsoft project for the web
-pragmaticworks.com,https://pragmaticworks.com/events/apr-29-virtual-microsoft-project-bootcamp-85,2024-03-14,apr 29 virtual microsoft project bootcamp 85
 pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-custom-visuals-brick-chart-by-maq-software,2023-03-28,power bi custom visuals brick chart by maq software
 pragmaticworks.com,https://pragmaticworks.com/virtual-dax-bootcamp,2023-09-14,virtual dax bootcamp
 pragmaticworks.com,https://pragmaticworks.com/blog/pragmatic-works-earns-microsofts-low-code-application-development-advanced-specialization,2024-02-13,pragmatic works earns microsofts low code application development advanced specialization
@@ -3025,7 +3029,6 @@ pragmaticworks.com,https://pragmaticworks.com/blog/need-training-follow-our-inte
 pragmaticworks.com,https://pragmaticworks.com/introduction-to-dax,2023-10-03,introduction to dax
 pragmaticworks.com,https://pragmaticworks.com/blog/ssas-multidimensional-or-ssas-tabular-questions,2024-03-28,ssas multidimensional or ssas tabular questions
 pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-monthly-digest-august-2020,2023-03-28,power bi monthly digest august 2020
-pragmaticworks.com,https://pragmaticworks.com/odl-renewal,2024-03-28,odl renewal
 pragmaticworks.com,https://pragmaticworks.com/blog/microsoft-and-blackrock-announce-retirement-planning-partnership,2023-03-28,microsoft and blackrock announce retirement planning partnership
 pragmaticworks.com,https://pragmaticworks.com/blog/3cloud-acquires-pragmatic-works-consulting,2024-03-28,3cloud acquires pragmatic works consulting
 pragmaticworks.com,https://pragmaticworks.com/blog/building-dynamic-pipelines-in-azure-data-factory-v2,2023-03-28,building dynamic pipelines in azure data factory v2
@@ -3066,7 +3069,6 @@ pragmaticworks.com,https://pragmaticworks.com/resources/cheat-sheet/dax,2024-01-
 pragmaticworks.com,https://pragmaticworks.com/blog/universal-design-in-power-bi-color-contrast,2023-12-21,universal design in power bi color contrast
 pragmaticworks.com,https://pragmaticworks.com/blog/azure-managed-instance-cancelled-deployment,2023-03-28,azure managed instance cancelled deployment
 pragmaticworks.com,https://pragmaticworks.com/blog/is-your-data-center-reliable,2023-03-28,is your data center reliable
-pragmaticworks.com,https://pragmaticworks.com/blog/introduction-to-power-platform-for-educators,2024-03-26,introduction to power platform for educators
 pragmaticworks.com,https://pragmaticworks.com/blog/exploring-microsoft-fabric-pipelines-with-teams-activity,2024-02-09,exploring microsoft fabric pipelines with teams activity
 pragmaticworks.com,https://pragmaticworks.com/blog/why-you-should-attend-sqlsaturday-phoenix,2023-03-16,why you should attend sqlsaturday phoenix
 pragmaticworks.com,https://pragmaticworks.com/blog/azure-data-factory-pipeline-templates,2023-03-28,azure data factory pipeline templates
@@ -3520,6 +3522,7 @@ pragmaticworks.com,https://pragmaticworks.com/blog/introducing-ssis-in-the-cloud
 pragmaticworks.com,https://pragmaticworks.com/blog/preparing-a-technical-session-part-2-coming-up-with-a-title,2023-03-16,preparing a technical session part 2 coming up with a title
 pragmaticworks.com,https://pragmaticworks.com/blog/tips-for-a-successful-azure-for-bi-implementation,2024-01-17,tips for a successful azure for bi implementation
 pragmaticworks.com,https://pragmaticworks.com/blog/what-is-azure-active-directory-b2c,2023-03-28,what is azure active directory b2c
+pragmaticworks.com,https://pragmaticworks.com/odl-renewal,2024-04-01,odl renewal
 pragmaticworks.com,https://pragmaticworks.com/blog/hybrid-cloud-strategies-and-management/,2023-03-28,hybrid cloud strategies and management
 pragmaticworks.com,https://pragmaticworks.com/blog/what-you-need-to-know-about-power-bi-licensing,2023-03-28,what you need to know about power bi licensing
 pragmaticworks.com,https://pragmaticworks.com/blog/why-use-azure-databricks,2023-03-28,why use azure databricks
