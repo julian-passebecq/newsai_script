@@ -1,5 +1,5 @@
 website,loc,lastmod,cured_name,type
-www.kevinrchant.com,https://www.kevinrchant.com/,2024-03-24,,blog
+www.kevinrchant.com,https://www.kevinrchant.com/,2024-04-04,,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2019/08/28/finding-sql-server-versions-for-docker-and-linux-using-a-web-browser/,2019-08-29,finding sql server versions for docker and linux using a web browser,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2019/10/14/speaking-at-sql-saturday-sofia/,2019-10-14,speaking at sql saturday sofia,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2019/10/16/challenging-yourself-at-conferences/,2019-10-16,challenging yourself at conferences,blog
@@ -382,9 +382,9 @@ www.kevinrchant.com,https://www.kevinrchant.com/2023/09/06/microsoft-fabric-git-
 www.kevinrchant.com,https://www.kevinrchant.com/2024/03/02/initial-tests-to-copy-a-direct-lake-semantic-model-to-another-workspace-using-microsoft-fabric-git-integration/,2024-03-02,initial tests to copy a direct lake semantic model to another workspace using microsoft fabric git integration,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2024/01/29/analytics-development-lifecycle-requirements-for-the-dp-600-microsoft-fabric-exam/,2024-03-05,analytics development lifecycle requirements for the dp 600 microsoft fabric exam,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2024/03/16/scripts-to-improve-copying-a-direct-lake-semantic-model-to-another-workspace-using-microsoft-fabric-git-integration-locally/,2024-03-16,scripts to improve copying a direct lake semantic model to another workspace using microsoft fabric git integration locally,blog
-www.kevinrchant.com,https://www.kevinrchant.com/2024/01/10/checklist-for-the-beta-version-of-the-dp-600-beta-exam-for-microsoft-fabric/,2024-03-19,checklist for the beta version of the dp 600 beta exam for microsoft fabric,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2024/01/16/overview-of-the-microsoft-fabric-admin-portal-for-the-dp-600-exam/,2024-03-19,overview of the microsoft fabric admin portal for the dp 600 exam,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2024/03/23/thoughts-about-gaining-the-fabric-analytics-engineer-associate-certification/,2024-03-24,thoughts about gaining the fabric analytics engineer associate certification,blog
+www.kevinrchant.com,https://www.kevinrchant.com/2024/01/10/checklist-for-the-beta-version-of-the-dp-600-beta-exam-for-microsoft-fabric/,2024-04-04,checklist for the beta version of the dp 600 beta exam for microsoft fabric,blog
 thomas-leblanc.com,https://thomas-leblanc.com/,,,blog
 thomas-leblanc.com,https://thomas-leblanc.com/sample-page/,2016-02-12,sample page,blog
 thomas-leblanc.com,https://thomas-leblanc.com/2016/02/14/cost-threshold-and-max-degree-of-parallelism/,2016-03-13,cost threshold and max degree of parallelism,blog
@@ -1452,7 +1452,7 @@ www.oliviertravers.com,https://www.oliviertravers.com/more-marketing-blogs/,2002
 www.oliviertravers.com,https://www.oliviertravers.com/pick-a-car-any-car/,2002-05-07,pick a car any car,blog
 www.oliviertravers.com,https://www.oliviertravers.com/france-or-a-frontier/,2002-05-07,france or a frontier,blog
 www.oliviertravers.com,https://www.oliviertravers.com/hell-be-back-m-le-pen-is-down-but-not-out/,2002-05-07,hell be back m le pen is down but not out,blog
-data-mozart.com,https://data-mozart.com/,2024-03-31,,blog
+data-mozart.com,https://data-mozart.com/,2024-04-04,,blog
 data-mozart.com,https://data-mozart.com/to-direct-query-or-not/,2019-12-31,to direct query or not,blog
 data-mozart.com,https://data-mozart.com/secretlifeofctes/,2020-01-02,secretlifeofctes,blog
 data-mozart.com,https://data-mozart.com/working-with-images-in-power-bi/,2020-01-03,working with images in power bi,blog
@@ -1630,6 +1630,7 @@ data-mozart.com,https://data-mozart.com/50-shades-of-direct-lake-everything-you-
 data-mozart.com,https://data-mozart.com/parquet-file-format-everything-you-need-to-know/,2024-03-20,parquet file format everything you need to know,blog
 data-mozart.com,https://data-mozart.com/mastering-dp-600-exam-live-in-person-training-in-the-usa/,2024-03-21,mastering dp 600 exam live in person training in the usa,blog
 data-mozart.com,https://data-mozart.com/what-is-mirroring-in-ms-fabric-and-why-do-i-consider-it-the-next-big-thing/,2024-03-31,what is mirroring in ms fabric and why do i consider it the next big thing,blog
+data-mozart.com,https://data-mozart.com/meet-powerops-your-new-best-power-bi-external-friend/,2024-04-04,meet powerops your new best power bi external friend,blog
 www.sqlbi.com,https://www.sqlbi.com/articles/datetool-dimension-an-alternative-time-intelligence-implementation/,2024-03-24,datetool dimension an alternative time intelligence implementation,blog
 www.sqlbi.com,https://www.sqlbi.com/articles/keepfilters-a-new-dax-feature-to-correctly-compute-over-arbitrary-shaped-sets/,2024-03-24,keepfilters a new dax feature to correctly compute over arbitrary shaped sets,blog
 www.sqlbi.com,https://www.sqlbi.com/articles/creating-a-copy-of-a-bism-tabular-project/,2024-03-24,creating a copy of a bism tabular project,blog
@@ -3233,6 +3234,7 @@ pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-and-data-security-co
 pragmaticworks.com,https://pragmaticworks.com/blog/how-to-solve-an-incompatible-ssis-project-for-an-azure-vm,2023-03-28,how to solve an incompatible ssis project for an azure vm,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/how-azure-data-factory-pricing-works,2023-03-28,how azure data factory pricing works,blog
 pragmaticworks.com,https://pragmaticworks.com/events/mar-25-virtual-microsoft-fabric-bootcamp-62,2024-03-14,mar 25 virtual microsoft fabric bootcamp 62,blog
+pragmaticworks.com,https://pragmaticworks.com/about-us/management-team,2024-04-04,management team,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/microsoft-onenote-with-matthew-peterson,2024-02-07,microsoft onenote with matthew peterson,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/consulting-communicating-and-covid-19,2023-03-28,consulting communicating and covid 19,blog
 pragmaticworks.com,https://pragmaticworks.com/lwtn-power-apps-beginner-to-pro-thank-you,2024-02-23,lwtn power apps beginner to pro thank you,blog
@@ -3456,7 +3458,6 @@ pragmaticworks.com,https://pragmaticworks.com/blog/azure-blob-storage-life-cycle
 pragmaticworks.com,https://pragmaticworks.com/blog/ssas-tabular-vs.-ssas-multidimensional-business-logic,2023-03-16,ssas tabular vs. ssas multidimensional business logic,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/azure-ml-ssis-and-the-modern-data-warehouse,2023-03-16,azure ml ssis and the modern data warehouse,blog
 pragmaticworks.com,https://pragmaticworks.com/events/oct-16-virtual-power-bi-bootcamp-16,2024-03-14,oct 16 virtual power bi bootcamp 16,blog
-pragmaticworks.com,https://pragmaticworks.com/about-us/management-team,2023-08-29,management team,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/introduction-to-dax,2023-10-03,introduction to dax,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/nh-sales-team-beach-party,2023-03-28,nh sales team beach party,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/lets-build-a-power-app-session-5,2023-03-28,lets build a power app session 5,blog
