@@ -453,6 +453,7 @@ thomas-leblanc.com,https://thomas-leblanc.com/2023/12/04/fabric-personas/,2024-0
 thomas-leblanc.com,https://thomas-leblanc.com/2024/01/11/power-bi-updates-dec-2023-release-preview-features/,2024-01-11,power bi updates dec 2023 release preview features,blog
 thomas-leblanc.com,https://thomas-leblanc.com/2024/03/15/power-bi-performance-calculated-columns-versus-new-column-in-power-query/,2024-03-15,power bi performance calculated columns versus new column in power query,blog
 thomas-leblanc.com,https://thomas-leblanc.com/2024/03/29/power-bi-or-fabric-monitoring/,2024-03-29,power bi or fabric monitoring,blog
+www.oliviertravers.com,https://www.oliviertravers.com/power-bi-programmatic-options-rest-apis-powershell-tmsl-tom-tabular-editor-scripting/,2024-04-16,power bi programmatic options rest apis powershell tmsl tom tabular editor scripting,blog
 www.oliviertravers.com,https://www.oliviertravers.com/bi-job-profiles-career-paths-niches/,2024-03-15,bi job profiles career paths niches,blog
 www.oliviertravers.com,https://www.oliviertravers.com/synology-apps-containers-media-self-hosted/,2024-02-17,synology apps containers media self hosted,blog
 www.oliviertravers.com,https://www.oliviertravers.com/nas-lan-administration-security-101-home-office-post-covid/,2024-02-17,nas lan administration security 101 home office post covid,blog
@@ -462,7 +463,6 @@ www.oliviertravers.com,https://www.oliviertravers.com/power-bi-third-party-tools
 www.oliviertravers.com,https://www.oliviertravers.com/row-level-security-rls-business-intelligence/,2023-10-07,row level security rls business intelligence,blog
 www.oliviertravers.com,https://www.oliviertravers.com/ebook-collection-search-everything-calibre/,2023-09-10,ebook collection search everything calibre,blog
 www.oliviertravers.com,https://www.oliviertravers.com/languages-learn-power-bi-developer-dax-m-sql/,2023-08-17,languages learn power bi developer dax m sql,blog
-www.oliviertravers.com,https://www.oliviertravers.com/power-bi-programmatic-options-rest-apis-powershell-tmsl-tom-tabular-editor-scripting/,2023-06-04,power bi programmatic options rest apis powershell tmsl tom tabular editor scripting,blog
 www.oliviertravers.com,https://www.oliviertravers.com/power-bi-dataset-dataflow-datamart-dataverse-sql-server/,2023-06-04,power bi dataset dataflow datamart dataverse sql server,blog
 www.oliviertravers.com,https://www.oliviertravers.com/sql-performance-tuning-power-bi/,2023-06-03,sql performance tuning power bi,blog
 www.oliviertravers.com,https://www.oliviertravers.com/row-level-security-object-data-masking-business-use-cases/,2023-05-31,row level security object data masking business use cases,blog
@@ -1633,308 +1633,308 @@ data-mozart.com,https://data-mozart.com/what-is-mirroring-in-ms-fabric-and-why-d
 data-mozart.com,https://data-mozart.com/migrate-existing-power-bi-semantic-models-to-direct-lake-a-step-by-step-guide/,2024-04-07,migrate existing power bi semantic models to direct lake a step by step guide,blog
 data-mozart.com,https://data-mozart.com/meet-powerops-your-new-best-power-bi-external-friend/,2024-04-08,meet powerops your new best power bi external friend,blog
 data-mozart.com,https://data-mozart.com/50-shades-of-direct-lake-everything-you-need-to-know-about-the-new-power-bi-storage-mode/,2024-04-10,50 shades of direct lake everything you need to know about the new power bi storage mode,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/datetool-dimension-an-alternative-time-intelligence-implementation/,2024-04-14,datetool dimension an alternative time intelligence implementation,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/keepfilters-a-new-dax-feature-to-correctly-compute-over-arbitrary-shaped-sets/,2024-04-14,keepfilters a new dax feature to correctly compute over arbitrary shaped sets,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/creating-a-copy-of-a-bism-tabular-project/,2024-04-14,creating a copy of a bism tabular project,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/automate-powerpivot-data-refresh-in-excel/,2024-04-14,automate powerpivot data refresh in excel,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/separate-date-and-time-in-powerpivot-and-bism-tabular/,2024-04-14,separate date and time in powerpivot and bism tabular,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/drillthrough-for-bism-tabular-and-attribute-keys-in-ssas-denali/,2024-04-14,drillthrough for bism tabular and attribute keys in ssas denali,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/converting-mdx-to-dax-first-steps/,2024-04-14,converting mdx to dax first steps,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/videos-available-from-sqlbits/,2024-04-14,videos available from sqlbits,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/sorting-dates-columns-in-powerpivot-v2-and-bism-tabular/,2024-04-14,sorting dates columns in powerpivot v2 and bism tabular,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/ratio-over-subtotals-with-normalized-tables-in-dax/,2024-04-14,ratio over subtotals with normalized tables in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/from-sql-to-dax-projection/,2024-04-14,from sql to dax projection,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/from-sql-to-dax-string-comparison/,2024-04-14,from sql to dax string comparison,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/understanding-circular-dependencies/,2024-04-14,understanding circular dependencies,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/execute-dax-queries-through-ole-db-and-adomd-net/,2024-04-14,execute dax queries through ole db and adomd net,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/budget-and-other-data-at-different-granularities-in-powerpivot/,2024-04-14,budget and other data at different granularities in powerpivot,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/optimizing-high-cardinality-columns-in-vertipaq/,2024-04-14,optimizing high cardinality columns in vertipaq,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/memory-settings-in-tabular-instances-of-analysis-services/,2024-04-14,memory settings in tabular instances of analysis services,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/incremental-processing-in-tabular-using-process-add/,2024-04-14,incremental processing in tabular using process add,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/clever-hierarchy-handling-in-dax/,2024-04-14,clever hierarchy handling in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/order-of-evaluation-in-calculate-parameters/,2024-04-14,order of evaluation in calculate parameters,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/optimize-many-to-many-calculation-in-dax-with-summarize-and-cross-table-filtering/,2024-04-14,optimize many to many calculation in dax with summarize and cross table filtering,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/best-practices-using-summarize-and-addcolumns/,2024-04-14,best practices using summarize and addcolumns,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/parallelize-processadd-with-amo/,2024-04-14,parallelize processadd with amo,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/usage-of-dates-argument-in-a-row-context/,2024-04-14,usage of dates argument in a row context,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/rules-for-dax-code-formatting/,2024-04-14,rules for dax code formatting,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/upgrading-powerpivot-workbooks-from-excel-2010-to-excel-2013/,2024-04-14,upgrading powerpivot workbooks from excel 2010 to excel 2013,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/linkback-tables-in-powerpivot-for-excel-2013/,2024-04-14,linkback tables in powerpivot for excel 2013,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/import-data-from-tabular-model-in-excel-using-a-dax-query/,2024-04-14,import data from tabular model in excel using a dax query,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/week-based-time-intelligence-in-dax/,2024-04-14,week based time intelligence in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/checklist-for-memory-optimizations-in-powerpivot-and-tabular-models/,2024-04-14,checklist for memory optimizations in powerpivot and tabular models,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/grouping-transactions-by-age-of-customers-in-dax/,2024-04-14,grouping transactions by age of customers in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/organizing-measures-and-attributes-in-folders-with-tabular/,2024-04-14,organizing measures and attributes in folders with tabular,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/inventory-in-power-pivot-and-dax-snapshot-vs-dynamic-calculation/,2024-04-14,inventory in power pivot and dax snapshot vs dynamic calculation,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/yearly-customer-historical-sales-in-dax/,2024-04-14,yearly customer historical sales in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/handling-wrong-or-missing-dates-in-tabular/,2024-04-14,handling wrong or missing dates in tabular,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/userelationship-in-calculated-columns/,2024-04-14,userelationship in calculated columns,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/semi-additive-measures-in-dax/,2024-04-14,semi additive measures in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/natural-hierarchies-in-power-pivot-and-tabular/,2024-04-14,natural hierarchies in power pivot and tabular,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/last-process-date-in-ssas-tabular/,2024-04-14,last process date in ssas tabular,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/filter-vs-calculatetable-optimization-using-cardinality-estimation/,2024-04-14,filter vs calculatetable optimization using cardinality estimation,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/check-empty-table-condition-with-dax/,2024-04-14,check empty table condition with dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/prepare-data-for-power-view-forecasting-in-power-bi/,2024-04-14,prepare data for power view forecasting in power bi,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/rolling-12-months-average-in-dax/,2024-04-14,rolling 12 months average in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/divide-performance/,2024-04-14,divide performance,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/from-sql-to-dax-filtering-data/,2024-04-14,from sql to dax filtering data,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/from-sql-to-dax-grouping-data/,2024-04-14,from sql to dax grouping data,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/autoexist-and-normalization/,2024-04-14,autoexist and normalization,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/all-the-secrets-of-summarize/,2024-04-14,all the secrets of summarize,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/tools-for-dax-and-tabular-developers/,2024-04-14,tools for dax and tabular developers,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/frictionless-renaming-in-tabular-models-with-analysis-services/,2024-04-14,frictionless renaming in tabular models with analysis services,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/custom-year-over-year-calculation-in-dax/,2024-04-14,custom year over year calculation in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/alternative-use-of-firstnonblank-and-lastnonblank/,2024-04-14,alternative use of firstnonblank and lastnonblank,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/from-sql-to-dax-in-and-exists/,2024-04-14,from sql to dax in and exists,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/variables-in-dax-2015/,2024-04-14,variables in dax 2015,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/from-sql-to-dax-joining-tables/,2024-04-14,from sql to dax joining tables,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/heap-memory-settings-for-analysis-services-tabular-2012-2014/,2024-04-14,heap memory settings for analysis services tabular 2012 2014,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/choose-the-right-hardware-for-analysis-services-tabular/,2024-04-14,choose the right hardware for analysis services tabular,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/parameters-in-dax-measures/,2024-04-14,parameters in dax measures,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/data-model-size-with-vertipaq-analyzer/,2024-04-14,data model size with vertipaq analyzer,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/understanding-allselected/,2024-04-14,understanding allselected,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/costs-of-relationships-in-dax/,2024-04-14,costs of relationships in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/calculated-columns-and-measures-in-dax/,2024-04-14,calculated columns and measures in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/row-context-and-filter-context-in-dax/,2024-04-14,row context and filter context in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/understanding-context-transition/,2024-04-14,understanding context transition,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/optimize-hardware-settings-for-analysis-services-tabular/,2024-04-14,optimize hardware settings for analysis services tabular,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/transition-matrix-using-calculated-tables/,2024-04-14,transition matrix using calculated tables,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/apply-and-logic-to-multiple-selection-in-dax-slicer/,2024-04-14,apply and logic to multiple selection in dax slicer,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/blank-handling-in-dax/,2024-04-14,blank handling in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/security-cost-in-analysis-services-tabular/,2024-04-14,security cost in analysis services tabular,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/create-static-tables-in-dax-using-the-datatable-function/,2024-04-14,create static tables in dax using the datatable function,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/nested-grouping-using-groupby-vs-summarize/,2024-04-14,nested grouping using groupby vs summarize,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/the-space-report-under-the-hood/,2024-04-14,the space report under the hood,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/time-intelligence-in-power-bi-desktop/,2024-04-14,time intelligence in power bi desktop,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/filter-arguments-in-calculate/,2024-04-14,filter arguments in calculate,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/data-import-best-practices-in-power-bi/,2024-04-14,data import best practices in power bi,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/choosing-numeric-data-types-in-dax/,2024-04-14,choosing numeric data types in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/computing-new-customers-in-dax/,2024-04-14,computing new customers in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/many-to-many-relationships-in-power-bi-and-excel-2016/,2024-04-14,many to many relationships in power bi and excel 2016,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/optimizing-dax-expressions-involving-multiple-measures/,2024-04-14,optimizing dax expressions involving multiple measures,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/physical-and-virtual-relationships-in-dax/,2024-04-14,physical and virtual relationships in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/translations-in-analysis-services-2016/,2024-04-14,translations in analysis services 2016,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/dax-coding-style-using-variables/,2024-04-14,dax coding style using variables,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/tuning-query-limits-for-directquery/,2024-04-14,tuning query limits for directquery,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/adding-a-measure-to-a-tabular-model/,2024-04-14,adding a measure to a tabular model,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/using-allexcept-versus-all-and-values/,2024-04-14,using allexcept versus all and values,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/numbering-sequence-of-events-in-dax/,2024-04-14,numbering sequence of events in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/analyze-directquery-requests-using-dax-studio/,2024-04-14,analyze directquery requests using dax studio,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/analyzing-events-with-a-duration-in-dax/,2024-04-14,analyzing events with a duration in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/using-dax-editor/,2024-04-14,using dax editor,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/implement-non-visual-totals-with-power-bi-security-roles/,2024-04-14,implement non visual totals with power bi security roles,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/use-of-rankx-in-power-bi-measures/,2024-04-14,use of rankx in power bi measures,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/using-process-add-in-tabular-models/,2024-04-14,using process add in tabular models,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/compare-equivalent-periods-in-dax/,2024-04-14,compare equivalent periods in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/introducing-summarizecolumns/,2024-04-14,introducing summarizecolumns,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/propagate-filters-using-treatas-in-dax/,2024-04-14,propagate filters using treatas in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/the-in-operator-in-dax/,2024-04-14,the in operator in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/context-transition-and-expanded-tables/,2024-04-14,context transition and expanded tables,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/lookup-multiple-values-in-dax/,2024-04-14,lookup multiple values in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/filtering-tables/,2024-04-14,filtering tables,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/duplicated-names-in-dax/,2024-04-14,duplicated names in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/choosing-tier-in-azure-analysis-services/,2024-04-14,choosing tier in azure analysis services,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/how-to-compute-index-numbers-at-top-speed/,2024-04-14,how to compute index numbers at top speed,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/start-learning-dax-for-free/,2024-04-14,start learning dax for free,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/defining-variables-in-dax-queries/,2024-04-14,defining variables in dax queries,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/using-the-selectedvalue-function-in-dax/,2024-04-14,using the selectedvalue function in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/using-generate-and-row-instead-of-addcolumns-in-dax/,2024-04-14,using generate and row instead of addcolumns in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/measuring-the-dictionary-size-of-a-column-correctly/,2024-04-14,measuring the dictionary size of a column correctly,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/storage-differences-between-calculated-columns-and-calculated-tables/,2024-04-14,storage differences between calculated columns and calculated tables,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/generating-a-series-of-numbers-in-dax/,2024-04-14,generating a series of numbers in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/changing-the-culture-of-a-power-bi-desktop-file/,2024-04-14,changing the culture of a power bi desktop file,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/using-keepfilters-in-dax/,2024-04-14,using keepfilters in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/avoiding-circular-dependency-errors-in-dax/,2024-04-14,avoiding circular dependency errors in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/controlling-drillthrough-using-detail-rows-expressions-in-dax/,2024-04-14,controlling drillthrough using detail rows expressions in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/filtering-and-comparing-different-time-periods-with-power-bi/,2024-04-14,filtering and comparing different time periods with power bi,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/querying-raw-data-to-tabular/,2024-04-14,querying raw data to tabular,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/how-to-handle-blank-in-dax-measures/,2024-04-14,how to handle blank in dax measures,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/computing-same-product-sales-in-dax/,2024-04-14,computing same product sales in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/context-transition-and-filters-in-calculate/,2024-04-14,context transition and filters in calculate,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/optimizing-duplicated-dax-expressions-using-variables/,2024-04-14,optimizing duplicated dax expressions using variables,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/the-definitive-guide-to-allselected/,2024-04-14,the definitive guide to allselected,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/reference-date-table-in-dax-and-power-bi/,2024-04-14,reference date table in dax and power bi,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/managing-all-functions-in-dax-all-allselected-allnoblankrow-allexcept/,2024-04-14,managing all functions in dax all allselected allnoblankrow allexcept,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/capturing-power-bi-queries-using-dax-studio/,2024-04-14,capturing power bi queries using dax studio,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/expanded-tables-in-dax/,2024-04-14,expanded tables in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/using-or-conditions-between-slicers-in-dax/,2024-04-14,using or conditions between slicers in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/using-combinevalues-to-optimize-directquery-performance/,2024-04-14,using combinevalues to optimize directquery performance,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/optimizing-if-conditions-using-variables/,2024-04-14,optimizing if conditions using variables,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/optimizing-mutually-exclusive-calculations/,2024-04-14,optimizing mutually exclusive calculations,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/creating-table-functions-in-dax-using-detailrows/,2024-04-14,creating table functions in dax using detailrows,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/power-bi-is-a-model-based-tool/,2024-04-14,power bi is a model based tool,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/applying-a-measure-filter-in-power-bi/,2024-04-14,applying a measure filter in power bi,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/side-effects-in-dax-of-the-sort-by-column-setting/,2024-04-14,side effects in dax of the sort by column setting,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/optimizing-nested-iterators-in-dax/,2024-04-14,optimizing nested iterators in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/optimizing-dax-with-cardinality-estimation-computing-working-days/,2024-04-14,optimizing dax with cardinality estimation computing working days,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/understanding-dax-auto-exist/,2024-04-14,understanding dax auto exist,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/displaying-nth-element-in-dax/,2024-04-14,displaying nth element in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/optimizing-if-and-switch-expressions-using-variables/,2024-04-14,optimizing if and switch expressions using variables,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/showing-actuals-and-forecasts-in-the-same-chart-with-power-bi/,2024-04-14,showing actuals and forecasts in the same chart with power bi,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/improving-temporal-line-charts-in-power-bi-with-dax/,2024-04-14,improving temporal line charts in power bi with dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/understanding-numeric-data-type-conversions-in-dax/,2024-04-14,understanding numeric data type conversions in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/bidirectional-relationships-and-ambiguity-in-dax/,2024-04-14,bidirectional relationships and ambiguity in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/understanding-data-lineage-in-dax/,2024-04-14,understanding data lineage in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/dax-error-messages-in-power-bi/,2024-04-14,dax error messages in power bi,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/hiding-future-dates-for-calculations-in-dax/,2024-04-14,hiding future dates for calculations in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/displaying-filter-context-in-power-bi-tooltips/,2024-04-14,displaying filter context in power bi tooltips,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/computing-running-totals-in-dax/,2024-04-14,computing running totals in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/counting-working-days-in-dax/,2024-04-14,counting working days in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/start-learning-data-modeling-for-free/,2024-04-14,start learning data modeling for free,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/semi-additive-measures-in-dax-for-power-pivot/,2024-04-14,semi additive measures in dax for power pivot,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/summing-values-for-the-total/,2024-04-14,summing values for the total,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/year-to-date-filtering-weekdays-in-dax/,2024-04-14,year to date filtering weekdays in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/automatic-time-intelligence-in-power-bi/,2024-04-14,automatic time intelligence in power bi,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/creating-a-simple-date-table-in-dax/,2024-04-14,creating a simple date table in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/table-and-column-references-using-dax-variables/,2024-04-14,table and column references using dax variables,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/mastering-dax-video-course-2nd-edition/,2024-04-14,mastering dax video course 2nd edition,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/introducing-the-power-bi-performance-analyzer/,2024-04-14,introducing the power bi performance analyzer,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/importing-performance-analyzer-data-in-dax-studio/,2024-04-14,importing performance analyzer data in dax studio,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/syncing-slicers-in-power-bi/,2024-04-14,syncing slicers in power bi,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/introducing-calculation-groups/,2024-04-14,introducing calculation groups,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/understanding-calculation-groups/,2024-04-14,understanding calculation groups,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/understanding-the-application-of-calculation-items/,2024-04-14,understanding the application of calculation items,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/understanding-calculation-group-precedence/,2024-04-14,understanding calculation group precedence,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/using-concatenatex-in-measures/,2024-04-14,using concatenatex in measures,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/filtering-the-top-3-products-for-each-category-in-power-bi/,2024-04-14,filtering the top 3 products for each category in power bi,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/blank-row-in-dax/,2024-04-14,blank row in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/creating-a-slicer-that-filters-multiple-columns-in-power-bi/,2024-04-14,creating a slicer that filters multiple columns in power bi,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/strong-and-weak-relationships-in-power-bi/,2024-04-14,strong and weak relationships in power bi,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/previous-year-up-to-a-certain-date/,2024-04-14,previous year up to a certain date,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/naming-temporary-columns-in-dax/,2024-04-14,naming temporary columns in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/showing-the-top-5-products-and-others-row/,2024-04-14,showing the top 5 products and others row,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/analyzing-distinctcount-performance-in-dax/,2024-04-14,analyzing distinctcount performance in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/comparing-dax-calculated-columns-with-power-query-computed-columns/,2024-04-14,comparing dax calculated columns with power query computed columns,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/the-importance-of-star-schemas-in-power-bi/,2024-04-14,the importance of star schemas in power bi,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/optimizing-conditions-involving-blank-values-in-dax/,2024-04-14,optimizing conditions involving blank values in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/sorting-months-in-fiscal-calendars/,2024-04-14,sorting months in fiscal calendars,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/understanding-eager-vs-strict-evaluation-in-dax/,2024-04-14,understanding eager vs strict evaluation in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/comparing-with-previous-selected-time-period-in-dax/,2024-04-14,comparing with previous selected time period in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/from-sql-to-dax-implementing-nullif-and-coalesce-in-dax/,2024-04-14,from sql to dax implementing nullif and coalesce in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/why-reports-obtained-with-analyze-in-excel-can-be-slower/,2024-04-14,why reports obtained with analyze in excel can be slower,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/computing-the-future-value-of-an-investment-based-on-compound-growth-in-dax/,2024-04-14,computing the future value of an investment based on compound growth in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/optimizing-lastnonblank-and-lastnonblankvalue-calculations/,2024-04-14,optimizing lastnonblank and lastnonblankvalue calculations,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/relationships-in-power-bi-and-tabular-models/,2024-04-14,relationships in power bi and tabular models,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/currency-conversion-in-power-bi-reports/,2024-04-14,currency conversion in power bi reports,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/controlling-format-strings-in-calculation-groups/,2024-04-14,controlling format strings in calculation groups,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/the-coalesce-function-in-dax/,2024-04-14,the coalesce function in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/obtaining-accurate-totals-in-dax/,2024-04-14,obtaining accurate totals in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/working-below-a-dax-formulas-granularity/,2024-04-14,working below a dax formulas granularity,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/applying-color-banding-by-document-number-in-power-bi/,2024-04-14,applying color banding by document number in power bi,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/highlighting-the-minimum-and-maximum-values-in-a-power-bi-matrix/,2024-04-14,highlighting the minimum and maximum values in a power bi matrix,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/avoiding-pitfalls-in-calculation-groups-precedence/,2024-04-14,avoiding pitfalls in calculation groups precedence,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/handling-customers-with-the-same-name-in-power-bi/,2024-04-14,handling customers with the same name in power bi,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/sorting-duplicated-names-in-a-level-of-a-hierarchy-with-dax/,2024-04-14,sorting duplicated names in a level of a hierarchy with dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/distinguishing-hasonevalue-from-isinscope/,2024-04-14,distinguishing hasonevalue from isinscope,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/using-userelationship-in-dax/,2024-04-14,using userelationship in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/optimizing-card-visuals-in-slow-power-bi-reports/,2024-04-14,optimizing card visuals in slow power bi reports,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/a-proposal-for-visual-calculations-in-dax/,2024-04-14,a proposal for visual calculations in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/introducing-lookupvalue/,2024-04-14,introducing lookupvalue,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/understanding-lookupvalue/,2024-04-14,understanding lookupvalue,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/mark-as-date-table/,2024-04-14,mark as date table,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/creating-kpis-in-power-bi-desktop/,2024-04-14,creating kpis in power bi desktop,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/using-calculation-groups-to-selectively-replace-measures-in-dax-expressions/,2024-04-14,using calculation groups to selectively replace measures in dax expressions,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/understanding-the-difference-between-lastdate-and-max-in-dax/,2024-04-14,understanding the difference between lastdate and max in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/set-functions-in-dax-union-intersect-and-except/,2024-04-14,set functions in dax union intersect and except,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/creating-a-simpler-and-chart-friendly-date-table-in-power-bi/,2024-04-14,creating a simpler and chart friendly date table in power bi,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/creating-a-service-principal-account-for-power-bi-api/,2024-04-14,creating a service principal account for power bi api,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/kpi-in-tabular-models-for-power-bi-and-excel/,2024-04-14,kpi in tabular models for power bi and excel,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/dynamic-format-strings-with-calculation-groups/,2024-04-14,dynamic format strings with calculation groups,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/formula-engine-and-storage-engine-in-dax/,2024-04-14,formula engine and storage engine in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/rankx-on-multiple-columns-with-dax-and-power-bi/,2024-04-14,rankx on multiple columns with dax and power bi,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/using-calculation-groups-to-switch-between-dates/,2024-04-14,using calculation groups to switch between dates,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/optimizing-memory-settings-in-analysis-services/,2024-04-14,optimizing memory settings in analysis services,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/new-composite-models-in-power-bi-a-milestone-in-business-intelligence/,2024-04-14,new composite models in power bi a milestone in business intelligence,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/filtering-the-top-products-alongside-the-other-products-in-power-bi/,2024-04-14,filtering the top products alongside the other products in power bi,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/introducing-define-column-in-dax-queries/,2024-04-14,introducing define column in dax queries,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/introducing-define-table-in-dax-queries/,2024-04-14,introducing define table in dax queries,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/letter-case-sensitivity-in-dax-power-bi-and-analysis-services/,2024-04-14,letter case sensitivity in dax power bi and analysis services,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/show-previous-6-months-of-data-from-single-slicer-selection/,2024-04-14,show previous 6 months of data from single slicer selection,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/power-bi-star-schema-or-single-table/,2024-04-14,power bi star schema or single table,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/when-to-use-keepfilters-over-iterators/,2024-04-14,when to use keepfilters over iterators,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/specifying-multiple-filter-conditions-in-calculate/,2024-04-14,specifying multiple filter conditions in calculate,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/development-tools-for-tabular-models-in-2021/,2024-04-14,development tools for tabular models in 2021,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/how-to-return-0-instead-of-blank-in-dax/,2024-04-14,how to return 0 instead of blank in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/customizing-default-values-for-each-user-in-power-bi-reports/,2024-04-14,customizing default values for each user in power bi reports,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/choosing-between-date-or-integer-to-represent-dates-in-power-bi-and-tabular/,2024-04-14,choosing between date or integer to represent dates in power bi and tabular,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/launching-the-mastering-tabular-video-course/,2024-04-14,launching the mastering tabular video course,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/using-contains-in-dax/,2024-04-14,using contains in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/implementing-real-time-updates-in-power-bi-using-push-datasets-instead-of-directquery/,2024-04-14,implementing real time updates in power bi using push datasets instead of directquery,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/using-allexcept-vs-all-values/,2024-04-14,using allexcept vs all values,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/deep-dive-into-measure-filters-in-power-bi-desktop/,2024-04-14,deep dive into measure filters in power bi desktop,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/200th-sqlbi-newsletter/,2024-04-14,200th sqlbi newsletter,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/controlling-drillthrough-in-excel-pivottables-connected-to-power-bi-or-analysis-services/,2024-04-14,controlling drillthrough in excel pivottables connected to power bi or analysis services,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/how-to-enable-the-single-value-option-in-a-power-bi-slicer/,2024-04-14,how to enable the single value option in a power bi slicer,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/header-detail-vs-star-schema-models-in-tabular-and-power-bi/,2024-04-14,header detail vs star schema models in tabular and power bi,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/creating-real-time-dashboards-in-power-bi-with-push-datasets/,2024-04-14,creating real time dashboards in power bi with push datasets,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/analyzing-the-parallelism-of-storage-engine-operations-in-dax-studio/,2024-04-14,analyzing the parallelism of storage engine operations in dax studio,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/different-options-to-model-many-to-many-relationships-in-power-bi-and-tabular/,2024-04-14,different options to model many to many relationships in power bi and tabular,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/introducing-wholesale-and-retail-execution-in-composite-models/,2024-04-14,introducing wholesale and retail execution in composite models,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/understanding-the-interactions-between-composite-models-and-calculation-groups/,2024-04-14,understanding the interactions between composite models and calculation groups,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/using-allselected-in-composite-models/,2024-04-14,using allselected in composite models,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/scripting-syntax-for-calculation-groups/,2024-04-14,scripting syntax for calculation groups,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/differences-between-int-and-convert-in-dax/,2024-04-14,differences between int and convert in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/understanding-the-in-operator-in-dax/,2024-04-14,understanding the in operator in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/how-to-return-blank-instead-of-zero/,2024-04-14,how to return blank instead of zero,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/row-context-in-dax/,2024-04-14,row context in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/filter-context-in-dax/,2024-04-14,filter context in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/introducing-calculate-in-dax/,2024-04-14,introducing calculate in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/understanding-context-transition-in-dax/,2024-04-14,understanding context transition in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/fields-parameters-in-power-bi/,2024-04-14,fields parameters in power bi,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/using-related-and-relatedtable-in-dax/,2024-04-14,using related and relatedtable in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/using-keepfilters-in-dax-updated/,2024-04-14,using keepfilters in dax updated,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/understanding-the-optimization-of-switch/,2024-04-14,understanding the optimization of switch,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/rolling-average-with-working-days-in-dax/,2024-04-14,rolling average with working days in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/hiding-measures-by-using-object-level-security-in-power-bi/,2024-04-14,hiding measures by using object level security in power bi,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/introducing-allselected-in-dax/,2024-04-14,introducing allselected in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/variables-in-dax/,2024-04-14,variables in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/computing-sales-to-specific-customers-before-and-after-a-time-period/,2024-04-14,computing sales to specific customers before and after a time period,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/introducing-rankx-in-dax/,2024-04-14,introducing rankx in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/using-cross-highlight-with-order-and-delivery-dates-in-power-bi/,2024-04-14,using cross highlight with order and delivery dates in power bi,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/why-power-bi-totals-might-seem-inaccurate/,2024-04-14,why power bi totals might seem inaccurate,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/introducing-horizontal-fusion-in-dax/,2024-04-14,introducing horizontal fusion in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/bravo-for-power-bi-1-0-released/,2024-04-14,bravo for power bi 1 0 released,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/welcome-to-sqlbi-plus/,2024-04-14,welcome to sqlbi plus,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/solving-errors-in-calculate-filter-arguments/,2024-04-14,solving errors in calculate filter arguments,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/customizing-date-and-time-intelligence-templates-in-bravo-for-power-bi/,2024-04-14,customizing date and time intelligence templates in bravo for power bi,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/debugging-dax-measures-in-power-bi/,2024-04-14,debugging dax measures in power bi,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/introducing-window-functions-in-dax/,2024-04-14,introducing window functions in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/understanding-blank-row-and-limited-relationships/,2024-04-14,understanding blank row and limited relationships,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/using-calculation-groups-or-many-to-many-relationships-for-time-intelligence-selection/,2024-04-14,using calculation groups or many to many relationships for time intelligence selection,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/understanding-group-by-columns-in-power-bi/,2024-04-14,understanding group by columns in power bi,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/navigating-the-data-ecosystem-a-revolutionary-analytics-architecture/,2024-04-14,navigating the data ecosystem a revolutionary analytics architecture,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/optimizing-fusion-optimization-for-dax-measures/,2024-04-14,optimizing fusion optimization for dax measures,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/optimizing-switch-on-slicer-selection-with-group-by-columns/,2024-04-14,optimizing switch on slicer selection with group by columns,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/rounding-errors-with-different-data-types-in-dax/,2024-04-14,rounding errors with different data types in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/optimizing-dax-second-edition/,2024-04-14,optimizing dax second edition,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/optimizing-text-search-in-dax/,2024-04-14,optimizing text search in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/introducing-dynamic-format-strings-for-dax-measures/,2024-04-14,introducing dynamic format strings for dax measures,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/implementing-linear-regression-in-power-bi/,2024-04-14,implementing linear regression in power bi,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/introducing-the-rank-window-function-in-dax/,2024-04-14,introducing the rank window function in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/reading-active-power-bi-security-roles-in-dax/,2024-04-14,reading active power bi security roles in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/filtering-calculation-items-in-a-slicer/,2024-04-14,filtering calculation items in a slicer,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/comparing-different-school-terms-in-power-bi/,2024-04-14,comparing different school terms in power bi,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/managing-hierarchical-organizations-in-power-bi-security-roles/,2024-04-14,managing hierarchical organizations in power bi security roles,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/differences-between-groupby-and-summarize/,2024-04-14,differences between groupby and summarize,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/using-dax-to-control-a-chart-range-in-power-bi/,2024-04-14,using dax to control a chart range in power bi,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/finding-products-without-sales-by-using-dax/,2024-04-14,finding products without sales by using dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/using-field-parameters-and-calculation-groups-for-conditional-formatting/,2024-04-14,using field parameters and calculation groups for conditional formatting,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/optimizing-callbacks-in-a-sumx-iterator/,2024-04-14,optimizing callbacks in a sumx iterator,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/computing-accurate-percentages-with-row-level-security-in-power-bi/,2024-04-14,computing accurate percentages with row level security in power bi,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/computing-mtd-qtd-ytd-in-power-bi-for-the-current-period/,2024-04-14,computing mtd qtd ytd in power bi for the current period,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/preparing-a-data-model-for-sankey-charts-in-power-bi/,2024-04-14,preparing a data model for sankey charts in power bi,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/using-join-functions-in-dax/,2024-04-14,using join functions in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/replacing-relationships-with-join-functions-in-dax/,2024-04-14,replacing relationships with join functions in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/using-tuple-syntax-in-dax-expressions/,2024-04-14,using tuple syntax in dax expressions,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/differences-between-dateadd-and-parallelperiod-in-dax/,2024-04-14,differences between dateadd and parallelperiod in dax,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/optimizing-time-intelligence-in-directquery/,2024-04-14,optimizing time intelligence in directquery,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/improving-data-labels-with-format-strings/,2024-04-14,improving data labels with format strings,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/dax-limitations-with-inactive-relationships-and-row-level-security-rls/,2024-04-14,dax limitations with inactive relationships and row level security rls,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/introducing-visual-shape-for-visual-calculations-in-power-bi/,2024-04-14,introducing visual shape for visual calculations in power bi,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/revolutionizing-power-bi-introducing-the-ultimate-formula-language/,2024-04-14,revolutionizing power bi introducing the ultimate formula language,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/using-scatterplots-to-find-details-in-reports/,2024-04-14,using scatterplots to find details in reports,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/introducing-expand-and-collapse-for-visual-calculations/,2024-04-14,introducing expand and collapse for visual calculations,blog
-www.sqlbi.com,https://www.sqlbi.com/articles/using-expand-and-collapse-in-visual-calculations/,2024-04-14,using expand and collapse in visual calculations,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/datetool-dimension-an-alternative-time-intelligence-implementation/,2024-04-16,datetool dimension an alternative time intelligence implementation,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/keepfilters-a-new-dax-feature-to-correctly-compute-over-arbitrary-shaped-sets/,2024-04-16,keepfilters a new dax feature to correctly compute over arbitrary shaped sets,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/creating-a-copy-of-a-bism-tabular-project/,2024-04-16,creating a copy of a bism tabular project,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/automate-powerpivot-data-refresh-in-excel/,2024-04-16,automate powerpivot data refresh in excel,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/separate-date-and-time-in-powerpivot-and-bism-tabular/,2024-04-16,separate date and time in powerpivot and bism tabular,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/drillthrough-for-bism-tabular-and-attribute-keys-in-ssas-denali/,2024-04-16,drillthrough for bism tabular and attribute keys in ssas denali,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/converting-mdx-to-dax-first-steps/,2024-04-16,converting mdx to dax first steps,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/videos-available-from-sqlbits/,2024-04-16,videos available from sqlbits,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/sorting-dates-columns-in-powerpivot-v2-and-bism-tabular/,2024-04-16,sorting dates columns in powerpivot v2 and bism tabular,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/ratio-over-subtotals-with-normalized-tables-in-dax/,2024-04-16,ratio over subtotals with normalized tables in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/from-sql-to-dax-projection/,2024-04-16,from sql to dax projection,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/from-sql-to-dax-string-comparison/,2024-04-16,from sql to dax string comparison,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/understanding-circular-dependencies/,2024-04-16,understanding circular dependencies,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/execute-dax-queries-through-ole-db-and-adomd-net/,2024-04-16,execute dax queries through ole db and adomd net,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/budget-and-other-data-at-different-granularities-in-powerpivot/,2024-04-16,budget and other data at different granularities in powerpivot,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/optimizing-high-cardinality-columns-in-vertipaq/,2024-04-16,optimizing high cardinality columns in vertipaq,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/memory-settings-in-tabular-instances-of-analysis-services/,2024-04-16,memory settings in tabular instances of analysis services,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/incremental-processing-in-tabular-using-process-add/,2024-04-16,incremental processing in tabular using process add,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/clever-hierarchy-handling-in-dax/,2024-04-16,clever hierarchy handling in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/order-of-evaluation-in-calculate-parameters/,2024-04-16,order of evaluation in calculate parameters,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/optimize-many-to-many-calculation-in-dax-with-summarize-and-cross-table-filtering/,2024-04-16,optimize many to many calculation in dax with summarize and cross table filtering,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/best-practices-using-summarize-and-addcolumns/,2024-04-16,best practices using summarize and addcolumns,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/parallelize-processadd-with-amo/,2024-04-16,parallelize processadd with amo,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/usage-of-dates-argument-in-a-row-context/,2024-04-16,usage of dates argument in a row context,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/rules-for-dax-code-formatting/,2024-04-16,rules for dax code formatting,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/upgrading-powerpivot-workbooks-from-excel-2010-to-excel-2013/,2024-04-16,upgrading powerpivot workbooks from excel 2010 to excel 2013,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/linkback-tables-in-powerpivot-for-excel-2013/,2024-04-16,linkback tables in powerpivot for excel 2013,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/import-data-from-tabular-model-in-excel-using-a-dax-query/,2024-04-16,import data from tabular model in excel using a dax query,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/week-based-time-intelligence-in-dax/,2024-04-16,week based time intelligence in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/checklist-for-memory-optimizations-in-powerpivot-and-tabular-models/,2024-04-16,checklist for memory optimizations in powerpivot and tabular models,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/grouping-transactions-by-age-of-customers-in-dax/,2024-04-16,grouping transactions by age of customers in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/organizing-measures-and-attributes-in-folders-with-tabular/,2024-04-16,organizing measures and attributes in folders with tabular,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/inventory-in-power-pivot-and-dax-snapshot-vs-dynamic-calculation/,2024-04-16,inventory in power pivot and dax snapshot vs dynamic calculation,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/yearly-customer-historical-sales-in-dax/,2024-04-16,yearly customer historical sales in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/handling-wrong-or-missing-dates-in-tabular/,2024-04-16,handling wrong or missing dates in tabular,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/userelationship-in-calculated-columns/,2024-04-16,userelationship in calculated columns,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/semi-additive-measures-in-dax/,2024-04-16,semi additive measures in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/natural-hierarchies-in-power-pivot-and-tabular/,2024-04-16,natural hierarchies in power pivot and tabular,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/last-process-date-in-ssas-tabular/,2024-04-16,last process date in ssas tabular,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/filter-vs-calculatetable-optimization-using-cardinality-estimation/,2024-04-16,filter vs calculatetable optimization using cardinality estimation,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/check-empty-table-condition-with-dax/,2024-04-16,check empty table condition with dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/prepare-data-for-power-view-forecasting-in-power-bi/,2024-04-16,prepare data for power view forecasting in power bi,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/rolling-12-months-average-in-dax/,2024-04-16,rolling 12 months average in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/divide-performance/,2024-04-16,divide performance,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/from-sql-to-dax-filtering-data/,2024-04-16,from sql to dax filtering data,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/from-sql-to-dax-grouping-data/,2024-04-16,from sql to dax grouping data,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/autoexist-and-normalization/,2024-04-16,autoexist and normalization,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/all-the-secrets-of-summarize/,2024-04-16,all the secrets of summarize,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/tools-for-dax-and-tabular-developers/,2024-04-16,tools for dax and tabular developers,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/frictionless-renaming-in-tabular-models-with-analysis-services/,2024-04-16,frictionless renaming in tabular models with analysis services,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/custom-year-over-year-calculation-in-dax/,2024-04-16,custom year over year calculation in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/alternative-use-of-firstnonblank-and-lastnonblank/,2024-04-16,alternative use of firstnonblank and lastnonblank,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/from-sql-to-dax-in-and-exists/,2024-04-16,from sql to dax in and exists,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/variables-in-dax-2015/,2024-04-16,variables in dax 2015,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/from-sql-to-dax-joining-tables/,2024-04-16,from sql to dax joining tables,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/heap-memory-settings-for-analysis-services-tabular-2012-2014/,2024-04-16,heap memory settings for analysis services tabular 2012 2014,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/choose-the-right-hardware-for-analysis-services-tabular/,2024-04-16,choose the right hardware for analysis services tabular,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/parameters-in-dax-measures/,2024-04-16,parameters in dax measures,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/data-model-size-with-vertipaq-analyzer/,2024-04-16,data model size with vertipaq analyzer,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/understanding-allselected/,2024-04-16,understanding allselected,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/costs-of-relationships-in-dax/,2024-04-16,costs of relationships in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/calculated-columns-and-measures-in-dax/,2024-04-16,calculated columns and measures in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/row-context-and-filter-context-in-dax/,2024-04-16,row context and filter context in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/understanding-context-transition/,2024-04-16,understanding context transition,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/optimize-hardware-settings-for-analysis-services-tabular/,2024-04-16,optimize hardware settings for analysis services tabular,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/transition-matrix-using-calculated-tables/,2024-04-16,transition matrix using calculated tables,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/apply-and-logic-to-multiple-selection-in-dax-slicer/,2024-04-16,apply and logic to multiple selection in dax slicer,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/blank-handling-in-dax/,2024-04-16,blank handling in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/security-cost-in-analysis-services-tabular/,2024-04-16,security cost in analysis services tabular,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/create-static-tables-in-dax-using-the-datatable-function/,2024-04-16,create static tables in dax using the datatable function,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/nested-grouping-using-groupby-vs-summarize/,2024-04-16,nested grouping using groupby vs summarize,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/the-space-report-under-the-hood/,2024-04-16,the space report under the hood,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/time-intelligence-in-power-bi-desktop/,2024-04-16,time intelligence in power bi desktop,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/filter-arguments-in-calculate/,2024-04-16,filter arguments in calculate,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/data-import-best-practices-in-power-bi/,2024-04-16,data import best practices in power bi,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/choosing-numeric-data-types-in-dax/,2024-04-16,choosing numeric data types in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/computing-new-customers-in-dax/,2024-04-16,computing new customers in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/many-to-many-relationships-in-power-bi-and-excel-2016/,2024-04-16,many to many relationships in power bi and excel 2016,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/optimizing-dax-expressions-involving-multiple-measures/,2024-04-16,optimizing dax expressions involving multiple measures,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/physical-and-virtual-relationships-in-dax/,2024-04-16,physical and virtual relationships in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/translations-in-analysis-services-2016/,2024-04-16,translations in analysis services 2016,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/dax-coding-style-using-variables/,2024-04-16,dax coding style using variables,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/tuning-query-limits-for-directquery/,2024-04-16,tuning query limits for directquery,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/adding-a-measure-to-a-tabular-model/,2024-04-16,adding a measure to a tabular model,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/using-allexcept-versus-all-and-values/,2024-04-16,using allexcept versus all and values,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/numbering-sequence-of-events-in-dax/,2024-04-16,numbering sequence of events in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/analyze-directquery-requests-using-dax-studio/,2024-04-16,analyze directquery requests using dax studio,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/analyzing-events-with-a-duration-in-dax/,2024-04-16,analyzing events with a duration in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/using-dax-editor/,2024-04-16,using dax editor,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/implement-non-visual-totals-with-power-bi-security-roles/,2024-04-16,implement non visual totals with power bi security roles,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/use-of-rankx-in-power-bi-measures/,2024-04-16,use of rankx in power bi measures,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/using-process-add-in-tabular-models/,2024-04-16,using process add in tabular models,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/compare-equivalent-periods-in-dax/,2024-04-16,compare equivalent periods in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/introducing-summarizecolumns/,2024-04-16,introducing summarizecolumns,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/propagate-filters-using-treatas-in-dax/,2024-04-16,propagate filters using treatas in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/the-in-operator-in-dax/,2024-04-16,the in operator in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/context-transition-and-expanded-tables/,2024-04-16,context transition and expanded tables,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/lookup-multiple-values-in-dax/,2024-04-16,lookup multiple values in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/filtering-tables/,2024-04-16,filtering tables,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/duplicated-names-in-dax/,2024-04-16,duplicated names in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/choosing-tier-in-azure-analysis-services/,2024-04-16,choosing tier in azure analysis services,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/how-to-compute-index-numbers-at-top-speed/,2024-04-16,how to compute index numbers at top speed,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/start-learning-dax-for-free/,2024-04-16,start learning dax for free,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/defining-variables-in-dax-queries/,2024-04-16,defining variables in dax queries,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/using-the-selectedvalue-function-in-dax/,2024-04-16,using the selectedvalue function in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/using-generate-and-row-instead-of-addcolumns-in-dax/,2024-04-16,using generate and row instead of addcolumns in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/measuring-the-dictionary-size-of-a-column-correctly/,2024-04-16,measuring the dictionary size of a column correctly,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/storage-differences-between-calculated-columns-and-calculated-tables/,2024-04-16,storage differences between calculated columns and calculated tables,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/generating-a-series-of-numbers-in-dax/,2024-04-16,generating a series of numbers in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/changing-the-culture-of-a-power-bi-desktop-file/,2024-04-16,changing the culture of a power bi desktop file,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/using-keepfilters-in-dax/,2024-04-16,using keepfilters in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/avoiding-circular-dependency-errors-in-dax/,2024-04-16,avoiding circular dependency errors in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/controlling-drillthrough-using-detail-rows-expressions-in-dax/,2024-04-16,controlling drillthrough using detail rows expressions in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/filtering-and-comparing-different-time-periods-with-power-bi/,2024-04-16,filtering and comparing different time periods with power bi,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/querying-raw-data-to-tabular/,2024-04-16,querying raw data to tabular,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/how-to-handle-blank-in-dax-measures/,2024-04-16,how to handle blank in dax measures,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/computing-same-product-sales-in-dax/,2024-04-16,computing same product sales in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/context-transition-and-filters-in-calculate/,2024-04-16,context transition and filters in calculate,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/optimizing-duplicated-dax-expressions-using-variables/,2024-04-16,optimizing duplicated dax expressions using variables,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/the-definitive-guide-to-allselected/,2024-04-16,the definitive guide to allselected,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/reference-date-table-in-dax-and-power-bi/,2024-04-16,reference date table in dax and power bi,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/managing-all-functions-in-dax-all-allselected-allnoblankrow-allexcept/,2024-04-16,managing all functions in dax all allselected allnoblankrow allexcept,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/capturing-power-bi-queries-using-dax-studio/,2024-04-16,capturing power bi queries using dax studio,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/expanded-tables-in-dax/,2024-04-16,expanded tables in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/using-or-conditions-between-slicers-in-dax/,2024-04-16,using or conditions between slicers in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/using-combinevalues-to-optimize-directquery-performance/,2024-04-16,using combinevalues to optimize directquery performance,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/optimizing-if-conditions-using-variables/,2024-04-16,optimizing if conditions using variables,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/optimizing-mutually-exclusive-calculations/,2024-04-16,optimizing mutually exclusive calculations,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/creating-table-functions-in-dax-using-detailrows/,2024-04-16,creating table functions in dax using detailrows,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/power-bi-is-a-model-based-tool/,2024-04-16,power bi is a model based tool,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/applying-a-measure-filter-in-power-bi/,2024-04-16,applying a measure filter in power bi,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/side-effects-in-dax-of-the-sort-by-column-setting/,2024-04-16,side effects in dax of the sort by column setting,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/optimizing-nested-iterators-in-dax/,2024-04-16,optimizing nested iterators in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/optimizing-dax-with-cardinality-estimation-computing-working-days/,2024-04-16,optimizing dax with cardinality estimation computing working days,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/understanding-dax-auto-exist/,2024-04-16,understanding dax auto exist,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/displaying-nth-element-in-dax/,2024-04-16,displaying nth element in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/optimizing-if-and-switch-expressions-using-variables/,2024-04-16,optimizing if and switch expressions using variables,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/showing-actuals-and-forecasts-in-the-same-chart-with-power-bi/,2024-04-16,showing actuals and forecasts in the same chart with power bi,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/improving-temporal-line-charts-in-power-bi-with-dax/,2024-04-16,improving temporal line charts in power bi with dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/understanding-numeric-data-type-conversions-in-dax/,2024-04-16,understanding numeric data type conversions in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/bidirectional-relationships-and-ambiguity-in-dax/,2024-04-16,bidirectional relationships and ambiguity in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/understanding-data-lineage-in-dax/,2024-04-16,understanding data lineage in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/dax-error-messages-in-power-bi/,2024-04-16,dax error messages in power bi,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/hiding-future-dates-for-calculations-in-dax/,2024-04-16,hiding future dates for calculations in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/displaying-filter-context-in-power-bi-tooltips/,2024-04-16,displaying filter context in power bi tooltips,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/computing-running-totals-in-dax/,2024-04-16,computing running totals in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/counting-working-days-in-dax/,2024-04-16,counting working days in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/start-learning-data-modeling-for-free/,2024-04-16,start learning data modeling for free,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/semi-additive-measures-in-dax-for-power-pivot/,2024-04-16,semi additive measures in dax for power pivot,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/summing-values-for-the-total/,2024-04-16,summing values for the total,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/year-to-date-filtering-weekdays-in-dax/,2024-04-16,year to date filtering weekdays in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/automatic-time-intelligence-in-power-bi/,2024-04-16,automatic time intelligence in power bi,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/creating-a-simple-date-table-in-dax/,2024-04-16,creating a simple date table in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/table-and-column-references-using-dax-variables/,2024-04-16,table and column references using dax variables,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/mastering-dax-video-course-2nd-edition/,2024-04-16,mastering dax video course 2nd edition,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/introducing-the-power-bi-performance-analyzer/,2024-04-16,introducing the power bi performance analyzer,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/importing-performance-analyzer-data-in-dax-studio/,2024-04-16,importing performance analyzer data in dax studio,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/syncing-slicers-in-power-bi/,2024-04-16,syncing slicers in power bi,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/introducing-calculation-groups/,2024-04-16,introducing calculation groups,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/understanding-calculation-groups/,2024-04-16,understanding calculation groups,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/understanding-the-application-of-calculation-items/,2024-04-16,understanding the application of calculation items,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/understanding-calculation-group-precedence/,2024-04-16,understanding calculation group precedence,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/using-concatenatex-in-measures/,2024-04-16,using concatenatex in measures,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/filtering-the-top-3-products-for-each-category-in-power-bi/,2024-04-16,filtering the top 3 products for each category in power bi,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/blank-row-in-dax/,2024-04-16,blank row in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/creating-a-slicer-that-filters-multiple-columns-in-power-bi/,2024-04-16,creating a slicer that filters multiple columns in power bi,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/strong-and-weak-relationships-in-power-bi/,2024-04-16,strong and weak relationships in power bi,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/previous-year-up-to-a-certain-date/,2024-04-16,previous year up to a certain date,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/naming-temporary-columns-in-dax/,2024-04-16,naming temporary columns in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/showing-the-top-5-products-and-others-row/,2024-04-16,showing the top 5 products and others row,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/analyzing-distinctcount-performance-in-dax/,2024-04-16,analyzing distinctcount performance in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/comparing-dax-calculated-columns-with-power-query-computed-columns/,2024-04-16,comparing dax calculated columns with power query computed columns,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/the-importance-of-star-schemas-in-power-bi/,2024-04-16,the importance of star schemas in power bi,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/optimizing-conditions-involving-blank-values-in-dax/,2024-04-16,optimizing conditions involving blank values in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/sorting-months-in-fiscal-calendars/,2024-04-16,sorting months in fiscal calendars,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/understanding-eager-vs-strict-evaluation-in-dax/,2024-04-16,understanding eager vs strict evaluation in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/comparing-with-previous-selected-time-period-in-dax/,2024-04-16,comparing with previous selected time period in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/from-sql-to-dax-implementing-nullif-and-coalesce-in-dax/,2024-04-16,from sql to dax implementing nullif and coalesce in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/why-reports-obtained-with-analyze-in-excel-can-be-slower/,2024-04-16,why reports obtained with analyze in excel can be slower,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/computing-the-future-value-of-an-investment-based-on-compound-growth-in-dax/,2024-04-16,computing the future value of an investment based on compound growth in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/optimizing-lastnonblank-and-lastnonblankvalue-calculations/,2024-04-16,optimizing lastnonblank and lastnonblankvalue calculations,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/relationships-in-power-bi-and-tabular-models/,2024-04-16,relationships in power bi and tabular models,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/currency-conversion-in-power-bi-reports/,2024-04-16,currency conversion in power bi reports,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/controlling-format-strings-in-calculation-groups/,2024-04-16,controlling format strings in calculation groups,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/the-coalesce-function-in-dax/,2024-04-16,the coalesce function in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/obtaining-accurate-totals-in-dax/,2024-04-16,obtaining accurate totals in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/working-below-a-dax-formulas-granularity/,2024-04-16,working below a dax formulas granularity,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/applying-color-banding-by-document-number-in-power-bi/,2024-04-16,applying color banding by document number in power bi,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/highlighting-the-minimum-and-maximum-values-in-a-power-bi-matrix/,2024-04-16,highlighting the minimum and maximum values in a power bi matrix,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/avoiding-pitfalls-in-calculation-groups-precedence/,2024-04-16,avoiding pitfalls in calculation groups precedence,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/handling-customers-with-the-same-name-in-power-bi/,2024-04-16,handling customers with the same name in power bi,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/sorting-duplicated-names-in-a-level-of-a-hierarchy-with-dax/,2024-04-16,sorting duplicated names in a level of a hierarchy with dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/distinguishing-hasonevalue-from-isinscope/,2024-04-16,distinguishing hasonevalue from isinscope,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/using-userelationship-in-dax/,2024-04-16,using userelationship in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/optimizing-card-visuals-in-slow-power-bi-reports/,2024-04-16,optimizing card visuals in slow power bi reports,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/a-proposal-for-visual-calculations-in-dax/,2024-04-16,a proposal for visual calculations in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/introducing-lookupvalue/,2024-04-16,introducing lookupvalue,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/understanding-lookupvalue/,2024-04-16,understanding lookupvalue,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/mark-as-date-table/,2024-04-16,mark as date table,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/creating-kpis-in-power-bi-desktop/,2024-04-16,creating kpis in power bi desktop,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/using-calculation-groups-to-selectively-replace-measures-in-dax-expressions/,2024-04-16,using calculation groups to selectively replace measures in dax expressions,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/understanding-the-difference-between-lastdate-and-max-in-dax/,2024-04-16,understanding the difference between lastdate and max in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/set-functions-in-dax-union-intersect-and-except/,2024-04-16,set functions in dax union intersect and except,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/creating-a-simpler-and-chart-friendly-date-table-in-power-bi/,2024-04-16,creating a simpler and chart friendly date table in power bi,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/creating-a-service-principal-account-for-power-bi-api/,2024-04-16,creating a service principal account for power bi api,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/kpi-in-tabular-models-for-power-bi-and-excel/,2024-04-16,kpi in tabular models for power bi and excel,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/dynamic-format-strings-with-calculation-groups/,2024-04-16,dynamic format strings with calculation groups,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/formula-engine-and-storage-engine-in-dax/,2024-04-16,formula engine and storage engine in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/rankx-on-multiple-columns-with-dax-and-power-bi/,2024-04-16,rankx on multiple columns with dax and power bi,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/using-calculation-groups-to-switch-between-dates/,2024-04-16,using calculation groups to switch between dates,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/optimizing-memory-settings-in-analysis-services/,2024-04-16,optimizing memory settings in analysis services,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/new-composite-models-in-power-bi-a-milestone-in-business-intelligence/,2024-04-16,new composite models in power bi a milestone in business intelligence,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/filtering-the-top-products-alongside-the-other-products-in-power-bi/,2024-04-16,filtering the top products alongside the other products in power bi,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/introducing-define-column-in-dax-queries/,2024-04-16,introducing define column in dax queries,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/introducing-define-table-in-dax-queries/,2024-04-16,introducing define table in dax queries,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/letter-case-sensitivity-in-dax-power-bi-and-analysis-services/,2024-04-16,letter case sensitivity in dax power bi and analysis services,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/show-previous-6-months-of-data-from-single-slicer-selection/,2024-04-16,show previous 6 months of data from single slicer selection,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/power-bi-star-schema-or-single-table/,2024-04-16,power bi star schema or single table,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/when-to-use-keepfilters-over-iterators/,2024-04-16,when to use keepfilters over iterators,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/specifying-multiple-filter-conditions-in-calculate/,2024-04-16,specifying multiple filter conditions in calculate,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/development-tools-for-tabular-models-in-2021/,2024-04-16,development tools for tabular models in 2021,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/how-to-return-0-instead-of-blank-in-dax/,2024-04-16,how to return 0 instead of blank in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/customizing-default-values-for-each-user-in-power-bi-reports/,2024-04-16,customizing default values for each user in power bi reports,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/choosing-between-date-or-integer-to-represent-dates-in-power-bi-and-tabular/,2024-04-16,choosing between date or integer to represent dates in power bi and tabular,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/launching-the-mastering-tabular-video-course/,2024-04-16,launching the mastering tabular video course,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/using-contains-in-dax/,2024-04-16,using contains in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/implementing-real-time-updates-in-power-bi-using-push-datasets-instead-of-directquery/,2024-04-16,implementing real time updates in power bi using push datasets instead of directquery,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/using-allexcept-vs-all-values/,2024-04-16,using allexcept vs all values,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/deep-dive-into-measure-filters-in-power-bi-desktop/,2024-04-16,deep dive into measure filters in power bi desktop,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/200th-sqlbi-newsletter/,2024-04-16,200th sqlbi newsletter,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/controlling-drillthrough-in-excel-pivottables-connected-to-power-bi-or-analysis-services/,2024-04-16,controlling drillthrough in excel pivottables connected to power bi or analysis services,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/how-to-enable-the-single-value-option-in-a-power-bi-slicer/,2024-04-16,how to enable the single value option in a power bi slicer,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/header-detail-vs-star-schema-models-in-tabular-and-power-bi/,2024-04-16,header detail vs star schema models in tabular and power bi,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/creating-real-time-dashboards-in-power-bi-with-push-datasets/,2024-04-16,creating real time dashboards in power bi with push datasets,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/analyzing-the-parallelism-of-storage-engine-operations-in-dax-studio/,2024-04-16,analyzing the parallelism of storage engine operations in dax studio,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/different-options-to-model-many-to-many-relationships-in-power-bi-and-tabular/,2024-04-16,different options to model many to many relationships in power bi and tabular,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/introducing-wholesale-and-retail-execution-in-composite-models/,2024-04-16,introducing wholesale and retail execution in composite models,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/understanding-the-interactions-between-composite-models-and-calculation-groups/,2024-04-16,understanding the interactions between composite models and calculation groups,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/using-allselected-in-composite-models/,2024-04-16,using allselected in composite models,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/scripting-syntax-for-calculation-groups/,2024-04-16,scripting syntax for calculation groups,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/differences-between-int-and-convert-in-dax/,2024-04-16,differences between int and convert in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/understanding-the-in-operator-in-dax/,2024-04-16,understanding the in operator in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/how-to-return-blank-instead-of-zero/,2024-04-16,how to return blank instead of zero,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/row-context-in-dax/,2024-04-16,row context in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/filter-context-in-dax/,2024-04-16,filter context in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/introducing-calculate-in-dax/,2024-04-16,introducing calculate in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/understanding-context-transition-in-dax/,2024-04-16,understanding context transition in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/fields-parameters-in-power-bi/,2024-04-16,fields parameters in power bi,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/using-related-and-relatedtable-in-dax/,2024-04-16,using related and relatedtable in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/using-keepfilters-in-dax-updated/,2024-04-16,using keepfilters in dax updated,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/understanding-the-optimization-of-switch/,2024-04-16,understanding the optimization of switch,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/rolling-average-with-working-days-in-dax/,2024-04-16,rolling average with working days in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/hiding-measures-by-using-object-level-security-in-power-bi/,2024-04-16,hiding measures by using object level security in power bi,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/introducing-allselected-in-dax/,2024-04-16,introducing allselected in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/variables-in-dax/,2024-04-16,variables in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/computing-sales-to-specific-customers-before-and-after-a-time-period/,2024-04-16,computing sales to specific customers before and after a time period,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/introducing-rankx-in-dax/,2024-04-16,introducing rankx in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/using-cross-highlight-with-order-and-delivery-dates-in-power-bi/,2024-04-16,using cross highlight with order and delivery dates in power bi,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/why-power-bi-totals-might-seem-inaccurate/,2024-04-16,why power bi totals might seem inaccurate,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/introducing-horizontal-fusion-in-dax/,2024-04-16,introducing horizontal fusion in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/bravo-for-power-bi-1-0-released/,2024-04-16,bravo for power bi 1 0 released,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/welcome-to-sqlbi-plus/,2024-04-16,welcome to sqlbi plus,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/solving-errors-in-calculate-filter-arguments/,2024-04-16,solving errors in calculate filter arguments,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/customizing-date-and-time-intelligence-templates-in-bravo-for-power-bi/,2024-04-16,customizing date and time intelligence templates in bravo for power bi,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/debugging-dax-measures-in-power-bi/,2024-04-16,debugging dax measures in power bi,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/introducing-window-functions-in-dax/,2024-04-16,introducing window functions in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/understanding-blank-row-and-limited-relationships/,2024-04-16,understanding blank row and limited relationships,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/using-calculation-groups-or-many-to-many-relationships-for-time-intelligence-selection/,2024-04-16,using calculation groups or many to many relationships for time intelligence selection,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/understanding-group-by-columns-in-power-bi/,2024-04-16,understanding group by columns in power bi,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/navigating-the-data-ecosystem-a-revolutionary-analytics-architecture/,2024-04-16,navigating the data ecosystem a revolutionary analytics architecture,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/optimizing-fusion-optimization-for-dax-measures/,2024-04-16,optimizing fusion optimization for dax measures,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/optimizing-switch-on-slicer-selection-with-group-by-columns/,2024-04-16,optimizing switch on slicer selection with group by columns,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/rounding-errors-with-different-data-types-in-dax/,2024-04-16,rounding errors with different data types in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/optimizing-dax-second-edition/,2024-04-16,optimizing dax second edition,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/optimizing-text-search-in-dax/,2024-04-16,optimizing text search in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/introducing-dynamic-format-strings-for-dax-measures/,2024-04-16,introducing dynamic format strings for dax measures,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/implementing-linear-regression-in-power-bi/,2024-04-16,implementing linear regression in power bi,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/introducing-the-rank-window-function-in-dax/,2024-04-16,introducing the rank window function in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/reading-active-power-bi-security-roles-in-dax/,2024-04-16,reading active power bi security roles in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/filtering-calculation-items-in-a-slicer/,2024-04-16,filtering calculation items in a slicer,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/comparing-different-school-terms-in-power-bi/,2024-04-16,comparing different school terms in power bi,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/managing-hierarchical-organizations-in-power-bi-security-roles/,2024-04-16,managing hierarchical organizations in power bi security roles,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/differences-between-groupby-and-summarize/,2024-04-16,differences between groupby and summarize,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/using-dax-to-control-a-chart-range-in-power-bi/,2024-04-16,using dax to control a chart range in power bi,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/finding-products-without-sales-by-using-dax/,2024-04-16,finding products without sales by using dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/using-field-parameters-and-calculation-groups-for-conditional-formatting/,2024-04-16,using field parameters and calculation groups for conditional formatting,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/optimizing-callbacks-in-a-sumx-iterator/,2024-04-16,optimizing callbacks in a sumx iterator,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/computing-accurate-percentages-with-row-level-security-in-power-bi/,2024-04-16,computing accurate percentages with row level security in power bi,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/computing-mtd-qtd-ytd-in-power-bi-for-the-current-period/,2024-04-16,computing mtd qtd ytd in power bi for the current period,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/preparing-a-data-model-for-sankey-charts-in-power-bi/,2024-04-16,preparing a data model for sankey charts in power bi,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/using-join-functions-in-dax/,2024-04-16,using join functions in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/replacing-relationships-with-join-functions-in-dax/,2024-04-16,replacing relationships with join functions in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/using-tuple-syntax-in-dax-expressions/,2024-04-16,using tuple syntax in dax expressions,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/differences-between-dateadd-and-parallelperiod-in-dax/,2024-04-16,differences between dateadd and parallelperiod in dax,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/optimizing-time-intelligence-in-directquery/,2024-04-16,optimizing time intelligence in directquery,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/improving-data-labels-with-format-strings/,2024-04-16,improving data labels with format strings,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/dax-limitations-with-inactive-relationships-and-row-level-security-rls/,2024-04-16,dax limitations with inactive relationships and row level security rls,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/introducing-visual-shape-for-visual-calculations-in-power-bi/,2024-04-16,introducing visual shape for visual calculations in power bi,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/revolutionizing-power-bi-introducing-the-ultimate-formula-language/,2024-04-16,revolutionizing power bi introducing the ultimate formula language,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/using-scatterplots-to-find-details-in-reports/,2024-04-16,using scatterplots to find details in reports,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/introducing-expand-and-collapse-for-visual-calculations/,2024-04-16,introducing expand and collapse for visual calculations,blog
+www.sqlbi.com,https://www.sqlbi.com/articles/using-expand-and-collapse-in-visual-calculations/,2024-04-16,using expand and collapse in visual calculations,blog
 en.brunner.bi,https://en.brunner.bi/post/allocating-amounts-using-lists-in-power-query,2022-02-18,allocating amounts using lists in power query,blog
 en.brunner.bi,https://en.brunner.bi/post/changing-data-types-that-do-not-break-query-folding-in-power-query-power-bi-1,2023-12-05,changing data types that do not break query folding in power query power bi 1,blog
 en.brunner.bi,https://en.brunner.bi/post/creating-a-custom-fiscal-calendar-in-power-bi-1,2022-02-20,creating a custom fiscal calendar in power bi 1,blog
@@ -2451,7 +2451,6 @@ pragmaticworks.com,https://pragmaticworks.com/learn-with-the-nerds-dax-made-easy
 pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-custom-visuals-heatmap,2023-03-28,power bi custom visuals heatmap,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-monthly-digest-september-2020,2023-03-28,power bi monthly digest september 2020,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/microsoft-forms-fundamentals-course-preview,2024-03-05,microsoft forms fundamentals course preview,blog
-pragmaticworks.com,https://pragmaticworks.com/odl-renewal,2024-04-03,odl renewal,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/azure-data-factory-execute-pipeline-in-sequence,2023-03-28,azure data factory execute pipeline in sequence,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/data-validation-in-dynamics-365-and-power-apps,2023-10-17,data validation in dynamics 365 and power apps,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/etl-in-power-bi-with-dataflow,2023-03-28,etl in power bi with dataflow,blog
@@ -3086,6 +3085,7 @@ pragmaticworks.com,https://pragmaticworks.com/blog/quick-tip-connecting-to-a-sha
 pragmaticworks.com,https://pragmaticworks.com/blog/3-things-to-know-about-azure-data-warehouse-gen-2,2023-03-28,3 things to know about azure data warehouse gen 2,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/five-disaster-recovery-mistakes-you-might-be-making,2023-03-16,five disaster recovery mistakes you might be making,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/bowl-a-thon-sabotaged-by-bad-data,2024-02-27,bowl a thon sabotaged by bad data,blog
+pragmaticworks.com,https://pragmaticworks.com/odl-renewal,2024-04-16,odl renewal,blog
 pragmaticworks.com,https://pragmaticworks.com/learn-with-the-nerds-power-bi-beginner-to-pro-recorded-live-event,2023-08-29,learn with the nerds power bi beginner to pro recorded live event,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/quick-tip-mapping-geography-in-power-bi,2023-03-28,quick tip mapping geography in power bi,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/how-to-create-an-azure-key-vault-in-databricks,2023-03-28,how to create an azure key vault in databricks,blog
@@ -3550,6 +3550,7 @@ pragmaticworks.com,https://pragmaticworks.com/blog/hybrid-cloud-strategies-and-m
 pragmaticworks.com,https://pragmaticworks.com/blog/what-you-need-to-know-about-power-bi-licensing,2023-03-28,what you need to know about power bi licensing,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/why-use-azure-databricks,2023-03-28,why use azure databricks,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/time-saving-quick-tips-for-power-bi-beginners,2023-03-28,time saving quick tips for power bi beginners,blog
+data-marc.com,https://data-marc.com/2024/04/16/orchestrate-power-bi-semantic-model-refreshes-through-fabric-pipelines/,2024-04-16,orchestrate power bi semantic model refreshes through fabric pipelines,blog
 data-marc.com,https://data-marc.com/2024/04/09/soft-deletion-of-workspaces-and-retention/,2024-04-09,soft deletion of workspaces and retention,blog
 data-marc.com,https://data-marc.com/2024/04/03/copilot-or-autopilot-unpopular-opinions-on-copilot/,2024-04-06,copilot or autopilot unpopular opinions on copilot,blog
 data-marc.com,https://data-marc.com/2024/02/20/exploring-power-bi-visual-calculations/,2024-02-20,exploring power bi visual calculations,blog
@@ -3677,7 +3678,7 @@ data-marc.com,https://data-marc.com/2018/11/15/parameterize-your-data-source/,20
 data-marc.com,https://data-marc.com/2018/12/06/format-your-colors-based-on-advanced-controls/,2019-03-12,format your colors based on advanced controls,blog
 data-marc.com,https://data-marc.com/2018/10/19/multiple-tier-architecture-and-continuous-delivery-with-power-bi/,2021-04-01,multiple tier architecture and continuous delivery with power bi,blog
 data-marc.com,https://data-marc.com/2018/09/25/the-journey-begins/,2018-10-06,the journey begins,blog
-data-marc.com,https://data-marc.com,2024-04-09,,blog
+data-marc.com,https://data-marc.com,2024-04-16,,blog
 www.data-traveling.com,https://www.data-traveling.com/articles,2024-03-22,articles,blog
 www.data-traveling.com,https://www.data-traveling.com/articles/how-to-handle-different-granularities-power-bi,2024-03-22,how to handle different granularities power bi,blog
 www.data-traveling.com,https://www.data-traveling.com/articles/table-filters-vs-column-filter-power-bi-expanded-tables,2023-09-11,table filters vs column filter power bi expanded tables,blog
@@ -3928,517 +3929,3 @@ www.thatbluecloud.com,https://www.thatbluecloud.com/onelake-vs-adls-gen2/,2023-0
 www.thatbluecloud.com,https://www.thatbluecloud.com/5-new-features-in-microsoft-fabric-with-july-2023-update/,2023-08-14,5 new features in microsoft fabric with july 2023 update,blog
 www.thatbluecloud.com,https://www.thatbluecloud.com/from-warehouses-to-lakehouses-the-journey/,2023-08-09,from warehouses to lakehouses the journey,blog
 www.thatbluecloud.com,https://www.thatbluecloud.com/delta-lake-v3-announced/,2023-07-15,delta lake v3 announced,blog
-GuyInACube,https://www.youtube.com/watch?v=3L69Mk3mvFM,2024-04-10,At last!!! Power Query within Power BI Report Builder!,youtube
-GuyInACube,https://www.youtube.com/watch?v=x4afF_Ou58Y,2024-03-21,How to connect to Microsoft Fabric Items from Power BI Desktop?,youtube
-GuyInACube,https://www.youtube.com/watch?v=twT9BERneMI,2024-03-20,Decoding Direct Lake: The Truth Behind DirectQuery Fallback,youtube
-GuyInACube,https://www.youtube.com/watch?v=SyRDll6OvX0,2024-02-21,Creating your first EVENTSTREAM in Microsoft Fabric,youtube
-GuyInACube,https://www.youtube.com/watch?v=jouBo0AzbvQ,2023-12-13,Exploring Custom Spark Pools in Microsoft Fabric Lakehouses,youtube
-GuyInACube,https://www.youtube.com/watch?v=K2WdIdfpIic,2023-11-30,Let&#39;s look at using some PySpark in your first Microsoft Fabric Notebook,youtube
-GuyInACube,https://www.youtube.com/watch?v=AyYDLTvoXNk,2023-11-15,Leverage OneLake with Azure Databricks,youtube
-GuyInACube,https://www.youtube.com/watch?v=03Tf1tKNzfY,2023-09-29,The secret whereabouts of Adam &amp; Patrick revealed!,youtube
-GuyInACube,https://www.youtube.com/watch?v=StIBBb69wDw,2023-09-05,Creating your first Data Warehouse in Microsoft Fabric,youtube
-GuyInACube,https://www.youtube.com/watch?v=QV6b8CKNhzU,2023-08-17,Using Figma to wireframe your Power BI reports,youtube
-GuyInACube,https://www.youtube.com/watch?v=RaHAoZD2mZE,2023-06-29,Create MEANINGFUL data labels with measures in Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=ilTeVH2Cwck,2023-06-28,Can you use Power Query Dynamic M Parameters for multi-select?,youtube
-GuyInACube,https://www.youtube.com/watch?v=DB8zujLjzVo,2023-06-27,SQL Server in Microsoft Fabric? Use CETaS to move data!,youtube
-GuyInACube,https://www.youtube.com/watch?v=WWvs0Z4zTGw,2023-06-24,"REPLAY Microsoft Fabric/Power BI Q&amp;A - LIVE (June 24, 2023)",youtube
-GuyInACube,https://www.youtube.com/watch?v=N11LneTF8-4,2023-06-22,Digging into DYNAMIC format strings for DAX Measures in Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=LDZL0gyHQbs,2023-06-21,Get the most as a Data Scientist with Microsoft Fabric (Public Preview),youtube
-GuyInACube,https://www.youtube.com/watch?v=_-rxBAtFFOA,2023-06-20,"Your data is in the Lakehouse, but now what? | Microsoft Fabric (Public Preview)",youtube
-GuyInACube,https://www.youtube.com/watch?v=piv6I5ohH6k,2023-06-17,"REPLAY Microsoft Fabric/Power BI Q&amp;A - LIVE (June 17, 2023)",youtube
-GuyInACube,https://www.youtube.com/watch?v=fvuL8Nk_gxU,2023-06-15,What does Microsoft Fabric mean for Power BI?,youtube
-GuyInACube,https://www.youtube.com/watch?v=Q8NfZCFKCmw,2023-06-14,Understanding the TIMELINE in DAX Studio,youtube
-GuyInACube,https://www.youtube.com/watch?v=SFta1_70T_U,2023-06-13,Create your FIRST Lakehouse in Microsoft Fabric,youtube
-GuyInACube,https://www.youtube.com/watch?v=hUfdMc0GW8s,2023-06-10,"REPLAY Let&#39;s talk Microsoft Fabric - LIVE w/ Amir Netz (June 10, 2023)",youtube
-GuyInACube,https://www.youtube.com/watch?v=6AAeV3bSMso,2023-06-08,Understanding Microsoft Fabric Licensing and Cost (Public Preview),youtube
-GuyInACube,https://www.youtube.com/watch?v=2bGb0QCLebw,2023-06-07,Use your browser to edit your Power BI dataset within Microsoft Fabric,youtube
-GuyInACube,https://www.youtube.com/watch?v=wEcRTSNhtLg,2023-06-06,Understanding OneLake within Microsoft Fabric,youtube
-GuyInACube,https://www.youtube.com/watch?v=VdwsJ-Ix-oc,2023-06-01,Leverage the Microsoft Fabric Trial,youtube
-GuyInACube,https://www.youtube.com/watch?v=zG2yyJzMooM,2023-05-31,Why can&#39;t I use Microsoft Fabric?,youtube
-GuyInACube,https://www.youtube.com/watch?v=-f0XIVEP7bE,2023-05-30,What is Microsoft Fabric (Public Preview)?,youtube
-GuyInACube,https://www.youtube.com/watch?v=5pg9MlQy9cE,2023-05-27,"REPLAY Let&#39;s talk Microsoft Fabric - LIVE w/ Matthew Roche (May 27, 2023)",youtube
-GuyInACube,https://www.youtube.com/watch?v=wdDx0-jvl7w,2023-05-25,Microsoft Fabric Launch Digital Event (Day 2),youtube
-GuyInACube,https://www.youtube.com/watch?v=sINPHVa0Kds,2024-01-13,"REPLAY Let&#39;s talk Microsoft Fabric - LIVE w/ Matthew Roche (Jan 13, 2024)",youtube
-GuyInACube,https://www.youtube.com/watch?v=uuIznvWX3zw,2024-01-10,Incremental Refresh with your Warehouse without a date in Microsoft Fabric,youtube
-GuyInACube,https://www.youtube.com/watch?v=tQrr7RPSvsQ,2024-01-03,Thinking about your DAX Queries like a SQL Query in Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=ufhG59y4N1Q,2023-12-16,"REPLAY Microsoft Fabric / Power BI Q&amp;A - LIVE w/ Kim Manis &amp; Bogdan Crivat (Dec 16, 2023)",youtube
-GuyInACube,https://www.youtube.com/watch?v=GFENAFw1co4,2023-12-14,"Create a measure from a filtered visual in Power BI? Of Course, you can!",youtube
-GuyInACube,https://www.youtube.com/watch?v=jouBo0AzbvQ,2023-12-13,Exploring Custom Spark Pools in Microsoft Fabric Lakehouses,youtube
-GuyInACube,https://www.youtube.com/watch?v=XQQZm--eR4Y,2023-12-09,"REPLAY Microsoft Fabric / Power BI Q&amp;A - LIVE (Dec 9, 2023)",youtube
-GuyInACube,https://www.youtube.com/watch?v=MdmPjZAV9I8,2023-12-07,Control ACCESS to your Microsoft Fabric Lakehouse or Warehouse,youtube
-GuyInACube,https://www.youtube.com/watch?v=oPGGYLKhTOA,2023-12-06,Boost your productivity with DAX Query View in Power BI Desktop!,youtube
-GuyInACube,https://www.youtube.com/watch?v=zQ3jxOdYQlo,2023-12-02,"REPLAY Microsoft Fabric / Power BI Q&amp;A - LIVE (Dec 2, 2023)",youtube
-GuyInACube,https://www.youtube.com/watch?v=K2WdIdfpIic,2023-11-30,Let&#39;s look at using some PySpark in your first Microsoft Fabric Notebook,youtube
-GuyInACube,https://www.youtube.com/watch?v=40Lwg1QJFEY,2023-11-16,Digging deeper into Data Activator in Microsoft Fabric,youtube
-GuyInACube,https://www.youtube.com/watch?v=AyYDLTvoXNk,2023-11-15,Leverage OneLake with Azure Databricks,youtube
-GuyInACube,https://www.youtube.com/watch?v=jFr-o953dmk,2023-11-11,"REPLAY Microsoft Fabric / Power BI Q&amp;A - LIVE (Nov 11, 2023)",youtube
-GuyInACube,https://www.youtube.com/watch?v=nHc0H1B6qZI,2023-11-04,"REPLAY Microsoft Fabric / Power BI Q&amp;A - LIVE (Nov 4, 2023)",youtube
-GuyInACube,https://www.youtube.com/watch?v=v6IOuysQGRA,2023-11-02,Unleash the Potential of Data Activator in Microsoft Fabric,youtube
-GuyInACube,https://www.youtube.com/watch?v=lY7aQpxnIJE,2023-11-01,Why On-Object Editing in Power BI???,youtube
-GuyInACube,https://www.youtube.com/watch?v=XwRcaNLWpYg,2023-10-28,"REPLAY Microsoft Fabric / Power BI Q&amp;A w/ Marco Russo LIVE (October 28, 2023)",youtube
-GuyInACube,https://www.youtube.com/watch?v=QzG7DFaAYng,2023-10-26,The Secret to Data-Driven Dynamic Subscriptions in Paginated Reports,youtube
-GuyInACube,https://www.youtube.com/watch?v=776uk-i0PWU,2023-10-25,Mind-Blowing Power BI Update: Model View enhancements!,youtube
-GuyInACube,https://www.youtube.com/watch?v=zMiRGZsfQgs,2023-10-19,Finish the Puzzle: Querying Power BI Semantic Models with Semantic Link!,youtube
-GuyInACube,https://www.youtube.com/watch?v=hFfi3O_Isn4,2023-10-17,Escape the Ordinary with a Low Code Lakehouse in Microsoft Fabric,youtube
-GuyInACube,https://www.youtube.com/watch?v=Ite05gBQA9Q,2023-10-14,"REPLAY Microsoft Fabric / Power BI Q&amp;A - LIVE (Oct 14, 2023)",youtube
-GuyInACube,https://www.youtube.com/watch?v=W7Ab1PIAwGk,2023-10-04,Discover the Untapped Settings in Power BI Desktop,youtube
-GuyInACube,https://www.youtube.com/watch?v=03Tf1tKNzfY,2023-09-29,The secret whereabouts of Adam &amp; Patrick revealed!,youtube
-GuyInACube,https://www.youtube.com/watch?v=Ww7pqhajkbY,2023-09-27,Mastering Power BI Desktop: A Deep Dive into the Pane Switcher,youtube
-GuyInACube,https://www.youtube.com/watch?v=UU51e--zq9c,2023-09-21,Editing your Direct Lake Datasets from Tabular Editor? Yes please!,youtube
-GuyInACube,https://www.youtube.com/watch?v=ECmhdB5Rdzo,2023-09-20,Using Microsoft Fabric Workspaces (Power BI and more!),youtube
-GuyInACube,https://www.youtube.com/watch?v=s1W3UY3v7rc,2023-09-06,Landing data with Dataflows Gen2 in Microsoft Fabric,youtube
-GuyInACube,https://www.youtube.com/watch?v=StIBBb69wDw,2023-09-05,Creating your first Data Warehouse in Microsoft Fabric,youtube
-GuyInACube,https://www.youtube.com/watch?v=GLNqNuON3Fc,2023-09-02,"REPLAY Microsoft Fabric/Power BI Q&amp;A - LIVE (Sept 2, 2023)",youtube
-GuyInACube,https://www.youtube.com/watch?v=1yYYY_yqqZE,2023-08-30,Wait! We can use Databricks data with Microsoft Fabric???,youtube
-GuyInACube,https://www.youtube.com/watch?v=biISm1ZjouA,2023-08-29,The POWER of shortcuts in Microsoft Fabric,youtube
-GuyInACube,https://www.youtube.com/watch?v=JDFhipHmxMA,2023-08-25,Join us at PASS Data Community Summit 2023,youtube
-GuyInACube,https://www.youtube.com/watch?v=IZDacEcbfog,2023-08-23,Get your measures organized in Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=LZ9nKK0PPe0,2023-08-22,Get and use Python Libraries within Microsoft Fabric,youtube
-GuyInACube,https://www.youtube.com/watch?v=AWiN_XxvNWY,2023-08-19,"REPLAY Let&#39;s talk Microsoft Fabric - LIVE w/ Matthew Roche (Aug 19, 2023)",youtube
-GuyInACube,https://www.youtube.com/watch?v=G_v1DyZoP_s,2023-08-18,Saying goodbye...,youtube
-GuyInACube,https://www.youtube.com/watch?v=QV6b8CKNhzU,2023-08-17,Using Figma to wireframe your Power BI reports,youtube
-GuyInACube,https://www.youtube.com/watch?v=k7pZzwgXW-g,2023-08-16,Enabling Power BI Paginated Report Drill!,youtube
-GuyInACube,https://www.youtube.com/watch?v=JNfQJe-ruxM,2023-08-12,"REPLAY We&#39;re back! Let&#39;s answer your Microsoft Fabric and Power BI questions... (August 12, 2023)",youtube
-GuyInACube,https://www.youtube.com/watch?v=ZrsrLEY_Gf8,2023-07-12,The MAGIC of Power BI in PowerPoint!,youtube
-GuyInACube,https://www.youtube.com/watch?v=4NbuG1JBq60,2023-07-11,Leveraging OneLake Explorer - The OneDrive of Data! (Microsoft Fabric),youtube
-GuyInACube,https://www.youtube.com/watch?v=RaHAoZD2mZE,2023-06-29,Create MEANINGFUL data labels with measures in Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=ilTeVH2Cwck,2023-06-28,Can you use Power Query Dynamic M Parameters for multi-select?,youtube
-GuyInACube,https://www.youtube.com/watch?v=DB8zujLjzVo,2023-06-27,SQL Server in Microsoft Fabric? Use CETaS to move data!,youtube
-GuyInACube,https://www.youtube.com/watch?v=WWvs0Z4zTGw,2023-06-24,"REPLAY Microsoft Fabric/Power BI Q&amp;A - LIVE (June 24, 2023)",youtube
-GuyInACube,https://www.youtube.com/watch?v=N11LneTF8-4,2023-06-22,Digging into DYNAMIC format strings for DAX Measures in Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=LDZL0gyHQbs,2023-06-21,Get the most as a Data Scientist with Microsoft Fabric (Public Preview),youtube
-GuyInACube,https://www.youtube.com/watch?v=_-rxBAtFFOA,2023-06-20,"Your data is in the Lakehouse, but now what? | Microsoft Fabric (Public Preview)",youtube
-GuyInACube,https://www.youtube.com/watch?v=piv6I5ohH6k,2023-06-17,"REPLAY Microsoft Fabric/Power BI Q&amp;A - LIVE (June 17, 2023)",youtube
-GuyInACube,https://www.youtube.com/watch?v=fvuL8Nk_gxU,2023-06-15,What does Microsoft Fabric mean for Power BI?,youtube
-GuyInACube,https://www.youtube.com/watch?v=Q8NfZCFKCmw,2023-06-14,Understanding the TIMELINE in DAX Studio,youtube
-GuyInACube,https://www.youtube.com/watch?v=SFta1_70T_U,2023-06-13,Create your FIRST Lakehouse in Microsoft Fabric,youtube
-GuyInACube,https://www.youtube.com/watch?v=hUfdMc0GW8s,2023-06-10,"REPLAY Let&#39;s talk Microsoft Fabric - LIVE w/ Amir Netz (June 10, 2023)",youtube
-GuyInACube,https://www.youtube.com/watch?v=6AAeV3bSMso,2023-06-08,Understanding Microsoft Fabric Licensing and Cost (Public Preview),youtube
-GuyInACube,https://www.youtube.com/watch?v=2bGb0QCLebw,2023-06-07,Use your browser to edit your Power BI dataset within Microsoft Fabric,youtube
-GuyInACube,https://www.youtube.com/watch?v=wEcRTSNhtLg,2023-06-06,Understanding OneLake within Microsoft Fabric,youtube
-GuyInACube,https://www.youtube.com/watch?v=VdwsJ-Ix-oc,2023-06-01,Leverage the Microsoft Fabric Trial,youtube
-GuyInACube,https://www.youtube.com/watch?v=zG2yyJzMooM,2023-05-31,Why can&#39;t I use Microsoft Fabric?,youtube
-GuyInACube,https://www.youtube.com/watch?v=-f0XIVEP7bE,2023-05-30,What is Microsoft Fabric (Public Preview)?,youtube
-GuyInACube,https://www.youtube.com/watch?v=5pg9MlQy9cE,2023-05-27,"REPLAY Let&#39;s talk Microsoft Fabric - LIVE w/ Matthew Roche (May 27, 2023)",youtube
-GuyInACube,https://www.youtube.com/watch?v=wdDx0-jvl7w,2023-05-25,Microsoft Fabric Launch Digital Event (Day 2),youtube
-GuyInACube,https://www.youtube.com/watch?v=6QusOchmSXQ,2023-05-25,What does Microsoft Fabric mean for Guy in a Cube?,youtube
-GuyInACube,https://www.youtube.com/watch?v=tMx3rhl43b4,2023-05-24,REPLAY Microsoft Fabric Discussion - May 2023 Social Hour,youtube
-GuyInACube,https://www.youtube.com/watch?v=5jlP0wdEsls,2023-05-24,Microsoft Fabric Launch Digital Event (Day 1),youtube
-GuyInACube,https://www.youtube.com/watch?v=TprbclJaSJU,2023-05-22,Don’t miss out of Microsoft Build! #powerbi,youtube
-GuyInACube,https://www.youtube.com/watch?v=nY54EX6_vd0,2023-05-20,"REPLAY Power BI tips from the Pros - LIVE (May 20, 2023)",youtube
-GuyInACube,https://www.youtube.com/watch?v=pM7LUBfkpDs,2023-05-18,What does Tooltip Auto-scale actually do in your Power BI Report?,youtube
-GuyInACube,https://www.youtube.com/watch?v=eYxRHJ0hB_E,2023-05-17,Enabling Drillthrough with Power BI On-Object Editing,youtube
-GuyInACube,https://www.youtube.com/watch?v=m2lYsQ9t-5k,2023-05-16,Are you using your licenses correct? See where Azure Hybrid Benefits can help!,youtube
-GuyInACube,https://www.youtube.com/watch?v=pKkav_W-jiQ,2023-05-11,Want a BEAUTIFUL Power BI Report? Start here!,youtube
-GuyInACube,https://www.youtube.com/watch?v=8vGwBedcXQA,2023-05-10,Why is there a limited relationship when using the same data source?,youtube
-GuyInACube,https://www.youtube.com/watch?v=AbiYgh9RD2U,2023-05-09,Controlling cost with Azure Synapse Serverless Pools,youtube
-GuyInACube,https://www.youtube.com/watch?v=N2WLzB8GOlk,2023-05-06,"REPLAY Power BI tips from the Pros - LIVE (May 6, 2023)",youtube
-GuyInACube,https://www.youtube.com/watch?v=ZKodkcOb3WI,2023-05-04,The HEART of Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=WyvfZMaXLBs,2023-05-03,RLS in the source? How does this work with DirectQuery and Import in Power BI?,youtube
-GuyInACube,https://www.youtube.com/watch?v=uXes0AEQJps,2023-05-02,How to SCHEDULE your notebooks to run with Azure Synapse,youtube
-GuyInACube,https://www.youtube.com/watch?v=K6DpOJM6b7E,2023-04-20,ChatGPT blew my mind with this Power BI scenario,youtube
-GuyInACube,https://www.youtube.com/watch?v=xL6DvHYjBVs,2023-04-19,3 tips for the new On-Object editing of a Power BI visual,youtube
-GuyInACube,https://www.youtube.com/watch?v=ldTeS-yxpSE,2023-04-18,Loop through a list using pySpark for your Azure Synapse Pipelines,youtube
-GuyInACube,https://www.youtube.com/watch?v=YkNgmVdTD8E,2023-04-15,"REPLAY Power BI tips from the Pros - LIVE (April 15, 2023)",youtube
-GuyInACube,https://www.youtube.com/watch?v=7riWWVMMegE,2023-04-12,How to easily compare Server Timings using DAX Studio for your Power BI dataset,youtube
-GuyInACube,https://www.youtube.com/watch?v=Ks4ekJeKjZY,2023-04-11,Use Azure SQL Managed Instance Link to have a Read Replica in the cloud!,youtube
-GuyInACube,https://www.youtube.com/watch?v=iaekrjvr3Xk,2023-04-08,"REPLAY Power BI tips from the Pros - LIVE (April 8, 2023)",youtube
-GuyInACube,https://www.youtube.com/watch?v=H6sLCVanIYE,2023-04-06,Where are the Power BI Gateway logs? I thought I knew...,youtube
-GuyInACube,https://www.youtube.com/watch?v=Hpx52kOodPc,2023-04-05,Setup a Reverse Hybrid Table without using Tabular Editor for Power BI!,youtube
-GuyInACube,https://www.youtube.com/watch?v=k280CpPKJgc,2023-04-04,Convert CSV to Parquet using pySpark in Azure Synapse Analytics,youtube
-GuyInACube,https://www.youtube.com/watch?v=gnTaUbIMfyM,2023-04-01,"REPLAY Power BI tips from the Pros - LIVE (April 1, 2023)",youtube
-GuyInACube,https://www.youtube.com/watch?v=X_1tBbPwBMg,2023-03-29,Switch a Power BI Report&#39;s dataset without needing Premium!,youtube
-GuyInACube,https://www.youtube.com/watch?v=heY92V11knc,2023-03-25,REPLAY Power BI Adoption and More Q&amp;A with Melissa Coates and Matthew Roche!,youtube
-GuyInACube,https://www.youtube.com/watch?v=twgsMDuwOuo,2023-03-23,Visually see where you BROKE the fold in Power Query,youtube
-GuyInACube,https://www.youtube.com/watch?v=fh8HpSNNP30,2023-03-22,Checking out the new Power BI RLS Editor,youtube
-GuyInACube,https://www.youtube.com/watch?v=yvV6z6OInEI,2023-03-21,What&#39;s a Junk Dimension and when should you use it?,youtube
-GuyInACube,https://www.youtube.com/watch?v=zJopprZC-bE,2023-03-16,How do THIN reports work with Power BI Deployment Pipelines?,youtube
-GuyInACube,https://www.youtube.com/watch?v=k-4Oud9jkuw,2023-03-09,Dataset permissions required for App report in Power BI? What am I missing??? (Re-Upload),youtube
-GuyInACube,https://www.youtube.com/watch?v=YOWxvT5XLoc,2023-03-08,The POWER of Microsoft Lists and Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=9SprbLQpW8I,2023-03-07,Start Learning T-SQL for Azure Database and Azure Synapse,youtube
-GuyInACube,https://www.youtube.com/watch?v=leT_dkXwE1c,2023-03-02,The MAGIC of Microsoft Teams + Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=w_rSlWELBNk,2023-03-01,Getting Crazy with the Power Query UI,youtube
-GuyInACube,https://www.youtube.com/watch?v=Pdbc_Q7pnD8,2023-02-23,Different ways to work with Microsoft Excel in Power BI (2023),youtube
-GuyInACube,https://www.youtube.com/watch?v=6RzC1P_1Elg,2023-02-22,How to get a CLOCK in your Power BI Report,youtube
-GuyInACube,https://www.youtube.com/watch?v=KrsNwegpqlk,2023-02-21,Checking out the Window Clause in Azure SQL and SQL Server 2022,youtube
-GuyInACube,https://www.youtube.com/watch?v=zI4MV2vNVxY,2023-02-18,"REPLAY Power BI tips from the Pros - LIVE (Feb 18, 2023)",youtube
-GuyInACube,https://www.youtube.com/watch?v=58rLq8MF2mc,2023-02-15,Publish/Migrate your RDL files from Power BI Report Server to the service,youtube
-GuyInACube,https://www.youtube.com/watch?v=6KG-LogdI9g,2023-02-14,Provide data lake access with Azure Synapse Analytics,youtube
-GuyInACube,https://www.youtube.com/watch?v=XPuGOZdxX5s,2023-02-11,"REPLAY Power BI tips from the Pros - LIVE (Feb 11, 2023)",youtube
-GuyInACube,https://www.youtube.com/watch?v=cqqyAy5Cemc,2023-02-10,An Ode to a Pie Chart by ChatGPT,youtube
-GuyInACube,https://www.youtube.com/watch?v=wd2c1sjTENQ,2023-02-09,Guy in a Cube answers the web&#39;s most searched questions on Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=WXpxNpnE3D4,2023-02-08,Time to look at the new INDEX function in DAX and Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=ZKvpiOnwAK4,2023-02-07,Continuing the T-SQL journey with OVER and RANK,youtube
-GuyInACube,https://www.youtube.com/watch?v=i27vHCVsHp4,2023-02-04,"REPLAY Power BI tips from the Pros - LIVE (Feb 4, 2023)",youtube
-GuyInACube,https://www.youtube.com/watch?v=3SKSBRFMIoM,2023-02-02,Let&#39;s see if ChatGPT knows what&#39;s coming next for Power BI...,youtube
-GuyInACube,https://www.youtube.com/watch?v=-KXDpi_wyD4,2023-02-01,Calling a Stored Procedure using Incremental Refresh in Power BI? We think so!,youtube
-GuyInACube,https://www.youtube.com/watch?v=ayV1r2vFYnI,2023-01-31,Ready to be a Kusto Detective with Azure Data Explorer?,youtube
-GuyInACube,https://www.youtube.com/watch?v=vT83hHmX-VM,2023-01-28,"REPLAY Power BI tips from the Pros - LIVE (Jan 28, 2023)",youtube
-GuyInACube,https://www.youtube.com/watch?v=WQGS48ZcdbE,2023-01-26,What do you want to see from Guy in a Cube? - Channel Update,youtube
-GuyInACube,https://www.youtube.com/watch?v=nMSuWbKUvAY,2023-01-25,What happens when you miss a refresh day with Power BI Incremental Refresh?,youtube
-GuyInACube,https://www.youtube.com/watch?v=WgH2Wg_EUNg,2023-01-24,What the French Toast is a Slowly Changing Dimension???,youtube
-GuyInACube,https://www.youtube.com/watch?v=GzblE9HjouE,2023-01-21,"REPLAY Power BI tips from the Pros - LIVE (Jan 21, 2023)",youtube
-GuyInACube,https://www.youtube.com/watch?v=_ggNrxUcCS8,2023-01-18,Allow users to Show and Hide columns in a Power BI Paginated report!,youtube
-GuyInACube,https://www.youtube.com/watch?v=PsuxE6xExOw,2023-01-17,What is a Common Table Expression (CTE) and how do you use them?,youtube
-GuyInACube,https://www.youtube.com/watch?v=a-iA6EG9CzQ,2023-01-07,"REPLAY Starting 2023 w/ Marco Russo LIVE (Jan 7, 2023)",youtube
-GuyInACube,https://www.youtube.com/watch?v=dlZoy8pQWSU,2023-01-05,"Wait! Using a Power BI Date slicer, what are my dates when using between?",youtube
-GuyInACube,https://www.youtube.com/watch?v=_1QGTmtGcP8,2023-01-04,How to handle Aggregation tables with Averages in Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=XkjJo7J8CyQ,2023-01-03,To Surrogate Key or Not...,youtube
-GuyInACube,https://www.youtube.com/watch?v=ey4ZVKWGZfc,2022-12-17,"REPLAY Power BI tips from the Pros - LIVE (Dec 17, 2022) - Charity Stream",youtube
-GuyInACube,https://www.youtube.com/watch?v=-xl-uhgzgEA,2022-12-15,Build a Slicer Panel in Power BI (2022/2023),youtube
-GuyInACube,https://www.youtube.com/watch?v=t3Zsdbr-_So,2022-12-14,A Power Query tip for you,youtube
-GuyInACube,https://www.youtube.com/watch?v=_VxIYKCmrv0,2022-12-13,20221213   Profile with Azure Data Studio,youtube
-GuyInACube,https://www.youtube.com/watch?v=_n4kG9qpfIs,2022-12-07,Can you make a two-line dynamic title in Power BI?,youtube
-GuyInACube,https://www.youtube.com/watch?v=Rp7aM42NkMc,2022-12-06,Can you use SQL Auth with Azure Synapse Serverless?,youtube
-GuyInACube,https://www.youtube.com/watch?v=h-iXZqhD53Y,2022-12-01,Manage Custom Visual purchases for Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=ye4WIJDfdpY,2022-11-30,Can you do Page-Level Security in Power BI?,youtube
-GuyInACube,https://www.youtube.com/watch?v=GiZKPAAOUuQ,2022-11-29,Azure Synapse Serverless vs Dedicated SQL Pool,youtube
-GuyInACube,https://www.youtube.com/watch?v=69PY3YzygNk,2022-11-22,Exploring Microsoft Purview for data governance,youtube
-GuyInACube,https://www.youtube.com/watch?v=WPaCin49eq4,2022-11-16,Writing some DAX while looking at Relationships,youtube
-GuyInACube,https://www.youtube.com/watch?v=Gw1KqZbDky0,2022-11-12,"REPLAY Power BI tips from the Pros - LIVE w/ Matthew Roche (Nov 12, 2022)",youtube
-GuyInACube,https://www.youtube.com/watch?v=amntImKVzic,2022-11-09,Add a measure without Power BI Desktop (Premium),youtube
-GuyInACube,https://www.youtube.com/watch?v=OQ8VRRQA4VA,2022-11-08,Have you seen the SQL Admin Pack for Azure Data Studio?,youtube
-GuyInACube,https://www.youtube.com/watch?v=h8-EdlHN3oc,2022-11-05,"REPLAY Power BI tips from the Pros - LIVE (Nov 5, 2022)",youtube
-GuyInACube,https://www.youtube.com/watch?v=jIFCyQdTvgM,2022-11-03,Bring Power BI and Excel together,youtube
-GuyInACube,https://www.youtube.com/watch?v=7L4bTbj6fM8,2022-11-02,The PERFECT Power BI dataflows use case,youtube
-GuyInACube,https://www.youtube.com/watch?v=_fCKsorBnTg,2022-11-01,Explaining what a Lakehouse is!,youtube
-GuyInACube,https://www.youtube.com/watch?v=d8VATPCiUnY,2022-10-29,"REPLAY Power BI tips from the Pros - LIVE (Oct 29, 2022)",youtube
-GuyInACube,https://www.youtube.com/watch?v=sgGRMixvNbk,2022-10-27,Does it matter where your Power BI reports are deployed?,youtube
-GuyInACube,https://www.youtube.com/watch?v=2S6qVQrmzxE,2022-10-26,Make Q&amp;A more effective in Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=xBhjQqUw_TU,2022-10-20,A better way to share Personal Bookmarks in Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=OY9spncfp6I,2022-10-19,Why isn&#39;t my Agg being hit in Power BI???,youtube
-GuyInACube,https://www.youtube.com/watch?v=rzfmF9wORcQ,2022-10-18,Parameterize your Notebooks in Azure Synapse,youtube
-GuyInACube,https://www.youtube.com/watch?v=TRL162AkEVs,2022-10-15,"REPLAY Power BI tips from the Pros - LIVE (Oct 15, 2022)",youtube
-GuyInACube,https://www.youtube.com/watch?v=282mfZK6C1E,2022-10-13,Office 365 meet Power BI Desktop,youtube
-GuyInACube,https://www.youtube.com/watch?v=VExWJ6mXLD4,2022-10-12,Let Power Query write your SQL for you!,youtube
-GuyInACube,https://www.youtube.com/watch?v=ViIHJRTLJ0Y,2022-10-11,Overcoming a concatenation challenge in Azure Synapse,youtube
-GuyInACube,https://www.youtube.com/watch?v=N0UYKqMpmnQ,2022-10-06,A Power Query feature you may not know about!,youtube
-GuyInACube,https://www.youtube.com/watch?v=OAlys79j81Q,2022-10-05,Where do you add that new column in any analytics tool?,youtube
-GuyInACube,https://www.youtube.com/watch?v=uFk3ZJ7Jm0U,2022-10-04,"Save early, save often in Azure Synapse Studio",youtube
-GuyInACube,https://www.youtube.com/watch?v=He8xocxq1II,2022-10-01,"REPLAY Power BI tips from the Pros - LIVE w/ Kasper de Jonge (Oct 1, 2022)",youtube
-GuyInACube,https://www.youtube.com/watch?v=BUiUrv1qeXU,2022-09-28,Do you even need to use Power Query Functions?,youtube
-GuyInACube,https://www.youtube.com/watch?v=6aXO_zOMP1U,2022-09-27,Rounding out the lakehouse with the GOLD layer in Azure Synapse,youtube
-GuyInACube,https://www.youtube.com/watch?v=wJJ31G98aCM,2022-09-22,Answering your questions about the new App Experience!,youtube
-GuyInACube,https://www.youtube.com/watch?v=R23CrB8MYBk,2022-09-21,"REPLAY Power Platform Conference LIVE!!! (Sept 21, 2022)",youtube
-GuyInACube,https://www.youtube.com/watch?v=cqTa7cj5ZBw,2022-09-21,Storytelling with Power BI and PowerPoint,youtube
-GuyInACube,https://www.youtube.com/watch?v=OHto3FR5484,2022-09-20,Talking DATA end to end with Buck Woody,youtube
-GuyInACube,https://www.youtube.com/watch?v=BLqJmp3CIHU,2022-09-17,"REPLAY Power BI tips from the Pros - LIVE (Sept 17, 2022)",youtube
-GuyInACube,https://www.youtube.com/watch?v=nchNa44o2D4,2022-09-15,Power BI Apps for multiple audiences has arrived!,youtube
-GuyInACube,https://www.youtube.com/watch?v=vI7kVVHxsiM,2022-09-14,What&#39;s the real size of your data model in Power BI?,youtube
-GuyInACube,https://www.youtube.com/watch?v=0qywSdK3qoU,2022-09-08,Are you thinking about your tooltips in Power BI?,youtube
-GuyInACube,https://www.youtube.com/watch?v=5ZjO1ImFmh4,2022-09-07,Automating your formatted tables in Power BI!,youtube
-GuyInACube,https://www.youtube.com/watch?v=2nzANkTY4IY,2022-09-03,"REPLAY Visualization Q&amp;A - LIVE w/ Alberto Cairo (Sept 3, 2022)",youtube
-GuyInACube,https://www.youtube.com/watch?v=KOeT9Dsk-xo,2022-09-01,Conditional Formatting with Field Parameters in Power BI???,youtube
-GuyInACube,https://www.youtube.com/watch?v=Q-CFumllLNg,2022-08-31,The Tale of Two Caches,youtube
-GuyInACube,https://www.youtube.com/watch?v=TGIP4w61Tyc,2022-08-30,Merging your data in a modern lakehouse data warehouse,youtube
-GuyInACube,https://www.youtube.com/watch?v=M0TMo3QYxkA,2022-08-27,"REPLAY DAX Studio 3 is out! LIVE w/ Marco Russo (Aug 27, 2022)",youtube
-GuyInACube,https://www.youtube.com/watch?v=TfXhQG61sPw,2022-08-25,Slicers vs. Slicer Pane vs. Filter Pane! Which is faster?,youtube
-GuyInACube,https://www.youtube.com/watch?v=5G_xSJy5muo,2022-08-24,Simulate Hierarchies with Field Parameters in Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=3ef985a0Veg,2022-08-23,What is this delta lake thing?,youtube
-GuyInACube,https://www.youtube.com/watch?v=y7E4eElq9iI,2022-08-20,"REPLAY 100th Power BI Q&amp;A Live Stream!!! (August 20, 2022)",youtube
-GuyInACube,https://www.youtube.com/watch?v=dTEmhPbtipc,2022-08-18,Get creative with buttons in Power BI!,youtube
-GuyInACube,https://www.youtube.com/watch?v=HJgclrgFnls,2022-08-17,Refresh and NO DATA in my Power BI visuals???,youtube
-GuyInACube,https://www.youtube.com/watch?v=SPOQzcbTgvQ,2022-08-16,Get started with SPARK in Azure Synapse Analytics,youtube
-GuyInACube,https://www.youtube.com/watch?v=ksmNfa_K8GQ,2022-08-13,"REPLAY Power BI tips from the Pros - LIVE (August 13, 2022)",youtube
-GuyInACube,https://www.youtube.com/watch?v=0WfITrMl0hc,2022-08-11,Get feedback from your Power BI report users!,youtube
-GuyInACube,https://www.youtube.com/watch?v=338Fm-eSbQU,2022-08-10,You thought DAX? Alex shows you Dynamic M-M-Magic!,youtube
-GuyInACube,https://www.youtube.com/watch?v=mGZ9cZ5fPww,2022-08-09,Top 5 things to get started with Azure Synapse Analytics,youtube
-GuyInACube,https://www.youtube.com/watch?v=FQCD5rUD6cY,2022-08-06,"REPLAY Power BI Optimization Q&amp;A - LIVE w/ Marco Russo (Aug 5, 2022)",youtube
-GuyInACube,https://www.youtube.com/watch?v=ffIgsMS3-8c,2022-08-04,Here&#39;s a BANANAS report design idea!,youtube
-GuyInACube,https://www.youtube.com/watch?v=QewkwWtJrKg,2022-08-03,What if we could RATE a Power BI report page?,youtube
-GuyInACube,https://www.youtube.com/watch?v=YgYTQpVnhVM,2022-08-02,Can you be a Data Scientist without actually being a Data Scientist???,youtube
-GuyInACube,https://www.youtube.com/watch?v=4J4go5juEj0,2022-07-30,"REPLAY Power BI tips from the Pros - LIVE (July 30, 2022)",youtube
-GuyInACube,https://www.youtube.com/watch?v=eviMr_f_LQM,2022-07-27,Discovering data within Power BI and quickly EXPORT!,youtube
-GuyInACube,https://www.youtube.com/watch?v=wDfcX3EPZL0,2022-07-26,FAST - Billions of rows with Azure Data Explorer (ADX),youtube
-GuyInACube,https://www.youtube.com/watch?v=tfTrohtZXtc,2022-07-23,"REPLAY Power BI tips from the Pros - LIVE (July 23, 2022)",youtube
-GuyInACube,https://www.youtube.com/watch?v=bwbWQL8zjx0,2022-07-21,The most UNDERUSED feature in Power BI???,youtube
-GuyInACube,https://www.youtube.com/watch?v=-XnYQsLp-TE,2022-07-20,A new approach for dynamic Power BI visuals?,youtube
-GuyInACube,https://www.youtube.com/watch?v=L7dMVFDgs7Q,2022-07-19,Intro to aggregates in T-SQL,youtube
-GuyInACube,https://www.youtube.com/watch?v=3_vWXYZk1TM,2022-07-16,"REPLAY Power BI tips from the Pros - LIVE (July 16, 2022) (Member Chat 2nd Half)",youtube
-GuyInACube,https://www.youtube.com/watch?v=vTEaSRyVPxI,2022-07-14,Is it a KNOWN ISSUE in Power BI?,youtube
-GuyInACube,https://www.youtube.com/watch?v=XA5twJ2wLd0,2022-07-13,Select All items for Parameters in Power BI Paginated reports,youtube
-GuyInACube,https://www.youtube.com/watch?v=ukVlPeQ-yNc,2022-07-07,How I learn things,youtube
-GuyInACube,https://www.youtube.com/watch?v=XE_58akjXEc,2022-07-02,"REPLAY Power BI tips from the Pros - LIVE (July 2, 2022)",youtube
-GuyInACube,https://www.youtube.com/watch?v=ZEcQ13TaIWA,2022-06-28,What&#39;s up with the different JOINS in Azure SQL and Azure Synapse?,youtube
-GuyInACube,https://www.youtube.com/watch?v=IhQVOS34QKA,2022-06-23,Why can&#39;t Power BI connect to my cloud source???,youtube
-GuyInACube,https://www.youtube.com/watch?v=Wvqx4I2cMrM,2022-06-22,From Decomposition Tree to Details in Power BI!!!,youtube
-GuyInACube,https://www.youtube.com/watch?v=zQnyy2-58Ns,2022-06-21,Modern Data Lakehouse? Where do you even start??? Azure Synapse of course!,youtube
-GuyInACube,https://www.youtube.com/watch?v=x1xMxRXQ2So,2022-06-16,Publish from Power BI Desktop for External Users,youtube
-GuyInACube,https://www.youtube.com/watch?v=67WrcH4pFnI,2022-06-15,What tool do you use to optimize your Power BI dataset?,youtube
-GuyInACube,https://www.youtube.com/watch?v=iBwmMklI2Ac,2022-06-14,What are the main tools for Azure Synapse and SQL???,youtube
-GuyInACube,https://www.youtube.com/watch?v=Vp9BQUXyJjY,2022-06-11,"REPLAY Power BI tips from the Pros - LIVE (June 11, 2022)",youtube
-GuyInACube,https://www.youtube.com/watch?v=_EDxNDuF9uE,2022-06-04,"REPLAY Power BI tips from the Pros - LIVE (June 4, 2022)",youtube
-GuyInACube,https://www.youtube.com/watch?v=o2EFbdRZOAU,2022-06-02,Answering your datamart questions,youtube
-GuyInACube,https://www.youtube.com/watch?v=-ZAPAk_ANbk,2022-06-01,Power BI dataflows vs datamarts: What&#39;s the difference???,youtube
-GuyInACube,https://www.youtube.com/watch?v=Q_fKhmwRifo,2022-05-31,Writing your first SQL Statement!,youtube
-GuyInACube,https://www.youtube.com/watch?v=UzDfhse9vBI,2022-05-28,"REPLAY Power BI tips from the Pros - LIVE (May 28, 2022)",youtube
-GuyInACube,https://www.youtube.com/watch?v=LKzIkr1NaOM,2022-05-26,Reduce the queries being sent with Incremental Refresh in Power BI!,youtube
-GuyInACube,https://www.youtube.com/watch?v=ZJzCkxv5wxg,2022-05-25,Exploring the preview of datamart in Power BI!,youtube
-GuyInACube,https://www.youtube.com/watch?v=tWFAxOI7CF0,2022-05-24,Getting started with Azure Synapse Analytics,youtube
-GuyInACube,https://www.youtube.com/watch?v=L18HEAnBqTo,2022-05-19,A new way to manage gateways in Power BI!!!,youtube
-GuyInACube,https://www.youtube.com/watch?v=8M2VIPLdF3A,2022-05-18,Another 30-Day Query Folding challenge!!!,youtube
-GuyInACube,https://www.youtube.com/watch?v=dRaLicocQuI,2022-05-17,Are you following best practices with Azure Synapse Analytics?,youtube
-GuyInACube,https://www.youtube.com/watch?v=0duJpevXlaA,2022-05-14,"REPLAY Power BI tips from the Pros - LIVE (May 14, 2022)",youtube
-GuyInACube,https://www.youtube.com/watch?v=Sy-k8DhHPks,2022-05-12,How do you share your Power BI Dataset for someone to review?,youtube
-GuyInACube,https://www.youtube.com/watch?v=lTkWAfrMwOg,2022-05-11,Why isn&#39;t my Agg hitting when using DISTINCTCOUNT in Power BI???,youtube
-GuyInACube,https://www.youtube.com/watch?v=-e3jNYl9AJ4,2022-05-10,How to make SQL Pools even faster in Azure Synapse Analytics,youtube
-GuyInACube,https://www.youtube.com/watch?v=utz9NQZyZ1A,2022-05-07,"REPLAY Power BI tips from the Pros - LIVE (May 7, 2022)",youtube
-GuyInACube,https://www.youtube.com/watch?v=aJHhQsNiOiw,2022-05-05,EFFICIENT approach in Microsoft Teams for Power BI questions!,youtube
-GuyInACube,https://www.youtube.com/watch?v=CYSMZxaXNLk,2022-05-04,My Excel file is in the cloud! Why isn&#39;t refresh working in Power BI???,youtube
-GuyInACube,https://www.youtube.com/watch?v=WbDqeNsmoL4,2022-05-03,Why you should look at Azure Synapse Analytics!,youtube
-GuyInACube,https://www.youtube.com/watch?v=ZYO7wGKVM0Y,2022-04-27,Row-Level Security and Object-Level Security together in Power BI??? Yup!,youtube
-GuyInACube,https://www.youtube.com/watch?v=JHq5mHPP8-A,2022-04-23,"REPLAY Power BI tips from the Pros - LIVE (April 23, 2022)",youtube
-GuyInACube,https://www.youtube.com/watch?v=BSmmNgO_EOU,2022-04-20,Blown AWAY by Column From Examples in Power Query,youtube
-GuyInACube,https://www.youtube.com/watch?v=KRgz1UVgQ80,2022-04-16,"REPLAY Power BI tips from the Pros - LIVE (April 16, 2022)",youtube
-GuyInACube,https://www.youtube.com/watch?v=WybnTHDl-AM,2022-04-14,How to get a DATE TABLE easily in Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=RbMFQNthlGM,2022-04-13,Are you backing up your Power BI Dataset???,youtube
-GuyInACube,https://www.youtube.com/watch?v=_p5GcjYMHq0,2022-04-09,"REPLAY Power BI tips from the Pros - LIVE (April 9, 2022)",youtube
-GuyInACube,https://www.youtube.com/watch?v=sXn-QZqLD-8,2022-04-07,Nothing selected in Power BI Slicer? Then don&#39;t show data!,youtube
-GuyInACube,https://www.youtube.com/watch?v=-jvnjx-264c,2022-04-06,Composite models in Power BI and Storage modes - what to pick???,youtube
-GuyInACube,https://www.youtube.com/watch?v=ISacusJ1Dss,2022-03-31,Use this Power BI feature to display custom message or titles,youtube
-GuyInACube,https://www.youtube.com/watch?v=zdJyOQP8jXw,2022-03-26,"REPLAY Power BI tips from the Pros - LIVE (Mar 26, 2022)",youtube
-GuyInACube,https://www.youtube.com/watch?v=q5nxFcvrnqw,2022-03-24,Who doesn&#39;t like FREE Power BI training??? (2022),youtube
-GuyInACube,https://www.youtube.com/watch?v=twsuBaiPaCk,2022-03-23,Can Patrick handle the challenge???,youtube
-GuyInACube,https://www.youtube.com/watch?v=hv8U_z-y-1s,2022-03-19,"REPLAY Power BI tips from the Pros - LIVE (Mar 19, 2022)",youtube
-GuyInACube,https://www.youtube.com/watch?v=gyOKFSVYEew,2022-03-17,Some tips for your data labels in Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=t6_uRHLWiMQ,2022-03-16,"So, we just wait???",youtube
-GuyInACube,https://www.youtube.com/watch?v=L-wqwzj0-Xo,2022-03-10,Revisiting a Power BI solution with Dynamic M Parameters,youtube
-GuyInACube,https://www.youtube.com/watch?v=LTHTuX8TZZw,2022-03-09,Oops! Forgot to show this...,youtube
-GuyInACube,https://www.youtube.com/watch?v=z0KJlEJ1Flc,2022-03-05,"REPLAY Power BI tips from the Pros - LIVE w/ Marco Russo (Mar 5, 2022)",youtube
-GuyInACube,https://www.youtube.com/watch?v=hDf6nrKdtbI,2022-03-03,Dealing with orphaned Power BI workspaces,youtube
-GuyInACube,https://www.youtube.com/watch?v=1GvVCHeqJz4,2022-03-02,Create Hybrid Tables with Tabular Editor for Power BI? YES!!!,youtube
-GuyInACube,https://www.youtube.com/watch?v=1XavbySOeuc,2022-02-26,"REPLAY Power BI tips from the Pros - LIVE (Feb 26, 2022)",youtube
-GuyInACube,https://www.youtube.com/watch?v=vjcWToSAlZ8,2022-02-23,Make your Power BI mobile reports POP,youtube
-GuyInACube,https://www.youtube.com/watch?v=1XMV_JKcwgw,2022-02-19,"REPLAY Power BI tips from the Pros - LIVE (Feb 19, 2022)",youtube
-GuyInACube,https://www.youtube.com/watch?v=ipdMRPdXcWA,2022-02-17,Do we need more Power BI Premium Capacity?,youtube
-GuyInACube,https://www.youtube.com/watch?v=EowHdhy-Nio,2022-02-16,A little trick for SharePoint Online Images in Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=RcJP_nDQaSE,2022-02-10,How to get Secure Images in Power BI Reports,youtube
-GuyInACube,https://www.youtube.com/watch?v=1yJnmZRTNZg,2022-02-09,How do I get my Excel users to use Power BI???,youtube
-GuyInACube,https://www.youtube.com/watch?v=YU1VjMEOw9Y,2022-02-03,Is a parameter filtered in Power BI Paginated Reports???,youtube
-GuyInACube,https://www.youtube.com/watch?v=v79MjJZoIZg,2022-01-27,Create a date range parameter with Power BI Paginated Reports,youtube
-GuyInACube,https://www.youtube.com/watch?v=EZifdFfjTNg,2022-01-26,How Parameters work with the Power BI Paginated Visual,youtube
-GuyInACube,https://www.youtube.com/watch?v=lopTsclrpHI,2022-01-20,How we optimize Power Query and Power BI Dataflows,youtube
-GuyInACube,https://www.youtube.com/watch?v=ao9IJWcwPps,2022-01-19,Power BI Premium Gen2 updates (January 2022),youtube
-GuyInACube,https://www.youtube.com/watch?v=HckuKYlx8kk,2022-01-13,Combining refresh and real time with Hybrid Tables in Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=NkRVaRUVO7s,2022-01-12,Add a little info to your Sparkline in Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=ILu0xh3fHvQ,2022-01-05,Exploring Streaming Dataflows in Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=MttvudnaBD0,2021-12-30,Another Power BI optimization tool - Report Analyzer,youtube
-GuyInACube,https://www.youtube.com/watch?v=li0c6R6UpCw,2021-12-29,To Pivot or Unpivot? That is the question!,youtube
-GuyInACube,https://www.youtube.com/watch?v=BmAuABIwhc0,2021-12-23,Making sense of the Power BI Premium Gen2 Metrics App,youtube
-GuyInACube,https://www.youtube.com/watch?v=gwAi8EmjDio,2021-12-22,No Calendar Table? How to add Fiscal Month and Sort in Power BI?,youtube
-GuyInACube,https://www.youtube.com/watch?v=c1S-8rl7t1Q,2021-12-16,Dataverse + Power BI: What you didn&#39;t even know you needed!,youtube
-GuyInACube,https://www.youtube.com/watch?v=2hoYFQ_IjPk,2021-12-15,Avoid Parameter Error when refreshing a Power BI partition,youtube
-GuyInACube,https://www.youtube.com/watch?v=OONgT-DjmY0,2021-12-09,Are you using the right Dataflows connector in Power BI???,youtube
-GuyInACube,https://www.youtube.com/watch?v=IdXK470YwAQ,2021-12-08,Use Bookmark Navigator in Power BI to easily move through Bookmarks,youtube
-GuyInACube,https://www.youtube.com/watch?v=YBTQ3CFstzs,2021-12-02,Call any Power BI REST API with PowerShell,youtube
-GuyInACube,https://www.youtube.com/watch?v=4TxEvFmE44Q,2021-12-01,Use Page Navigator to go to the NEXT LEVEL in Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=VC9XoDaAE-Y,2021-11-25,Personal Gateway governance in Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=jcxJzh1TYWg,2021-11-24,Do you want DYNAMIC legends in Power BI??? Of course you do...,youtube
-GuyInACube,https://www.youtube.com/watch?v=lg3Un1X1yuQ,2021-11-18,Custom Visual governance in Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=icCGFG6KpIA,2021-11-17,Configure Incremental Refresh with Tabular Editor,youtube
-GuyInACube,https://www.youtube.com/watch?v=Z-J4n9uymQ0,2021-11-11,Review Performance Analyzer in this Power BI Report from Smart Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=eaOciHyL6kY,2021-11-10,Flexibility with Days Since calculations in Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=M_nS1Liey-w,2021-11-04,Page intentionally left blank,youtube
-GuyInACube,https://www.youtube.com/watch?v=SK0qSx3vY_k,2021-10-28,The Power BI Premium video you need to watch… probably (Oct 2021),youtube
-GuyInACube,https://www.youtube.com/watch?v=ZGQE1WZtD5M,2021-10-27,What&#39;s this Power BI report filtered by???,youtube
-GuyInACube,https://www.youtube.com/watch?v=lxbO6gjJqe0,2021-10-20,Highlight a row in a Power BI Paginated report,youtube
-GuyInACube,https://www.youtube.com/watch?v=z8xXDPkpljw,2021-10-14,When optimizing Power BI don&#39;t forgot about CPU,youtube
-GuyInACube,https://www.youtube.com/watch?v=rvCAPoy2TXs,2021-10-13,RLS with TWO Fact tables in Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=1dRhH-EO-rI,2021-10-07,What are Power BI data connectors and why should you care?,youtube
-GuyInACube,https://www.youtube.com/watch?v=ujhCadWe2YI,2021-10-06,How to show 5 minute intervals in Power BI?,youtube
-GuyInACube,https://www.youtube.com/watch?v=OnE-Ty9P2PI,2021-09-30,Power Query! Uggg - Where do you start? | Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=eqO4wFZQOPc,2021-09-29,Finding the lowest value and highlighting in DAX | Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=3gpXMMRJjw8,2021-09-23,DAX! Uggg - Where do you start? | Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=_j0iTUo2HT0,2021-09-22,One Click Calculation Group in Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=etyVYsAcH6I,2021-09-15,How to show a name more than once in Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=YEIKzeNCqGg,2021-09-09,Power BI XMLA Endpoint: Why you should care,youtube
-GuyInACube,https://www.youtube.com/watch?v=SmczqYv_rfY,2021-09-08,When is a date not a date in Power BI?,youtube
-GuyInACube,https://www.youtube.com/watch?v=R3Eqk1ZRUOY,2021-09-02,Case of the SLOW Power BI report: Hierarchies and RLS,youtube
-GuyInACube,https://www.youtube.com/watch?v=phlaZn54Mio,2021-09-01,CRUSHING requirements with Small Multiples in Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=0iLSyCel6yw,2021-08-26,5 Guy in a Cube tips to make BETTER VIDEO!,youtube
-GuyInACube,https://www.youtube.com/watch?v=2HYl3V5ak1U,2021-08-25,5 tips to LEVEL UP your public speaking or presentation skills,youtube
-GuyInACube,https://www.youtube.com/watch?v=uKSkMDEGM2I,2021-08-19,3 signs it&#39;s time to OPTIMIZE your Power BI report,youtube
-GuyInACube,https://www.youtube.com/watch?v=OYYnoMa-93g,2021-08-18,Can you refresh a single table in Power BI?,youtube
-GuyInACube,https://www.youtube.com/watch?v=lfP6ygindSU,2021-08-12,Refresh your data in Power BI WITHOUT a user???,youtube
-GuyInACube,https://www.youtube.com/watch?v=ZkL2jo3b_5M,2021-08-11,Exploring the Visio visual in Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=52remtERZ6o,2021-08-05,Fix my Calculation Group in Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=5Fcf8eXRq2E,2021-08-04,Bringing Paginated into Power BI reports - INSANE AMAZING!,youtube
-GuyInACube,https://www.youtube.com/watch?v=nRm-yQrh-ZA,2021-07-29,Measuring RLS Performance in Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=ZaZyR3-1ru4,2021-07-28,Smart Narratives and Conditional Formatting in Power BI? Yes please!,youtube
-GuyInACube,https://www.youtube.com/watch?v=ymP0TvIKFKE,2021-07-22,Looking into the future of Power BI (2021),youtube
-GuyInACube,https://www.youtube.com/watch?v=NomSliJK3s4,2021-07-21,Intro to R with Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=_On_aX8DbJw,2021-07-15,Make your Power BI Visual POP with this column header trick,youtube
-GuyInACube,https://www.youtube.com/watch?v=T0dsCUeCFjg,2021-07-14,Exploring the Power Automate Visual in Power BI | Sending emails,youtube
-GuyInACube,https://www.youtube.com/watch?v=D1LO8syugMA,2021-07-08,Create Buckets or Groups with Power Query in Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=HGpfwpjlMro,2021-07-01,Tracing with Log Analytics and Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=3_DOF_qjguA,2021-06-30,Intro to Python in Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=x7q1DHf8wE4,2021-06-24,Natives Queries or ODBC with Incremental Refresh in Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=aKNVLXSHRNY,2021-06-23,Digging into Modern Tooltips with Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=Ijs61r_cUYU,2021-06-16,Unboxing Tabular Editor 3 | Reaction Video,youtube
-GuyInACube,https://www.youtube.com/watch?v=B3WK5RdOY54,2021-06-12,"REPLAY Tabular Editor 3 &amp; Power BI Q&amp;A - LIVE w/ Daniel Otykier &amp; Marco Russo (June 12, 2021)",youtube
-GuyInACube,https://www.youtube.com/watch?v=P0_5v2WIGcA,2021-06-10,Tracing your DAX queries in Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=1yv5srlqgmI,2021-06-09,Do&#39;s and Don&#39;t with cascading slicers in Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=dYmzb5UMkXw,2021-05-27,3+ approaches for Dynamic Axis in Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=Hl8DyrVdV6o,2021-05-26,Exploring ANOMALY detection in Power BI and a SNEAK PEAK,youtube
-GuyInACube,https://www.youtube.com/watch?v=D9dm0-cp1_s,2021-05-20,My CHECKLIST for troubleshooting Power BI Performance,youtube
-GuyInACube,https://www.youtube.com/watch?v=8Nt6sHJE_RE,2021-05-19,A TWIST on dynamically filtering visuals by a slicer in Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=G4YND7H2vwM,2021-05-13,Tools to take Power BI to the NEXT LEVEL,youtube
-GuyInACube,https://www.youtube.com/watch?v=YCs2_NLYlOc,2021-05-12,Test your Power BI DAX measures in DAX Studio,youtube
-GuyInACube,https://www.youtube.com/watch?v=8hjdOCni_ZY,2021-05-06,Enable QUERY FOLDING for native queries in Power Query / Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=UgqVSEoj4BM,2021-05-05,Avoid Left Outer Joins with DirectQuery in Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=fCGd5qID-dY,2021-04-29,Source Control with Power BI - Can it be done?,youtube
-GuyInACube,https://www.youtube.com/watch?v=NkiUC-jR67s,2021-04-28,Report BURSTING with the Power Platform,youtube
-GuyInACube,https://www.youtube.com/watch?v=emKSMFBusfM,2021-04-22,Best kept SECRET in Power BI??? You tell us!,youtube
-GuyInACube,https://www.youtube.com/watch?v=iq-SAaWkycM,2021-04-21,WHAT IF Power BI could dynamically highlight top or bottom values?,youtube
-GuyInACube,https://www.youtube.com/watch?v=r46kUh40SN8,2021-04-15,The BANANAS approach to use Power BI Bookmarks to swap tooltips,youtube
-GuyInACube,https://www.youtube.com/watch?v=xCMqWEvSkAs,2021-04-14,Mastering Power BI Bookmarks,youtube
-GuyInACube,https://www.youtube.com/watch?v=S7Fh2l-4jlc,2021-04-08,Power BI for the NON-TECHnical person,youtube
-GuyInACube,https://www.youtube.com/watch?v=GDzjymo-cQw,2021-04-07,Exploring the Power BI Model View,youtube
-GuyInACube,https://www.youtube.com/watch?v=GnPuU3X74SY,2021-04-01,Swap Power BI Visuals to add FLEXIBILITY in your reports,youtube
-GuyInACube,https://www.youtube.com/watch?v=91D1WrNrHtY,2021-03-31,Why is Power BI SLOW,youtube
-GuyInACube,https://www.youtube.com/watch?v=yYr_SlG8bpw,2021-03-25,Help your Power BI report users with an Information Panel,youtube
-GuyInACube,https://www.youtube.com/watch?v=qZOEDBedATA,2021-03-24,3 ways to REDUCE DATA In Power BI Desktop (No Premium needed!),youtube
-GuyInACube,https://www.youtube.com/watch?v=k9LGRfREuIk,2021-03-18,5 IDEAS to take Power BI reports to the NEXT LEVEL,youtube
-GuyInACube,https://www.youtube.com/watch?v=XBFVDedwLiY,2021-03-17,Using Microsoft Forms data with Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=5ikWESY4sHc,2021-03-11,INSANE AMAZING updates for the Power BI Embedded Playground (2021),youtube
-GuyInACube,https://www.youtube.com/watch?v=hbJA6EYHq1Y,2021-03-10,TAME the the beast that is DAX in Power BI (aka how to learn DAX),youtube
-GuyInACube,https://www.youtube.com/watch?v=TAsUb93r2tg,2021-03-04,Using Power BI reports from an end user perspective (2021),youtube
-GuyInACube,https://www.youtube.com/watch?v=0eYc-_KKTDs,2021-03-03,Ever wanted a NOTIFICATION in your Power BI Reports?,youtube
-GuyInACube,https://www.youtube.com/watch?v=XIq5vN5oPf8,2021-02-25,INSANE AMAZING Power Query tip to quickly change data sources in Power BI and Excel,youtube
-GuyInACube,https://www.youtube.com/watch?v=vZndrBBPiQc,2021-02-24,Why Power BI loves a Star Schema,youtube
-GuyInACube,https://www.youtube.com/watch?v=1Qan0_VmZRw,2021-02-18,Best Practice Analyzer in Tabular Editor for your Power BI Dataset,youtube
-GuyInACube,https://www.youtube.com/watch?v=tKeaQpWynzg,2021-02-17,Working with Slowly Changing Dimensions in Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=cZsQj1WFkGE,2021-02-11,Power BI for report consumers and end users (2021),youtube
-GuyInACube,https://www.youtube.com/watch?v=TnyRsO4NJPc,2021-02-10,Handling MULTIPLE fact tables in Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=lFu1JBPJM1c,2021-02-04,New Contoso Sample app for Power BI Embedded,youtube
-GuyInACube,https://www.youtube.com/watch?v=NA2wlqfjX34,2021-02-03,Power BI slicers vs the filter pane (2021),youtube
-GuyInACube,https://www.youtube.com/watch?v=-ip7mKUdwRg,2021-01-28,Power BI Get Data: Import vs. DirectQuery vs. Live (2021),youtube
-GuyInACube,https://www.youtube.com/watch?v=5AWt6ijJG94,2021-01-27,Avoid the full refresh with Incremental Refresh in Power BI (Premium),youtube
-GuyInACube,https://www.youtube.com/watch?v=B_bAKrXAUh0,2021-01-21,Create your first Power BI report (2021),youtube
-GuyInACube,https://www.youtube.com/watch?v=Z0U9UL9ORh8,2021-01-20,Do I need to be an expert in Power Query M?,youtube
-GuyInACube,https://www.youtube.com/watch?v=6XxCsc1j9U4,2021-01-18,"All about DAX and data modeling in Power BI... (Roundup | Jan 18, 2021)",youtube
-GuyInACube,https://www.youtube.com/watch?v=Vqz2d7pTOV8,2021-01-14,What is Power BI? (2021),youtube
-GuyInACube,https://www.youtube.com/watch?v=XSIbRNXGgPQ,2021-01-13,Getting started with Power BI Paginated Reports (2021),youtube
-GuyInACube,https://www.youtube.com/watch?v=1u6webYD-pc,2021-01-11,"Power BI XMLA endpoint, End-to-End diagram, Dataflows and more... (Roundup | Jan 11, 2021)",youtube
-GuyInACube,https://www.youtube.com/watch?v=_VaBzheAgxY,2021-01-06,Migrate your Paginated reports to Power BI,youtube
-GuyInACube,https://www.youtube.com/watch?v=j8krcevfYTo,2021-01-04,"A look back and what is to come for Power BI and Guy in a Cube (Roundup | Jan 4, 2021)",youtube
-HowToPowerBI,https://www.youtube.com/watch?v=BxcHdwF7_1s,2024-04-14,THE BEST way to add IMAGES from OneDrive &amp; SharePoint in Power BI,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=5Ohp79PLlM8,2024-04-04,"Complete Project with Power BI, Power Apps, Power Automate and Dataverse",youtube
-HowToPowerBI,https://www.youtube.com/watch?v=vyHRHTN47ik,2024-01-26,Power BI Quick Report Makeover  #shorts #powerbi #design,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=hvY6SJrq3Ys,2024-01-24,3 Hacks to Work Faster in Power BI,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=mWPmKKgLFGw,2024-01-15,Power BI Report Makeover | Free Download  #shorts #powerbi #design,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=NcoMymAekhE,2024-01-11,Power BI Report Makeover | Combining All New Visualization Features,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=KNdW82cD0AY,2024-01-05,Power BI Report Design... work in progress #shorts #powerbi,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=ZOOdmUCO3m8,2024-01-03,3 Ways to use Calculation Groups You Need to Know,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=CEUnx79r4N4,2024-01-02,Power BI Report Makeover #shorts #powerbi #design,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=9ZNgyxt4Tb8,2023-12-25,Power BI Report Makeover #shorts #powerbi #design,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=6AXKEd-AhJk,2023-12-14,YES it is Possible! Build a Native Dumbbell Chart in Power BI,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=wLqzSANQKHU,2023-12-10,Interquartile range in a box plot #powerbi #short,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=ByoWRZMS0OA,2023-11-30,BOX PLOT.... what?! When and why is it useful? #powerbi #datatraining,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=5sQhmLDfhJk,2023-11-22,Calculations groups in Power BI | EXAMPLE #shorts #powerbi,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=Lp9d7vcHr0E,2023-11-15,Trend Visualization in Power BI,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=TVTxs_nEZPE,2023-11-03,Color INDICATORS in Power BI I ADD Formatting Options #shorts #powerbi,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=nxvapCD2DoU,2023-11-01,Visualizing Status Tracking Data in Power BI,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=QOcP5OvSwlI,2023-10-25,Building SVG Charts in Power BI,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=AXyVldDPgKU,2023-10-23,Improve UI with Animated ARROWS for Power BI Report #shorts #powerbi,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=MbPmCr4tfvk,2023-09-20,The ART of Subtle ANIMATION in Power BI,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=e2CLS37OYiM,2023-09-19,IN-BETWEEN custom LABLES in a BAR CHART #shorts #powerbi,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=TiS6vnju_mI,2023-09-13,UX Revolution with Visual Level PAGINATION in Power BI,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=NqlgTXCfqSs,2023-08-22,Automatically select KPIs based on the USER | Mastering UX in Power BI Report Design,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=UOATfz00WYg,2023-08-21,Avoid this mistake when working with PERCENTAGES | Weighted Average #analytics   #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=vvqnRo4OdkY,2023-08-18,"DAX Basics: Calculated Column, MEASURES &amp; Iterators |  Power BI Part 4 #PowerBI #dax #shorts",youtube
-HowToPowerBI,https://www.youtube.com/watch?v=4N6jOympJRU,2023-08-11,DAX Basics:  CONTEXT Transition |  Power BI Part 2 #PowerBI #design #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=1t7mXIQIMe4,2023-08-09,DAX Basics: Filter CONTEXT &amp; Calculate |  Power BI Part 1 #PowerBI #design #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=vyU1Y8_FFdY,2023-07-28,Create a UNIQUE Slicer | NEW CARD Visual + SLICER in Power BI #PowerBI #design #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=bFBKm7uSw4U,2023-07-24,QUICK Power BI REPORT Background DESIGN  #PowerBI #design #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=A--_dbwG3Ok,2023-07-16,GET RID of the x-axis SCROLL BAR | Power BI Visual DESIGN Trick  #PowerBI #design #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=-_ie2ApK_rc,2023-09-30,ADDITIONAL Indicators for a BAR Chart in Power BI,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=qUkHvu-Ey7U,2023-09-24,A Simple TRICK to show additional data labels for the BAR CHART in Power BI,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=MbPmCr4tfvk,2023-09-20,The ART of Subtle ANIMATION in Power BI,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=e2CLS37OYiM,2023-09-19,IN-BETWEEN custom LABLES in a BAR CHART #shorts #powerbi,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=vfKxcGmw1sE,2023-09-17,Get MORE out of Your BAR CHARTS in Power BI,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=TiS6vnju_mI,2023-09-13,UX Revolution with Visual Level PAGINATION in Power BI,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=oa0sBSJBFe0,2023-09-10,A VISUAL Every Analyst Should Know | HISTOGRAM with Dynamic BINS in Power BI,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=2YqwBqc8UIw,2023-09-09,Different PEOPLE = Different KPIs in Power BI #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=sr9IIes9jQY,2023-08-29,Training for Power BI Business Users | SNEAK PEEK!,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=NqlgTXCfqSs,2023-08-22,Automatically select KPIs based on the USER | Mastering UX in Power BI Report Design,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=UOATfz00WYg,2023-08-21,Avoid this mistake when working with PERCENTAGES | Weighted Average #analytics   #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=vvqnRo4OdkY,2023-08-18,"DAX Basics: Calculated Column, MEASURES &amp; Iterators |  Power BI Part 4 #PowerBI #dax #shorts",youtube
-HowToPowerBI,https://www.youtube.com/watch?v=4gzMi57puMY,2023-08-13,🔎 DAX Basics:  Demystifying Variables |  Power BI Part 3 #PowerBI #design #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=4N6jOympJRU,2023-08-11,DAX Basics:  CONTEXT Transition |  Power BI Part 2 #PowerBI #design #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=1t7mXIQIMe4,2023-08-09,DAX Basics: Filter CONTEXT &amp; Calculate |  Power BI Part 1 #PowerBI #design #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=uq6pjrxz0VU,2023-08-03,🔥Icon SLICER BUTTONS | Power BI Trick #PowerBI #design #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=vyU1Y8_FFdY,2023-07-28,Create a UNIQUE Slicer | NEW CARD Visual + SLICER in Power BI #PowerBI #design #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=bFBKm7uSw4U,2023-07-24,QUICK Power BI REPORT Background DESIGN  #PowerBI #design #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=q8MkLFL6VW4,2023-07-20,UNLEASH Hidden INSIGHTS | Data COMPARISONS in Power BI REIMAGINED,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=A--_dbwG3Ok,2023-07-16,GET RID of the x-axis SCROLL BAR | Power BI Visual DESIGN Trick  #PowerBI #design #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=KsFVyyv0qCc,2023-07-14,Creating a TIMELINE Visual Step by Step #PowerBI #design #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=mxkacatPYog,2023-07-12,The ultimate HACK for a quick REPORT DESIGN | Create STUNNING Report BACKGROUNDS in Power BI,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=SflwgY1Xgug,2023-07-08,Fastest way to ADD ICONS to Power BI REPORT  #PowerBI #design #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=9NMJSBWcGfM,2023-07-06,Checkmark SLICER You Have Not Seen Before | Power BI,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=lZZGimCfCt4,2023-07-05,😱 OH NO! Custom LABELS do NOT SHOW | Here is how to FIX IT  #PowerBI #design #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=dbzp23tTe-4,2023-07-04,TIMELINE visual in Power BI: formatting MARKERS  #PowerBI #design #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=54pBUbVL8tU,2023-07-03,Mastering VISUAL INTERACTIONS | Report DESIGN in Power BI,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=ufZB3Qc9B0g,2023-07-01,💡TOGGLE between LABELS in Power BI  #PowerBI #design #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=yDNJayPPniE,2023-06-30,Power BI REPORT That Looks Like an APP in 1 minute #PowerBI #design #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=i14kI1rwGV4,2023-06-29,🎨Create a Power Point background for your Power BI report! #PowerBI #design #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=k-8bCvKPn48,2023-06-28,💪Close your KNOWLEDGE GAPS in Power BI | LEARN Power BI for FREE Step 4  #PowerBI #learn #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=sGJqhxD25C0,2023-06-27,📣 UNLOCK the Power of PRACTICE | LEARN Power BI for FREE Step 3  #PowerBI #learn #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=imBjwbpIrBg,2023-06-26,⭐ Power BI Starting GUIDE | LEARN Power BI for FREE Step 2  #PowerBI #learn #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=3i8DxM7asRM,2023-06-25,🧑‍🎓Power BI everywhere | LEARN Power BI for FREE Step 1  #PowerBI #learn #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=PnCQkJbWypI,2023-06-24,✨ AI Icons for Power BI report | PROMPTs you need to know #PowerBI #design #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=Fffyeya1ZUc,2023-06-23,😎 Hide APPLY ALL SLICERS button when nothing is selected #PowerBI #design #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=OXFQmUIQ1aQ,2023-06-22,✏️ 🤯 CLEAR ALL SLICERS | Reset button in Power BI #PowerBI #design #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=1-8l9sX_0SQ,2023-06-21,📊🔖 Finally CUSTOM LABELS arrived in Power BI! 🚀🌟 #PowerBI #design #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=jkm7Qj-9ags,2023-06-20,📢 APPLY ALL SLICERS in Power BI | A QUICK HOW TO📊💡#PowerBI #design #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=ktBzP07EfQw,2023-06-18,🚀TIPS on Adding ICONS to page names in Power BI 🎨 🚀 #PowerBI #design #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=M8PXJ5KDlIQ,2023-06-16,📊 Quick TIPS for designing a MENU in Power BI 🎨 🚀 #PowerBI #design #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=cVy6rQMcmkg,2023-06-14,PUSH the limits of Power BI native VISUALS and CAPTIVATE your audience | TIMELINE chart Step-by-Step,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=J56xoO5tWhk,2023-05-31,From Boring to BRILLIANT: How CUSTOM LABELS in Power BI Will Make Your REPORTS Shine,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=fnMj9JFg9oA,2023-04-24,How to use AI to create INSANE Custom ICONS for any Analytical Dashboard,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=a3D7oXYjM9k,2023-04-20,Use DAX to Show Values in any Way You Like! Dynamic Format Strings in Power BI,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=0il9UPvg2Jg,2023-04-12,How I would LEARN Power BI for FREE in 2023,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=ifTJ-vqWO08,2023-04-03,Totals Option for Fields Parameters in Power BI #powerbi #short,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=CqTW9dHsGrM,2023-03-30,Add POWER to your Titles in Power BI I The ONE TRICK you need to know,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=or13jIVrAlg,2023-03-27,SLICER DESIGN 2.0 in Power BI I UPGRADED functionality and UX,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=qumRCVLjcIo,2023-03-23,SUPERCHARGE VISUALS in Power BI | Add KPIs to Titles,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=WSBFPQoV-ak,2023-03-17,SORT AXIS order in Power BI #powerbi #short,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=Ty3iMTDZAA0,2023-03-16,The ONE THING that Fields Parameters Were Always Missing,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=eib5X5xRlz8,2023-01-17,WINDOW Function in ACTION I Examples in Power BI,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=JU-cMV6rTTk,2023-01-09,Power BI Report in less than 1 MINUTE! #powerbi #short,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=Xr1s_iJcJfM,2023-01-07,ULTIMATE TOGGLE Button in Power BI #powerbi #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=6m2ZGeX-EyM,2022-12-22,I Quit! AI Will Take Over The Power BI Tutorials,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=6yPJsdF1_I4,2022-12-15,DYNAMIC Axis Range #powerbi #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=3RxPaFFLk_A,2022-12-13,ChatGPT writes my DAX I OpenAI in Power BI #powerbi #short,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=5QMpc5fUV2I,2022-12-11,Build a TOGGLE BUTTON Like a PRO in Power BI,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=RVcX5IBbmUY,2022-12-10,WRITE Your OWN Power Query M FUNCTION #powerbi #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=nWgPynP9XDM,2022-12-08,NEW! Dynamic Slicers with Fields Parameters | ULTIMATE EXAMPLE in Power BI,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=cn3I4WjWPgQ,2022-12-06,Everything about Power Query M Functions #powerbi #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=sJtvL9QeG64,2022-11-30,BETTER Way to Change the DATA SOURCE #powerbi #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=IHxey7AqMRs,2022-11-27,100% Axis CONTROL in Power BI,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=GaxzmTrC9Cw,2022-11-24,SMART Data LABELS #powerbi #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=-Ipmy_JDufs,2022-11-20,Dare to Say NO! #powerbi #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=kAMhh776V8w,2022-11-13,Turn Any IMAGE into an INTERACTIVE VISUAL in Power BI,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=42lUqqlsKVc,2022-11-12,Have You Ever Used Your Own Report?! #powerbi #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=tQYQLRGw3qU,2022-11-11,SMART Date Axis #power #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=0xaY-HekWMA,2022-11-06,Give it 24H #shorts #powerbi,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=FHduSU00QPI,2022-11-05,Notification BELL #powerbi #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=KReYWx5NXYg,2022-11-03,SMART AXIS Magic | Let Power BI Choose the OPTIMAL Period,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=GDYV-PSM44Q,2022-11-01,ONE AND ONLY Power BI Expert?! #powerbi #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=tG6VQs3zQJo,2022-10-29,OneDrive + Power BI? DO it RIGHT! #powerbi #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=eDEefg2YI90,2022-10-27,NEW Project? Do THIS First #powerbi #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=SzjSzc_BBwc,2022-10-23,Clear All SLICERS with 1 CLICK! #powerbi #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=5tuhw2jfmEU,2022-10-22,OMG! What did you do a year ago?! #powerbi #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=vV6bj5c5zY4,2022-10-21,NEW in Power BI! Quick Measure Suggestions #powerbi #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=6SJjzWehp8E,2022-10-20,Every Power BI Developer... #powerbi #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=nKoJf2dhrWM,2022-10-19,How to learn DATA analytics? #powerbi #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=X6Z9xNqvk_U,2022-10-18,Format Multiple Visuals at Once #powerbi #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=n-eocu-scl0,2022-10-16,Visual Padding  #powerbi #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=zJeMPMQztbo,2022-10-15,Power BI Developer Job,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=UW8Gu4RmBHU,2022-10-13,Create a POP-UP PANEL with Bookmarks in Power BI #powerbi #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=bOYkeaBfIIQ,2022-10-12,Check your NUMBERS #powerbi #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=v6fP8gyCLLc,2022-10-10,5 DESIGN TRICKS that Make EVERY Power BI Report Look GREAT!,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=lXHtrthKdqw,2022-10-09,The Fastest File Type for Power BI #powerbi #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=RuCN212a9lU,2022-10-07,3 Questions for EVERY Report,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=boWNYqlkVt4,2022-10-05,HIGHLIGHT Chosen Data Points in a Line Chart #powerbi #shorts,youtube
-HowToPowerBI,https://www.youtube.com/watch?v=C3QY0DWts8w,2022-10-02,NEW OFFSET Function in DAX | Will It Change How You Write DAX?,youtube
