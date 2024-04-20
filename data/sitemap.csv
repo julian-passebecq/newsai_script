@@ -1,5 +1,5 @@
 website,loc,lastmod,cured_name,type
-www.kevinrchant.com,https://www.kevinrchant.com/,2024-04-18,,blog
+www.kevinrchant.com,https://www.kevinrchant.com/,2024-04-19,,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2019/08/28/finding-sql-server-versions-for-docker-and-linux-using-a-web-browser/,2019-08-29,finding sql server versions for docker and linux using a web browser,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2019/10/14/speaking-at-sql-saturday-sofia/,2019-10-14,speaking at sql saturday sofia,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2019/10/16/challenging-yourself-at-conferences/,2019-10-16,challenging yourself at conferences,blog
@@ -386,7 +386,7 @@ www.kevinrchant.com,https://www.kevinrchant.com/2024/01/16/overview-of-the-micro
 www.kevinrchant.com,https://www.kevinrchant.com/2024/03/23/thoughts-about-gaining-the-fabric-analytics-engineer-associate-certification/,2024-03-24,thoughts about gaining the fabric analytics engineer associate certification,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2024/04/08/initial-testing-of-mirroring-azure-cosmos-db-databases-in-microsoft-fabric/,2024-04-08,initial testing of mirroring azure cosmos db databases in microsoft fabric,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2024/01/10/checklist-for-the-beta-version-of-the-dp-600-beta-exam-for-microsoft-fabric/,2024-04-09,checklist for the beta version of the dp 600 beta exam for microsoft fabric,blog
-www.kevinrchant.com,https://www.kevinrchant.com/2024/04/18/testing-of-the-new-esg-data-estate-capability-for-sustainability-reporting-in-microsoft-fabric/,2024-04-18,testing of the new esg data estate capability for sustainability reporting in microsoft fabric,blog
+www.kevinrchant.com,https://www.kevinrchant.com/2024/04/18/testing-of-the-new-esg-data-estate-capability-for-sustainability-reporting-in-microsoft-fabric/,2024-04-19,testing of the new esg data estate capability for sustainability reporting in microsoft fabric,blog
 thomas-leblanc.com,https://thomas-leblanc.com/,,,blog
 thomas-leblanc.com,https://thomas-leblanc.com/sample-page/,2016-02-12,sample page,blog
 thomas-leblanc.com,https://thomas-leblanc.com/2016/02/14/cost-threshold-and-max-degree-of-parallelism/,2016-03-13,cost threshold and max degree of parallelism,blog
@@ -1454,7 +1454,7 @@ www.oliviertravers.com,https://www.oliviertravers.com/more-marketing-blogs/,2002
 www.oliviertravers.com,https://www.oliviertravers.com/pick-a-car-any-car/,2002-05-07,pick a car any car,blog
 www.oliviertravers.com,https://www.oliviertravers.com/france-or-a-frontier/,2002-05-07,france or a frontier,blog
 www.oliviertravers.com,https://www.oliviertravers.com/hell-be-back-m-le-pen-is-down-but-not-out/,2002-05-07,hell be back m le pen is down but not out,blog
-data-mozart.com,https://data-mozart.com/,2024-04-10,,blog
+data-mozart.com,https://data-mozart.com/,2024-04-19,,blog
 data-mozart.com,https://data-mozart.com/to-direct-query-or-not/,2019-12-31,to direct query or not,blog
 data-mozart.com,https://data-mozart.com/secretlifeofctes/,2020-01-02,secretlifeofctes,blog
 data-mozart.com,https://data-mozart.com/working-with-images-in-power-bi/,2020-01-03,working with images in power bi,blog
@@ -1634,6 +1634,7 @@ data-mozart.com,https://data-mozart.com/what-is-mirroring-in-ms-fabric-and-why-d
 data-mozart.com,https://data-mozart.com/migrate-existing-power-bi-semantic-models-to-direct-lake-a-step-by-step-guide/,2024-04-07,migrate existing power bi semantic models to direct lake a step by step guide,blog
 data-mozart.com,https://data-mozart.com/meet-powerops-your-new-best-power-bi-external-friend/,2024-04-08,meet powerops your new best power bi external friend,blog
 data-mozart.com,https://data-mozart.com/50-shades-of-direct-lake-everything-you-need-to-know-about-the-new-power-bi-storage-mode/,2024-04-10,50 shades of direct lake everything you need to know about the new power bi storage mode,blog
+data-mozart.com,https://data-mozart.com/mastering-dp-600-exam-implement-a-star-schema-for-power-bi-semantic-model/,2024-04-19,mastering dp 600 exam implement a star schema for power bi semantic model,blog
 www.sqlbi.com,https://www.sqlbi.com/articles/datetool-dimension-an-alternative-time-intelligence-implementation/,2024-04-16,datetool dimension an alternative time intelligence implementation,blog
 www.sqlbi.com,https://www.sqlbi.com/articles/keepfilters-a-new-dax-feature-to-correctly-compute-over-arbitrary-shaped-sets/,2024-04-16,keepfilters a new dax feature to correctly compute over arbitrary shaped sets,blog
 www.sqlbi.com,https://www.sqlbi.com/articles/creating-a-copy-of-a-bism-tabular-project/,2024-04-16,creating a copy of a bism tabular project,blog
@@ -1956,7 +1957,7 @@ en.brunner.bi,https://en.brunner.bi/post/how-to-force-users-to-select-a-filter-i
 en.brunner.bi,https://en.brunner.bi/post/how-to-open-ods-files-in-power-bi-power-query,2022-06-24,how to open ods files in power bi power query,blog
 en.brunner.bi,https://en.brunner.bi/post/how-to-visualize-any-map-in-power-bi,2022-02-20,how to visualize any map in power bi,blog
 en.brunner.bi,https://en.brunner.bi/post/limitations-of-the-power-bi-lineage-view-or-impact-analysis,2023-08-24,limitations of the power bi lineage view or impact analysis,blog
-en.brunner.bi,https://en.brunner.bi/post/measure-killer-feedback-1,2024-04-18,measure killer feedback 1,blog
+en.brunner.bi,https://en.brunner.bi/post/measure-killer-feedback-1,2024-04-19,measure killer feedback 1,blog
 en.brunner.bi,https://en.brunner.bi/post/new-ways-to-check-if-queries-fold-in-power-query,2023-05-04,new ways to check if queries fold in power query,blog
 en.brunner.bi,https://en.brunner.bi/post/new-ways-to-optimize-shared-datasets-in-power-bi-1-2-the-offline-approach-1,2024-02-21,new ways to optimize shared datasets in power bi 1 2 the offline approach 1,blog
 en.brunner.bi,https://en.brunner.bi/post/page-limits-for-email-subscriptions-in-power-bi-premium,2022-06-29,page limits for email subscriptions in power bi premium,blog
@@ -2068,6 +2069,7 @@ pragmaticworks.com,https://pragmaticworks.com/blog/what-is-azure-key-vault,2023-
 pragmaticworks.com,https://pragmaticworks.com/schedule/in-a-day-worskhops,2024-02-21,in a day worskhops,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/replicate-data-into-azure-database-for-mysql,2023-03-28,replicate data into azure database for mysql,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/check-out-these-boot-camp-testimonials,2023-03-28,check out these boot camp testimonials,blog
+pragmaticworks.com,https://pragmaticworks.com/bootcamps,2024-04-19,bootcamps,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/four-underutilized-power-fx-formulas,2024-01-25,four underutilized power fx formulas,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/webinar-follow-up-leveraging-cloud-for-the-modern-sql-developer,2023-03-16,webinar follow up leveraging cloud for the modern sql developer,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-custom-visuals-gap-analysis,2023-03-28,power bi custom visuals gap analysis,blog
@@ -3468,7 +3470,6 @@ pragmaticworks.com,https://pragmaticworks.com/blog/2-things-you-need-to-know-abo
 pragmaticworks.com,https://pragmaticworks.com/lwtn-conquering-pl-300-registration-registration,2023-08-30,lwtn conquering pl 300 registration registration,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-monthly-digest-june-2019,2023-03-28,power bi monthly digest june 2019,blog
 pragmaticworks.com,https://pragmaticworks.com/events/jan-29-virtual-microsoft-fabric-bootcamp-52,2024-03-14,jan 29 virtual microsoft fabric bootcamp 52,blog
-pragmaticworks.com,https://pragmaticworks.com/bootcamps,2024-03-20,bootcamps,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/what-a-great-looking-bunch,2024-04-09,what a great looking bunch,blog
 pragmaticworks.com,https://pragmaticworks.com/art-and-science-of-excel-modeling,2023-08-07,art and science of excel modeling,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/replicating-excel-percentile-in-dax,2023-09-28,replicating excel percentile in dax,blog
@@ -3576,7 +3577,7 @@ pragmaticworks.com,https://pragmaticworks.com/blog/hybrid-cloud-strategies-and-m
 pragmaticworks.com,https://pragmaticworks.com/blog/what-you-need-to-know-about-power-bi-licensing,2023-03-28,what you need to know about power bi licensing,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/why-use-azure-databricks,2023-03-28,why use azure databricks,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/time-saving-quick-tips-for-power-bi-beginners,2023-03-28,time saving quick tips for power bi beginners,blog
-data-marc.com,https://data-marc.com/2024/04/16/orchestrate-power-bi-semantic-model-refreshes-through-fabric-pipelines/,2024-04-17,orchestrate power bi semantic model refreshes through fabric pipelines,blog
+data-marc.com,https://data-marc.com/2024/04/16/orchestrate-power-bi-semantic-model-refreshes-through-fabric-pipelines/,2024-04-19,orchestrate power bi semantic model refreshes through fabric pipelines,blog
 data-marc.com,https://data-marc.com/2024/04/09/soft-deletion-of-workspaces-and-retention/,2024-04-09,soft deletion of workspaces and retention,blog
 data-marc.com,https://data-marc.com/2024/04/03/copilot-or-autopilot-unpopular-opinions-on-copilot/,2024-04-06,copilot or autopilot unpopular opinions on copilot,blog
 data-marc.com,https://data-marc.com/2024/02/20/exploring-power-bi-visual-calculations/,2024-02-20,exploring power bi visual calculations,blog
@@ -3704,8 +3705,8 @@ data-marc.com,https://data-marc.com/2018/11/15/parameterize-your-data-source/,20
 data-marc.com,https://data-marc.com/2018/12/06/format-your-colors-based-on-advanced-controls/,2019-03-12,format your colors based on advanced controls,blog
 data-marc.com,https://data-marc.com/2018/10/19/multiple-tier-architecture-and-continuous-delivery-with-power-bi/,2021-04-01,multiple tier architecture and continuous delivery with power bi,blog
 data-marc.com,https://data-marc.com/2018/09/25/the-journey-begins/,2018-10-06,the journey begins,blog
-data-marc.com,https://data-marc.com,2024-04-17,,blog
-www.data-traveling.com,https://www.data-traveling.com/articles,2024-03-22,articles,blog
+data-marc.com,https://data-marc.com,2024-04-19,,blog
+www.data-traveling.com,https://www.data-traveling.com/articles,2024-04-19,articles,blog
 www.data-traveling.com,https://www.data-traveling.com/articles/how-to-handle-different-granularities-power-bi,2024-03-22,how to handle different granularities power bi,blog
 www.data-traveling.com,https://www.data-traveling.com/articles/table-filters-vs-column-filter-power-bi-expanded-tables,2023-09-11,table filters vs column filter power bi expanded tables,blog
 www.data-traveling.com,https://www.data-traveling.com/articles/how-to-add-a-custom-python-package-in-azure-synapse-analytics,2023-09-27,how to add a custom python package in azure synapse analytics,blog
@@ -3716,7 +3717,7 @@ www.data-traveling.com,https://www.data-traveling.com/articles/pro-tips-to-optim
 www.data-traveling.com,https://www.data-traveling.com/articles/milestone-trend-analysis-visual-in-power-bi-with-deneb,2024-01-16,milestone trend analysis visual in power bi with deneb,blog
 www.data-traveling.com,https://www.data-traveling.com/articles/how-to-optimize-pyspark-pivot-operations,2024-02-21,how to optimize pyspark pivot operations,blog
 www.data-traveling.com,https://www.data-traveling.com/articles/performance-impact-of-visual-calculations-using-directquery-mode-in-power-bi,2024-03-21,performance impact of visual calculations using directquery mode in power bi,blog
-www.data-traveling.com,https://www.data-traveling.com/articles/dax-measures-to-calculate-same-period-last-month-/-quarter-in-power-bi,2024-03-22,quarter in power bi,blog
+www.data-traveling.com,https://www.data-traveling.com/articles/dax-measures-to-calculate-same-period-last-month-/-quarter-in-power-bi,2024-04-19,quarter in power bi,blog
 www.data-traveling.com,https://www.data-traveling.com/articles/category/Azure,,Azure,blog
 www.data-traveling.com,https://www.data-traveling.com/articles/category/Power+BI,,Power+BI,blog
 www.data-traveling.com,https://www.data-traveling.com/articles/category/Data+modeling,,Data+modeling,blog
