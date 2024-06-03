@@ -1,5 +1,5 @@
 website,loc,lastmod,cured_name,type
-www.kevinrchant.com,https://www.kevinrchant.com/,2024-05-28,,blog
+www.kevinrchant.com,https://www.kevinrchant.com/,2024-06-02,,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2019/08/28/finding-sql-server-versions-for-docker-and-linux-using-a-web-browser/,2019-08-29,finding sql server versions for docker and linux using a web browser,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2019/10/14/speaking-at-sql-saturday-sofia/,2019-10-14,speaking at sql saturday sofia,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2019/10/16/challenging-yourself-at-conferences/,2019-10-16,challenging yourself at conferences,blog
@@ -375,7 +375,6 @@ www.kevinrchant.com,https://www.kevinrchant.com/2023/11/07/power-bi-project-pbip
 www.kevinrchant.com,https://www.kevinrchant.com/2024/02/13/t-sql-tuesday-171-using-sempy-to-view-dax-in-microsoft-fabric/,2024-02-19,t sql tuesday 171 using sempy to view dax in microsoft fabric,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2024/02/20/deploying-to-development-test-and-production-environments-in-microsoft-fabric/,2024-02-22,deploying to development test and production environments in microsoft fabric,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2024/02/23/upgrading-an-existing-power-bi-project-to-include-tmdl-file-format/,2024-02-23,upgrading an existing power bi project to include tmdl file format,blog
-www.kevinrchant.com,https://www.kevinrchant.com/2023/09/06/microsoft-fabric-git-integration-jargon-guide-for-fabricators/,2024-02-25,microsoft fabric git integration jargon guide for fabricators,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2024/03/02/initial-tests-to-copy-a-direct-lake-semantic-model-to-another-workspace-using-microsoft-fabric-git-integration/,2024-03-02,initial tests to copy a direct lake semantic model to another workspace using microsoft fabric git integration,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2024/03/16/scripts-to-improve-copying-a-direct-lake-semantic-model-to-another-workspace-using-microsoft-fabric-git-integration-locally/,2024-03-16,scripts to improve copying a direct lake semantic model to another workspace using microsoft fabric git integration locally,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2024/01/16/overview-of-the-microsoft-fabric-admin-portal-for-the-dp-600-exam/,2024-03-19,overview of the microsoft fabric admin portal for the dp 600 exam,blog
@@ -393,6 +392,7 @@ www.kevinrchant.com,https://www.kevinrchant.com/2023/10/25/ci-cd-for-microsoft-f
 www.kevinrchant.com,https://www.kevinrchant.com/2022/03/28/connect-a-database-project-in-azure-repos-to-azure-pipelines/,2024-05-19,connect a database project in azure repos to azure pipelines,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2024/05/20/download-a-microsoft-fabric-data-warehouse-database-project-to-perform-ci-cd-using-azure-devops/,2024-05-20,download a microsoft fabric data warehouse database project to perform ci cd using azure devops,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2024/05/28/create-an-assessment-in-purview-to-view-esg-data-estate-data-in-fabric/,2024-05-28,create an assessment in purview to view esg data estate data in fabric,blog
+www.kevinrchant.com,https://www.kevinrchant.com/2023/09/06/microsoft-fabric-git-integration-jargon-guide-for-fabricators/,2024-06-02,microsoft fabric git integration jargon guide for fabricators,blog
 thomas-leblanc.com,https://thomas-leblanc.com/,,,blog
 thomas-leblanc.com,https://thomas-leblanc.com/sample-page/,2016-02-12,sample page,blog
 thomas-leblanc.com,https://thomas-leblanc.com/2016/02/14/cost-threshold-and-max-degree-of-parallelism/,2016-03-13,cost threshold and max degree of parallelism,blog
