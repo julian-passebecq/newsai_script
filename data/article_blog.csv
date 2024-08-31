@@ -1,5 +1,5 @@
 website,loc,lastmod,cured_name
-www.kevinrchant.com,https://www.kevinrchant.com/,2024-08-27,
+www.kevinrchant.com,https://www.kevinrchant.com/,2024-08-30,
 www.kevinrchant.com,https://www.kevinrchant.com/2019/08/28/finding-sql-server-versions-for-docker-and-linux-using-a-web-browser/,2019-08-29,finding sql server versions for docker and linux using a web browser
 www.kevinrchant.com,https://www.kevinrchant.com/2019/10/14/speaking-at-sql-saturday-sofia/,2019-10-14,speaking at sql saturday sofia
 www.kevinrchant.com,https://www.kevinrchant.com/2019/10/16/challenging-yourself-at-conferences/,2019-10-16,challenging yourself at conferences
@@ -410,6 +410,7 @@ www.kevinrchant.com,https://www.kevinrchant.com/2024/08/15/update-that-can-help-
 www.kevinrchant.com,https://www.kevinrchant.com/2024/08/20/latest-microsoft-fabric-security-white-paper-updates/,2024-08-20,latest microsoft fabric security white paper updates
 www.kevinrchant.com,https://www.kevinrchant.com/2024/08/07/naming-conventions-for-microsoft-fabric-git-integration-repositories-and-branches/,2024-08-24,naming conventions for microsoft fabric git integration repositories and branches
 www.kevinrchant.com,https://www.kevinrchant.com/2024/08/27/advantages-of-azure-infrastructure-knowledge-when-working-with-microsoft-fabric/,2024-08-27,advantages of azure infrastructure knowledge when working with microsoft fabric
+www.kevinrchant.com,https://www.kevinrchant.com/2024/08/30/unit-tests-on-microsoft-fabric-items/,2024-08-30,unit tests on microsoft fabric items
 thomas-leblanc.com,https://thomas-leblanc.com/,,
 thomas-leblanc.com,https://thomas-leblanc.com/sample-page/,2016-02-12,sample page
 thomas-leblanc.com,https://thomas-leblanc.com/2016/02/14/cost-threshold-and-max-degree-of-parallelism/,2016-03-13,cost threshold and max degree of parallelism
@@ -476,7 +477,8 @@ thomas-leblanc.com,https://thomas-leblanc.com/2023/11/13/show-rows-for-attribute
 thomas-leblanc.com,https://thomas-leblanc.com/2023/12/04/fabric-personas/,2024-01-11,fabric personas
 thomas-leblanc.com,https://thomas-leblanc.com/2024/01/11/power-bi-updates-dec-2023-release-preview-features/,2024-01-11,power bi updates dec 2023 release preview features
 thomas-leblanc.com,https://thomas-leblanc.com/2024/03/15/power-bi-performance-calculated-columns-versus-new-column-in-power-query/,2024-03-15,power bi performance calculated columns versus new column in power query
-thomas-leblanc.com,https://thomas-leblanc.com/2024/03/29/power-bi-or-fabric-monitoring/,2024-03-29,power bi or fabric monitoring
+thomas-leblanc.com,https://thomas-leblanc.com/2024/03/29/power-bi-or-fabric-monitoring/,2024-08-29,power bi or fabric monitoring
+thomas-leblanc.com,https://thomas-leblanc.com/2024/08/29/power-bi-vision/,2024-08-29,power bi vision
 www.oliviertravers.com,https://www.oliviertravers.com/running-ai-image-generation-on-your-windows-pc-beginner-friendly-starter-pack/,2024-08-29,running ai image generation on your windows pc beginner friendly starter pack
 www.oliviertravers.com,https://www.oliviertravers.com/running-llms-locally-the-getting-started-windows-stack/,2024-08-27,running llms locally the getting started windows stack
 www.oliviertravers.com,https://www.oliviertravers.com/ebook-collection-search-everything-calibre/,2024-08-01,ebook collection search everything calibre
@@ -2568,6 +2570,7 @@ pragmaticworks.com,https://pragmaticworks.com/blog/continuous-integration-and-de
 pragmaticworks.com,https://pragmaticworks.com/blog/filter-look-up-columns-for-model-driven-app-forms,2023-11-17,filter look up columns for model driven app forms
 pragmaticworks.com,https://pragmaticworks.com/events/apr-15-virtual-advanced-data-modeling-89,2024-03-14,apr 15 virtual advanced data modeling 89
 pragmaticworks.com,https://pragmaticworks.com/blog/overview-of-operations-management-suite-oms,2023-03-28,overview of operations management suite oms
+pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-beginner-to-pro-part-5-publishing-and-sharing,2024-08-30,power bi beginner to pro part 5 publishing and sharing
 pragmaticworks.com,https://pragmaticworks.com/blog/announcing-our-new-course-power-bi-administration,2023-03-28,announcing our new course power bi administration
 pragmaticworks.com,https://pragmaticworks.com/courses/dax-for-paginated-reports,2024-07-03,dax for paginated reports
 pragmaticworks.com,https://pragmaticworks.com/events/sep-16-virtual-advanced-power-bi-bootcamp-134,2024-04-18,sep 16 virtual advanced power bi bootcamp 134
@@ -3283,6 +3286,7 @@ pragmaticworks.com,https://pragmaticworks.com/blog/setting-up-power-bi-team-proj
 pragmaticworks.com,https://pragmaticworks.com/blog/pragmatic-works-recognized-as-finalist-for-2020-microsoft-power-bi-powerapps-partner-of-the-year-award-0,2023-10-03,pragmatic works recognized as finalist for 2020 microsoft power bi powerapps partner of the year award 0
 pragmaticworks.com,https://pragmaticworks.com/courses-old/introduction-to-sql-server-window-functions,2024-07-03,introduction to sql server window functions
 pragmaticworks.com,https://pragmaticworks.com/courses/copilot-in-microsoft-teams,2024-07-03,copilot in microsoft teams
+pragmaticworks.com,https://pragmaticworks.com/blog,2024-08-21,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/introducing-our-new-course-azure-logic-apps,2023-03-28,introducing our new course azure logic apps
 pragmaticworks.com,https://pragmaticworks.com/blog/unique-ask-for-drill-through-1,2023-03-16,unique ask for drill through 1
 pragmaticworks.com,https://pragmaticworks.com/blog/grouping-and-binning-in-power-bi-2,2023-11-10,grouping and binning in power bi 2
@@ -3638,7 +3642,6 @@ pragmaticworks.com,https://pragmaticworks.com/advanced-power-automate,2023-08-07
 pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-custom-visuals-impact-bubble-chart,2023-03-28,power bi custom visuals impact bubble chart
 pragmaticworks.com,https://pragmaticworks.com/blog/benefits-of-azure-sql-iaas-sql-server-agent-extension,2023-03-28,benefits of azure sql iaas sql server agent extension
 pragmaticworks.com,https://pragmaticworks.com/blog/unique-ask-for-drill-through,2023-03-28,unique ask for drill through
-pragmaticworks.com,https://pragmaticworks.com/blog,2024-08-21,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-custom-visuals-table-sorter,2023-03-28,power bi custom visuals table sorter
 pragmaticworks.com,https://pragmaticworks.com/courses-old/learn-with-the-nerds-azure-data-factory-recorded-live-event,2024-07-03,learn with the nerds azure data factory recorded live event
 pragmaticworks.com,https://pragmaticworks.com/blog/whats-going-on-in-january,2024-07-09,whats going on in january
