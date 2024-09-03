@@ -1,5 +1,5 @@
 website,loc,lastmod,cured_name,type
-www.kevinrchant.com,https://www.kevinrchant.com/,2024-08-30,,blog
+www.kevinrchant.com,https://www.kevinrchant.com/,2024-09-02,,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2019/08/28/finding-sql-server-versions-for-docker-and-linux-using-a-web-browser/,2019-08-29,finding sql server versions for docker and linux using a web browser,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2019/10/14/speaking-at-sql-saturday-sofia/,2019-10-14,speaking at sql saturday sofia,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2019/10/16/challenging-yourself-at-conferences/,2019-10-16,challenging yourself at conferences,blog
@@ -410,7 +410,7 @@ www.kevinrchant.com,https://www.kevinrchant.com/2024/08/15/update-that-can-help-
 www.kevinrchant.com,https://www.kevinrchant.com/2024/08/20/latest-microsoft-fabric-security-white-paper-updates/,2024-08-20,latest microsoft fabric security white paper updates,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2024/08/07/naming-conventions-for-microsoft-fabric-git-integration-repositories-and-branches/,2024-08-24,naming conventions for microsoft fabric git integration repositories and branches,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2024/08/27/advantages-of-azure-infrastructure-knowledge-when-working-with-microsoft-fabric/,2024-08-27,advantages of azure infrastructure knowledge when working with microsoft fabric,blog
-www.kevinrchant.com,https://www.kevinrchant.com/2024/08/30/unit-tests-on-microsoft-fabric-items/,2024-08-30,unit tests on microsoft fabric items,blog
+www.kevinrchant.com,https://www.kevinrchant.com/2024/08/30/unit-tests-on-microsoft-fabric-items/,2024-09-02,unit tests on microsoft fabric items,blog
 thomas-leblanc.com,https://thomas-leblanc.com/,,,blog
 thomas-leblanc.com,https://thomas-leblanc.com/sample-page/,2016-02-12,sample page,blog
 thomas-leblanc.com,https://thomas-leblanc.com/2016/02/14/cost-threshold-and-max-degree-of-parallelism/,2016-03-13,cost threshold and max degree of parallelism,blog
@@ -479,8 +479,8 @@ thomas-leblanc.com,https://thomas-leblanc.com/2024/01/11/power-bi-updates-dec-20
 thomas-leblanc.com,https://thomas-leblanc.com/2024/03/15/power-bi-performance-calculated-columns-versus-new-column-in-power-query/,2024-03-15,power bi performance calculated columns versus new column in power query,blog
 thomas-leblanc.com,https://thomas-leblanc.com/2024/03/29/power-bi-or-fabric-monitoring/,2024-08-29,power bi or fabric monitoring,blog
 thomas-leblanc.com,https://thomas-leblanc.com/2024/08/29/power-bi-vision/,2024-08-29,power bi vision,blog
-www.oliviertravers.com,https://www.oliviertravers.com/running-ai-image-generation-on-your-windows-pc-beginner-friendly-starter-pack/,2024-08-31,running ai image generation on your windows pc beginner friendly starter pack,blog
-www.oliviertravers.com,https://www.oliviertravers.com/running-llms-locally-the-getting-started-windows-stack/,2024-08-27,running llms locally the getting started windows stack,blog
+www.oliviertravers.com,https://www.oliviertravers.com/running-ai-image-generation-on-your-windows-pc-beginner-friendly-starter-pack/,2024-09-02,running ai image generation on your windows pc beginner friendly starter pack,blog
+www.oliviertravers.com,https://www.oliviertravers.com/running-llms-locally-the-getting-started-windows-stack/,2024-09-02,running llms locally the getting started windows stack,blog
 www.oliviertravers.com,https://www.oliviertravers.com/ebook-collection-search-everything-calibre/,2024-08-01,ebook collection search everything calibre,blog
 www.oliviertravers.com,https://www.oliviertravers.com/launchy-everything-dopus/,2024-08-01,launchy everything dopus,blog
 www.oliviertravers.com,https://www.oliviertravers.com/watch-the-mediterranean-in-2015/,2024-07-21,watch the mediterranean in 2015,blog
