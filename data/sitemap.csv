@@ -1,5 +1,5 @@
 website,loc,lastmod,cured_name,type
-www.kevinrchant.com,https://www.kevinrchant.com/,2024-09-21,,blog
+www.kevinrchant.com,https://www.kevinrchant.com/,2024-09-22,,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2019/08/28/finding-sql-server-versions-for-docker-and-linux-using-a-web-browser/,2019-08-29,finding sql server versions for docker and linux using a web browser,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2019/10/14/speaking-at-sql-saturday-sofia/,2019-10-14,speaking at sql saturday sofia,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2019/10/16/challenging-yourself-at-conferences/,2019-10-16,challenging yourself at conferences,blog
@@ -374,7 +374,6 @@ www.kevinrchant.com,https://www.kevinrchant.com/2023/09/06/microsoft-fabric-git-
 www.kevinrchant.com,https://www.kevinrchant.com/2024/02/02/four-simple-truths-about-the-dp-600-exam/,2024-06-03,four simple truths about the dp 600 exam,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2024/06/11/update-fabric-deployment-pipeline-stages-with-deploymentpipelines-deployall-and-yaml-pipelines/,2024-06-11,update fabric deployment pipeline stages with deploymentpipelines deployall and yaml pipelines,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2024/07/03/fabric-workloads-and-other-items-currently-covered-in-the-dp-600-exam/,2024-07-03,fabric workloads and other items currently covered in the dp 600 exam,blog
-www.kevinrchant.com,https://www.kevinrchant.com/2023/10/06/recommended-microsoft-learn-material-for-microsoft-fabric/,2024-07-05,recommended microsoft learn material for microsoft fabric,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2024/05/10/first-impressions-of-the-microsoft-fabric-security-white-paper/,2024-07-09,first impressions of the microsoft fabric security white paper,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2024/07/09/t-sql-tuesday-176-advice-i-would-give-past-me-when-starting-my-first-data-platform-job/,2024-07-09,t sql tuesday 176 advice i would give past me when starting my first data platform job,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2024/07/15/from-power-view-to-microsoft-fabric/,2024-07-15,from power view to microsoft fabric,blog
@@ -413,6 +412,7 @@ www.kevinrchant.com,https://www.kevinrchant.com/2024/09/16/presenting-at-datasco
 www.kevinrchant.com,https://www.kevinrchant.com/2024/03/23/thoughts-about-gaining-the-fabric-analytics-engineer-associate-certification/,2024-09-16,thoughts about gaining the fabric analytics engineer associate certification,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2024/01/10/checklist-for-the-beta-version-of-the-dp-600-beta-exam-for-microsoft-fabric/,2024-09-16,checklist for the beta version of the dp 600 beta exam for microsoft fabric,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2023/12/20/current-certification-recommendations-for-microsoft-fabric-enthusiasts/,2024-09-21,current certification recommendations for microsoft fabric enthusiasts,blog
+www.kevinrchant.com,https://www.kevinrchant.com/2023/10/06/recommended-microsoft-learn-material-for-microsoft-fabric/,2024-09-22,recommended microsoft learn material for microsoft fabric,blog
 thomas-leblanc.com,https://thomas-leblanc.com/,,,blog
 thomas-leblanc.com,https://thomas-leblanc.com/sample-page/,2016-02-12,sample page,blog
 thomas-leblanc.com,https://thomas-leblanc.com/2016/02/14/cost-threshold-and-max-degree-of-parallelism/,2016-03-13,cost threshold and max degree of parallelism,blog
@@ -4246,8 +4246,8 @@ data-marc.com,https://data-marc.com/2018/12/06/format-your-colors-based-on-advan
 data-marc.com,https://data-marc.com/2018/10/19/multiple-tier-architecture-and-continuous-delivery-with-power-bi/,2021-04-01,multiple tier architecture and continuous delivery with power bi,blog
 data-marc.com,https://data-marc.com/2018/09/25/the-journey-begins/,2018-10-06,the journey begins,blog
 data-marc.com,https://data-marc.com,2024-09-20,,blog
-www.data-traveling.com,https://www.data-traveling.com/articles,2024-08-10,articles,blog
-www.data-traveling.com,https://www.data-traveling.com/articles/microsoft-fabric-admin-how-to-create-multiple-workspaces-using-python,2024-08-10,microsoft fabric admin how to create multiple workspaces using python,blog
+www.data-traveling.com,https://www.data-traveling.com/articles,2024-09-22,articles,blog
+www.data-traveling.com,https://www.data-traveling.com/articles/microsoft-fabric-admin-how-to-create-multiple-workspaces-using-python,2024-09-22,microsoft fabric admin how to create multiple workspaces using python,blog
 www.data-traveling.com,https://www.data-traveling.com/articles/how-to-switch-report-live-connection-using-power-bi-developer-mode,2024-08-05,how to switch report live connection using power bi developer mode,blog
 www.data-traveling.com,https://www.data-traveling.com/articles/dax-measures-to-calculate-same-period-last-month-/-quarter-in-power-bi,2024-06-16,quarter in power bi,blog
 www.data-traveling.com,https://www.data-traveling.com/articles/performance-impact-of-visual-calculations-using-directquery-mode-in-power-bi,2024-03-21,performance impact of visual calculations using directquery mode in power bi,blog
