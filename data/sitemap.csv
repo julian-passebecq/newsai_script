@@ -1,5 +1,5 @@
 website,loc,lastmod,cured_name,type
-www.kevinrchant.com,https://www.kevinrchant.com/,2024-09-23,,blog
+www.kevinrchant.com,https://www.kevinrchant.com/,2024-09-30,,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2019/08/28/finding-sql-server-versions-for-docker-and-linux-using-a-web-browser/,2019-08-29,finding sql server versions for docker and linux using a web browser,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2019/10/14/speaking-at-sql-saturday-sofia/,2019-10-14,speaking at sql saturday sofia,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2019/10/16/challenging-yourself-at-conferences/,2019-10-16,challenging yourself at conferences,blog
@@ -414,6 +414,7 @@ www.kevinrchant.com,https://www.kevinrchant.com/2024/01/10/checklist-for-the-bet
 www.kevinrchant.com,https://www.kevinrchant.com/2023/12/20/current-certification-recommendations-for-microsoft-fabric-enthusiasts/,2024-09-21,current certification recommendations for microsoft fabric enthusiasts,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2023/10/06/recommended-microsoft-learn-material-for-microsoft-fabric/,2024-09-22,recommended microsoft learn material for microsoft fabric,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2024/09/23/choosing-azure-devops-or-github-for-microsoft-fabric-git-integration/,2024-09-23,choosing azure devops or github for microsoft fabric git integration,blog
+www.kevinrchant.com,https://www.kevinrchant.com/2024/09/30/about-the-dp-700-exam-for-the-new-microsoft-fabric-data-engineering-certification/,2024-09-30,about the dp 700 exam for the new microsoft fabric data engineering certification,blog
 thomas-leblanc.com,https://thomas-leblanc.com/,,,blog
 thomas-leblanc.com,https://thomas-leblanc.com/sample-page/,2016-02-12,sample page,blog
 thomas-leblanc.com,https://thomas-leblanc.com/2016/02/14/cost-threshold-and-max-degree-of-parallelism/,2016-03-13,cost threshold and max degree of parallelism,blog
@@ -1482,7 +1483,7 @@ www.oliviertravers.com,https://www.oliviertravers.com/realnames-and-microsoft-pu
 www.oliviertravers.com,https://www.oliviertravers.com/blogdata-tutorial/,2002-05-12,blogdata tutorial,blog
 www.oliviertravers.com,https://www.oliviertravers.com/more-marketing-blogs/,2002-05-09,more marketing blogs,blog
 www.oliviertravers.com,https://www.oliviertravers.com/pick-a-car-any-car/,2002-05-07,pick a car any car,blog
-data-mozart.com,https://data-mozart.com/,2024-09-29,,blog
+data-mozart.com,https://data-mozart.com/,2024-09-30,,blog
 data-mozart.com,https://data-mozart.com/to-direct-query-or-not/,2019-12-31,to direct query or not,blog
 data-mozart.com,https://data-mozart.com/secretlifeofctes/,2020-01-02,secretlifeofctes,blog
 data-mozart.com,https://data-mozart.com/working-with-images-in-power-bi/,2020-01-03,working with images in power bi,blog
@@ -1672,7 +1673,7 @@ data-mozart.com,https://data-mozart.com/mastering-dp-600-exam-dax-for-the-win-pa
 data-mozart.com,https://data-mozart.com/mastering-dp-600-exam-dax-for-the-win-part-2-window-functions-and-information-functions/,2024-07-15,mastering dp 600 exam dax for the win part 2 window functions and information functions,blog
 data-mozart.com,https://data-mozart.com/5-clicks-to-wow-how-changing-data-types-can-quickly-optimize-your-power-bi-model/,2024-09-19,5 clicks to wow how changing data types can quickly optimize your power bi model,blog
 data-mozart.com,https://data-mozart.com/the-strongest-link-5-reasons-why-semantic-link-is-the-fabric-big-deal/,2024-09-21,the strongest link 5 reasons why semantic link is the fabric big deal,blog
-data-mozart.com,https://data-mozart.com/mastering-dp-600-exam-implementing-star-schema-in-fabric-lakehouse/,2024-09-29,mastering dp 600 exam implementing star schema in fabric lakehouse,blog
+data-mozart.com,https://data-mozart.com/mastering-dp-600-exam-implementing-star-schema-in-fabric-lakehouse/,2024-09-30,mastering dp 600 exam implementing star schema in fabric lakehouse,blog
 www.sqlbi.com,https://www.sqlbi.com/articles/datetool-dimension-an-alternative-time-intelligence-implementation/,2024-09-23,datetool dimension an alternative time intelligence implementation,blog
 www.sqlbi.com,https://www.sqlbi.com/articles/keepfilters-a-new-dax-feature-to-correctly-compute-over-arbitrary-shaped-sets/,2024-09-23,keepfilters a new dax feature to correctly compute over arbitrary shaped sets,blog
 www.sqlbi.com,https://www.sqlbi.com/articles/creating-a-copy-of-a-bism-tabular-project/,2024-09-23,creating a copy of a bism tabular project,blog
@@ -1989,47 +1990,47 @@ www.sqlbi.com,https://www.sqlbi.com/articles/when-are-variables-evaluated-in-dax
 www.sqlbi.com,https://www.sqlbi.com/articles/filter-columns-not-tables-in-dax/,2024-09-23,filter columns not tables in dax,blog
 www.sqlbi.com,https://www.sqlbi.com/articles/context-transition-in-dax-explained-visually/,2024-09-23,context transition in dax explained visually,blog
 www.sqlbi.com,https://www.sqlbi.com/articles/creating-custom-visuals-in-power-bi-with-dax/,2024-09-23,creating custom visuals in power bi with dax,blog
-en.brunner.bi,https://en.brunner.bi/post/exporting-data-from-power-bi-desktop-without-limits,2024-05-09,exporting data from power bi desktop without limits,blog
-en.brunner.bi,https://en.brunner.bi/post/extending-calculation-groups-in-power-bi-with-unstructured-data-targets-budgets-etc-1,2024-05-09,extending calculation groups in power bi with unstructured data targets budgets etc 1,blog
-en.brunner.bi,https://en.brunner.bi/post/integrating-jira-with-power-bi,2024-06-28,integrating jira with power bi,blog
-en.brunner.bi,https://en.brunner.bi/post/query-folding-and-data-types-from-snowflake-in-power-bi,2024-07-17,query folding and data types from snowflake in power bi,blog
-en.brunner.bi,https://en.brunner.bi/post/finding-all-custom-visuals-in-a-power-bi-tenant,2024-09-27,finding all custom visuals in a power bi tenant,blog
-en.brunner.bi,https://en.brunner.bi/post/new-ways-to-optimize-shared-datasets-in-power-bi-1-2-the-offline-approach-1,2024-05-09,new ways to optimize shared datasets in power bi 1 2 the offline approach 1,blog
-en.brunner.bi,https://en.brunner.bi/post/creating-a-custom-fiscal-calendar-in-power-bi-1,2024-05-09,creating a custom fiscal calendar in power bi 1,blog
-en.brunner.bi,https://en.brunner.bi/post/search-through-dax-expressions-in-power-bi-models-tenant-wide-1,2024-09-27,search through dax expressions in power bi models tenant wide 1,blog
-en.brunner.bi,https://en.brunner.bi/post/trigger-instant-refreshs-of-power-bi-datasets-with-power-automate,2024-05-09,trigger instant refreshs of power bi datasets with power automate,blog
-en.brunner.bi,https://en.brunner.bi/post/how-to-disable-the-automatic-refresh-of-a-dataset-after-upload-to-the-power-bi-service,2024-05-09,how to disable the automatic refresh of a dataset after upload to the power bi service,blog
-en.brunner.bi,https://en.brunner.bi/post/how-to-avoid-having-to-use-a-personal-gateway-for-web-data-sources-html-page-or-table-in-power-bi,2024-08-28,how to avoid having to use a personal gateway for web data sources html page or table in power bi,blog
-en.brunner.bi,https://en.brunner.bi/post/1-click-optimization-and-fabric-git-integration,2024-07-11,1 click optimization and fabric git integration,blog
-en.brunner.bi,https://en.brunner.bi/post/how-to-visualize-any-map-in-power-bi,2024-05-09,how to visualize any map in power bi,blog
-en.brunner.bi,https://en.brunner.bi/post/unexpected-behavior-for-auto-relationships-in-microsoft-fabric,2024-05-09,unexpected behavior for auto relationships in microsoft fabric,blog
-en.brunner.bi,https://en.brunner.bi/post/analyzing-what-is-going-on-in-personal-workspaces-in-power-bi-1,2024-09-27,analyzing what is going on in personal workspaces in power bi 1,blog
-en.brunner.bi,https://en.brunner.bi/post/searching-a-power-bi-report-s-m-code-with-a-few-clicks-1,2024-08-19,searching a power bi report s m code with a few clicks 1,blog
-en.brunner.bi,https://en.brunner.bi/post/time-saving-scripts-in-tabular-editor-3,2024-05-09,time saving scripts in tabular editor 3,blog
-en.brunner.bi,https://en.brunner.bi/post/page-limits-for-email-subscriptions-in-power-bi-premium,2024-05-09,page limits for email subscriptions in power bi premium,blog
-en.brunner.bi,https://en.brunner.bi/post/measure-killer-feedback-1,2024-09-27,measure killer feedback 1,blog
-en.brunner.bi,https://en.brunner.bi/post/new-ways-to-check-if-queries-fold-in-power-query,2024-05-09,new ways to check if queries fold in power query,blog
-en.brunner.bi,https://en.brunner.bi/post/finding-columns-and-measures-used-in-a-visual-or-page-in-power-bi-1,2024-07-24,finding columns and measures used in a visual or page in power bi 1,blog
-en.brunner.bi,https://en.brunner.bi/post/limitations-of-the-power-bi-lineage-view-or-impact-analysis,2024-09-27,limitations of the power bi lineage view or impact analysis,blog
-en.brunner.bi,https://en.brunner.bi/post/allocating-amounts-using-lists-in-power-query,2024-05-09,allocating amounts using lists in power query,blog
-en.brunner.bi,https://en.brunner.bi/post/how-to-fix-duration-data-types-in-power-bi-dataflows-1,2024-05-09,how to fix duration data types in power bi dataflows 1,blog
-en.brunner.bi,https://en.brunner.bi/post/how-i-use-azure-vms-for-power-bi-development-1,2024-05-09,how i use azure vms for power bi development 1,blog
-en.brunner.bi,https://en.brunner.bi/post/benefits-of-using-dax-info-functions-instead-of-the-xmla-endpoint-in-power-bi,2024-07-15,benefits of using dax info functions instead of the xmla endpoint in power bi,blog
-en.brunner.bi,https://en.brunner.bi/post/data-alerts-in-power-bi-reports-using-data-activator,2024-05-09,data alerts in power bi reports using data activator,blog
-en.brunner.bi,https://en.brunner.bi/post/removing-unused-columns-and-measures-in-power-bi-1,2024-08-22,removing unused columns and measures in power bi 1,blog
-en.brunner.bi,https://en.brunner.bi/post/format-strings-for-calculation-groups-in-live-reports,2024-05-09,format strings for calculation groups in live reports,blog
-en.brunner.bi,https://en.brunner.bi/post/dynamic-tooltip-pages-in-microsoft-power-bi-for-measure-columns,2024-06-28,dynamic tooltip pages in microsoft power bi for measure columns,blog
-en.brunner.bi,https://en.brunner.bi/post/dataflows-gets-around-the-3-000-cell-enter-data-limit-in-power-bi,2024-05-09,dataflows gets around the 3 000 cell enter data limit in power bi,blog
-en.brunner.bi,https://en.brunner.bi/post/how-to-mass-upload-power-bi-reports-to-the-power-bi-service,2024-08-01,how to mass upload power bi reports to the power bi service,blog
-en.brunner.bi,https://en.brunner.bi/post/fixing-delta-once-and-for-all-1,2023-05-01,fixing delta once and for all 1,blog
-en.brunner.bi,https://en.brunner.bi/post/how-to-open-ods-files-in-power-bi-power-query,2024-05-09,how to open ods files in power bi power query,blog
-en.brunner.bi,https://en.brunner.bi/post/hybrid-tables-in-power-bi-with-datacoveragedefinition,2024-05-10,hybrid tables in power bi with datacoveragedefinition,blog
 en.brunner.bi,https://en.brunner.bi/post/finding-errors-in-dataflows-and-powerquery,2024-05-09,finding errors in dataflows and powerquery,blog
+en.brunner.bi,https://en.brunner.bi/post/new-ways-to-optimize-shared-datasets-in-power-bi-1-2-the-offline-approach-1,2024-05-09,new ways to optimize shared datasets in power bi 1 2 the offline approach 1,blog
+en.brunner.bi,https://en.brunner.bi/post/analyzing-what-is-going-on-in-personal-workspaces-in-power-bi-1,2024-09-27,analyzing what is going on in personal workspaces in power bi 1,blog
+en.brunner.bi,https://en.brunner.bi/post/measure-killer-feedback-1,2024-09-27,measure killer feedback 1,blog
+en.brunner.bi,https://en.brunner.bi/post/trigger-instant-refreshs-of-power-bi-datasets-with-power-automate,2024-05-09,trigger instant refreshs of power bi datasets with power automate,blog
+en.brunner.bi,https://en.brunner.bi/post/limitations-of-the-power-bi-lineage-view-or-impact-analysis,2024-09-27,limitations of the power bi lineage view or impact analysis,blog
+en.brunner.bi,https://en.brunner.bi/post/how-to-visualize-any-map-in-power-bi,2024-05-09,how to visualize any map in power bi,blog
+en.brunner.bi,https://en.brunner.bi/post/exporting-data-from-power-bi-desktop-without-limits,2024-05-09,exporting data from power bi desktop without limits,blog
+en.brunner.bi,https://en.brunner.bi/post/searching-a-power-bi-report-s-m-code-with-a-few-clicks-1,2024-08-19,searching a power bi report s m code with a few clicks 1,blog
+en.brunner.bi,https://en.brunner.bi/post/creating-a-custom-fiscal-calendar-in-power-bi-1,2024-05-09,creating a custom fiscal calendar in power bi 1,blog
+en.brunner.bi,https://en.brunner.bi/post/allocating-amounts-using-lists-in-power-query,2024-05-09,allocating amounts using lists in power query,blog
+en.brunner.bi,https://en.brunner.bi/post/extending-calculation-groups-in-power-bi-with-unstructured-data-targets-budgets-etc-1,2024-05-09,extending calculation groups in power bi with unstructured data targets budgets etc 1,blog
+en.brunner.bi,https://en.brunner.bi/post/how-i-use-azure-vms-for-power-bi-development-1,2024-05-09,how i use azure vms for power bi development 1,blog
+en.brunner.bi,https://en.brunner.bi/post/how-to-open-ods-files-in-power-bi-power-query,2024-05-09,how to open ods files in power bi power query,blog
+en.brunner.bi,https://en.brunner.bi/post/how-to-avoid-having-to-use-a-personal-gateway-for-web-data-sources-html-page-or-table-in-power-bi,2024-08-28,how to avoid having to use a personal gateway for web data sources html page or table in power bi,blog
+en.brunner.bi,https://en.brunner.bi/post/how-to-disable-the-automatic-refresh-of-a-dataset-after-upload-to-the-power-bi-service,2024-05-09,how to disable the automatic refresh of a dataset after upload to the power bi service,blog
+en.brunner.bi,https://en.brunner.bi/post/search-through-dax-expressions-in-power-bi-models-tenant-wide-1,2024-09-27,search through dax expressions in power bi models tenant wide 1,blog
 en.brunner.bi,https://en.brunner.bi/post/how-to-force-users-to-select-a-filter-in-power-bi-while-keeping-the-report-interactive,2024-05-09,how to force users to select a filter in power bi while keeping the report interactive,blog
-en.brunner.bi,https://en.brunner.bi/post/dynamic-pop-up-or-warning-images-in-power-bi-2,2024-05-09,dynamic pop up or warning images in power bi 2,blog
+en.brunner.bi,https://en.brunner.bi/post/hybrid-tables-in-power-bi-with-datacoveragedefinition,2024-05-10,hybrid tables in power bi with datacoveragedefinition,blog
+en.brunner.bi,https://en.brunner.bi/post/finding-all-custom-visuals-in-a-power-bi-tenant,2024-09-27,finding all custom visuals in a power bi tenant,blog
+en.brunner.bi,https://en.brunner.bi/post/1-click-optimization-and-fabric-git-integration,2024-07-11,1 click optimization and fabric git integration,blog
 en.brunner.bi,https://en.brunner.bi/post/changing-data-types-that-do-not-break-query-folding-in-power-query-power-bi-1,2024-05-09,changing data types that do not break query folding in power query power bi 1,blog
-en.brunner.bi,https://en.brunner.bi/post/using-what-if-analysis-to-achieve-higher-levels-of-optimization-in-power-bi,2024-07-18,using what if analysis to achieve higher levels of optimization in power bi,blog
+en.brunner.bi,https://en.brunner.bi/post/integrating-jira-with-power-bi,2024-06-28,integrating jira with power bi,blog
+en.brunner.bi,https://en.brunner.bi/post/fixing-delta-once-and-for-all-1,2023-05-01,fixing delta once and for all 1,blog
+en.brunner.bi,https://en.brunner.bi/post/benefits-of-using-dax-info-functions-instead-of-the-xmla-endpoint-in-power-bi,2024-07-15,benefits of using dax info functions instead of the xmla endpoint in power bi,blog
+en.brunner.bi,https://en.brunner.bi/post/new-ways-to-check-if-queries-fold-in-power-query,2024-05-09,new ways to check if queries fold in power query,blog
+en.brunner.bi,https://en.brunner.bi/post/time-saving-scripts-in-tabular-editor-3,2024-05-09,time saving scripts in tabular editor 3,blog
+en.brunner.bi,https://en.brunner.bi/post/finding-columns-and-measures-used-in-a-visual-or-page-in-power-bi-1,2024-07-24,finding columns and measures used in a visual or page in power bi 1,blog
 en.brunner.bi,https://en.brunner.bi/post/new-ways-to-analyze-best-practices-in-power-bi-1,2024-07-17,new ways to analyze best practices in power bi 1,blog
+en.brunner.bi,https://en.brunner.bi/post/how-to-fix-duration-data-types-in-power-bi-dataflows-1,2024-05-09,how to fix duration data types in power bi dataflows 1,blog
+en.brunner.bi,https://en.brunner.bi/post/dataflows-gets-around-the-3-000-cell-enter-data-limit-in-power-bi,2024-05-09,dataflows gets around the 3 000 cell enter data limit in power bi,blog
+en.brunner.bi,https://en.brunner.bi/post/dynamic-pop-up-or-warning-images-in-power-bi-2,2024-05-09,dynamic pop up or warning images in power bi 2,blog
+en.brunner.bi,https://en.brunner.bi/post/how-to-mass-upload-power-bi-reports-to-the-power-bi-service,2024-08-01,how to mass upload power bi reports to the power bi service,blog
+en.brunner.bi,https://en.brunner.bi/post/dynamic-tooltip-pages-in-microsoft-power-bi-for-measure-columns,2024-06-28,dynamic tooltip pages in microsoft power bi for measure columns,blog
+en.brunner.bi,https://en.brunner.bi/post/format-strings-for-calculation-groups-in-live-reports,2024-05-09,format strings for calculation groups in live reports,blog
+en.brunner.bi,https://en.brunner.bi/post/removing-unused-columns-and-measures-in-power-bi-1,2024-08-22,removing unused columns and measures in power bi 1,blog
+en.brunner.bi,https://en.brunner.bi/post/unexpected-behavior-for-auto-relationships-in-microsoft-fabric,2024-05-09,unexpected behavior for auto relationships in microsoft fabric,blog
+en.brunner.bi,https://en.brunner.bi/post/data-alerts-in-power-bi-reports-using-data-activator,2024-05-09,data alerts in power bi reports using data activator,blog
+en.brunner.bi,https://en.brunner.bi/post/page-limits-for-email-subscriptions-in-power-bi-premium,2024-05-09,page limits for email subscriptions in power bi premium,blog
+en.brunner.bi,https://en.brunner.bi/post/query-folding-and-data-types-from-snowflake-in-power-bi,2024-07-17,query folding and data types from snowflake in power bi,blog
+en.brunner.bi,https://en.brunner.bi/post/using-what-if-analysis-to-achieve-higher-levels-of-optimization-in-power-bi,2024-07-18,using what if analysis to achieve higher levels of optimization in power bi,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/best-way-to-start-learning-azure,2023-03-28,best way to start learning azure,blog
 pragmaticworks.com,https://pragmaticworks.com/courses-old/copilot-in-microsoft-whiteboard,2024-07-03,copilot in microsoft whiteboard,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/how-are-iot-hub-event-hub-and-event-grid-related,2023-03-28,how are iot hub event hub and event grid related,blog
@@ -3464,6 +3465,7 @@ pragmaticworks.com,https://pragmaticworks.com/blog/sql-advanced-threat-protectio
 pragmaticworks.com,https://pragmaticworks.com/blog/quick-tip-connecting-to-a-sharepoint-folder-in-power-bi,2023-03-28,quick tip connecting to a sharepoint folder in power bi,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/3-things-to-know-about-azure-data-warehouse-gen-2,2023-03-28,3 things to know about azure data warehouse gen 2,blog
 pragmaticworks.com,https://pragmaticworks.com/courses-old/visual-calculations-for-dax-in-power-bi,2024-08-10,visual calculations for dax in power bi,blog
+pragmaticworks.com,https://pragmaticworks.com/blog/copilot-studio-101-what-are-topics,2024-09-30,copilot studio 101 what are topics,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/data-architecture-for-azure-bi-programs,2024-05-07,data architecture for azure bi programs,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/five-disaster-recovery-mistakes-you-might-be-making,2023-03-16,five disaster recovery mistakes you might be making,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/bowl-a-thon-sabotaged-by-bad-data,2024-02-27,bowl a thon sabotaged by bad data,blog
@@ -3816,6 +3818,7 @@ pragmaticworks.com,https://pragmaticworks.com/courses/advanced-dax,2024-07-08,ad
 pragmaticworks.com,https://pragmaticworks.com/blog/send-emails-from-your-custom-copilot-with-power-automate-%F0%9F%A4%96,2024-08-23,send emails from your custom copilot with power automate 🤖,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/nh-sales-team-beach-party,2024-07-09,nh sales team beach party,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/ssas-multidimensional-vs-tabular-part-2,2024-08-13,ssas multidimensional vs tabular part 2,blog
+pragmaticworks.com,https://pragmaticworks.com/resources/guide-to-becoming-an-analyst-in-6-months,2024-09-30,guide to becoming an analyst in 6 months,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/unlocking-azure-maps-discover-the-top-4-hidden-features,2024-04-29,unlocking azure maps discover the top 4 hidden features,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/how-to-set-ssis-encryption-level-protection-within-visual-studios-2012,2023-03-16,how to set ssis encryption level protection within visual studios 2012,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/using-cars-to-explain-azure-services,2023-03-28,using cars to explain azure services,blog
@@ -3971,7 +3974,6 @@ pragmaticworks.com,https://pragmaticworks.com/blog/dashboard-in-a-day,2023-03-28
 pragmaticworks.com,https://pragmaticworks.com/blog/copilot-in-powerpoint-course-preview,2024-03-25,copilot in powerpoint course preview,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/using-power-bi-for-digital-storytelling,2023-03-28,using power bi for digital storytelling,blog
 pragmaticworks.com,https://pragmaticworks.com/events/sep-20-virtual-power-bi-administration-139,2024-04-18,sep 20 virtual power bi administration 139,blog
-pragmaticworks.com,https://pragmaticworks.com/resources/guide-to-becoming-an-analyst-in-6-months,2024-09-29,guide to becoming an analyst in 6 months,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/enhancing-powerbi-reports-with-accessible-fonts,2024-01-23,enhancing powerbi reports with accessible fonts,blog
 pragmaticworks.com,https://pragmaticworks.com/events/jan-27-virtual-advanced-data-modeling-177,2024-08-26,jan 27 virtual advanced data modeling 177,blog
 pragmaticworks.com,https://pragmaticworks.com/about-us/contact,2024-08-05,contact,blog
@@ -4253,6 +4255,7 @@ data-marc.com,https://data-marc.com/2018/10/19/multiple-tier-architecture-and-co
 data-marc.com,https://data-marc.com/2018/09/25/the-journey-begins/,2018-10-06,the journey begins,blog
 data-marc.com,https://data-marc.com,2024-09-20,,blog
 www.data-traveling.com,https://www.data-traveling.com/articles,2024-09-29,articles,blog
+www.data-traveling.com,https://www.data-traveling.com/articles/microsoft-fabric-admin-first-thoughts-and-use-cases-on-using-terraform-for-infrastructure-as-code-iac,2024-09-29,microsoft fabric admin first thoughts and use cases on using terraform for infrastructure as code iac,blog
 www.data-traveling.com,https://www.data-traveling.com/articles/microsoft-fabric-admin-how-to-create-multiple-workspaces-using-python,2024-09-22,microsoft fabric admin how to create multiple workspaces using python,blog
 www.data-traveling.com,https://www.data-traveling.com/articles/how-to-switch-report-live-connection-using-power-bi-developer-mode,2024-08-05,how to switch report live connection using power bi developer mode,blog
 www.data-traveling.com,https://www.data-traveling.com/articles/dax-measures-to-calculate-same-period-last-month-/-quarter-in-power-bi,2024-06-16,quarter in power bi,blog
@@ -4268,19 +4271,21 @@ www.data-traveling.com,https://www.data-traveling.com/articles/table-filters-vs-
 www.data-traveling.com,https://www.data-traveling.com/articles/how-to-handle-different-granularities-power-bi,2024-03-22,how to handle different granularities power bi,blog
 www.data-traveling.com,https://www.data-traveling.com/articles/category/Fabric+Admin,,Fabric+Admin,blog
 www.data-traveling.com,https://www.data-traveling.com/articles/category/Azure,,Azure,blog
-www.data-traveling.com,https://www.data-traveling.com/articles/category/Power+BI+Developer+Mode,,Power+BI+Developer+Mode,blog
 www.data-traveling.com,https://www.data-traveling.com/articles/category/Power+BI,,Power+BI,blog
+www.data-traveling.com,https://www.data-traveling.com/articles/category/Deneb,,Deneb,blog
+www.data-traveling.com,https://www.data-traveling.com/articles/category/Power+BI+Developer+Mode,,Power+BI+Developer+Mode,blog
+www.data-traveling.com,https://www.data-traveling.com/articles/category/Terraform,,Terraform,blog
 www.data-traveling.com,https://www.data-traveling.com/articles/category/Data+modeling,,Data+modeling,blog
 www.data-traveling.com,https://www.data-traveling.com/articles/category/Azure+Synapse+Analytics,,Azure+Synapse+Analytics,blog
 www.data-traveling.com,https://www.data-traveling.com/articles/category/Data+visualization,,Data+visualization,blog
-www.data-traveling.com,https://www.data-traveling.com/articles/category/Deneb,,Deneb,blog
 www.data-traveling.com,https://www.data-traveling.com/articles/category/Data+Visualization,,Data+Visualization,blog
 www.data-traveling.com,https://www.data-traveling.com/articles/category/DAX,,DAX,blog
 www.data-traveling.com,https://www.data-traveling.com/articles/category/Python,,Python,blog
 www.data-traveling.com,https://www.data-traveling.com/articles/category/REST+APIs,,REST+APIs,blog
 www.data-traveling.com,https://www.data-traveling.com/contact,2023-08-10,contact,blog
 www.data-traveling.com,https://www.data-traveling.com/about,2024-08-07,about,blog
-datasavvy.me,https://datasavvy.me/2024/09/25/copying-content-from-one-databricks-unity-catalog-catalog-to-another/,2024-09-25,copying content from one databricks unity catalog catalog to another,blog
+datasavvy.me,https://datasavvy.me/2024/09/30/making-legend-order-match-segment-order-in-a-power-bi-stacked-column-chart/,2024-09-25,making legend order match segment order in a power bi stacked column chart,blog
+datasavvy.me,https://datasavvy.me/2024/09/25/copying-content-from-one-databricks-unity-catalog-catalog-to-another/,2024-09-26,copying content from one databricks unity catalog catalog to another,blog
 datasavvy.me,https://datasavvy.me/2024/08/26/comparing-power-bi-core-visual-and-deneb-stacked-column-chart/,2024-09-25,comparing power bi core visual and deneb stacked column chart,blog
 datasavvy.me,https://datasavvy.me/2024/07/22/calling-a-rest-endpoint-from-azure-sql-db/,2024-07-23,calling a rest endpoint from azure sql db,blog
 datasavvy.me,https://datasavvy.me/presentations/,2024-06-22,presentations,blog
@@ -4354,72 +4359,72 @@ datasavvy.me,https://datasavvy.me/2013/04/28/the-other-background-color-property
 datasavvy.me,https://datasavvy.me/2013/03/24/some-business-intelligence-links-i-revisit-and-send-to-others/,2020-09-24,some business intelligence links i revisit and send to others,blog
 datasavvy.me,https://datasavvy.me/2013/04/06/sqlsaturday-fun-in-omaha/,2020-09-24,sqlsaturday fun in omaha,blog
 datasavvy.me,https://datasavvy.me/2014/04/29/choosing-a-mapping-tool-in-the-sql-server-bi-stack/,2020-09-24,choosing a mapping tool in the sql server bi stack,blog
-datasavvy.me,https://datasavvy.me/2014/08/25/im-speaking-at-pass-summit-2014/,2020-09-24,im speaking at pass summit 2014,blog
-datasavvy.me,https://datasavvy.me/2013/11/13/infographic-vs-power-view/,2020-09-24,infographic vs power view,blog
-datasavvy.me,https://datasavvy.me/2013/12/02/retrieving-lowest-level-hierarchy-members-and-leaves-in-mdx/,2020-09-24,retrieving lowest level hierarchy members and leaves in mdx,blog
-datasavvy.me,https://datasavvy.me/2013/12/13/most-popular-names-visualized-in-excel/,2020-09-24,most popular names visualized in excel,blog
 datasavvy.me,https://datasavvy.me/2014/01/20/moving-calculated-measures-in-power-pivot-for-excel-2013/,2023-12-17,moving calculated measures in power pivot for excel 2013,blog
-datasavvy.me,https://datasavvy.me/2014/02/25/power-map-for-excel-is-now-generally-available-for-office-365-with-a-few-new-features-and-bug-fixes/,2020-09-24,power map for excel is now generally available for office 365 with a few new features and bug fixes,blog
+datasavvy.me,https://datasavvy.me/2013/12/13/most-popular-names-visualized-in-excel/,2020-09-24,most popular names visualized in excel,blog
+datasavvy.me,https://datasavvy.me/2013/12/02/retrieving-lowest-level-hierarchy-members-and-leaves-in-mdx/,2020-09-24,retrieving lowest level hierarchy members and leaves in mdx,blog
 datasavvy.me,https://datasavvy.me/2014/03/19/im-speaking-about-geospatial-data-viz-and-data-viz-best-practices-in-april/,2020-09-24,im speaking about geospatial data viz and data viz best practices in april,blog
+datasavvy.me,https://datasavvy.me/2013/11/13/infographic-vs-power-view/,2020-09-24,infographic vs power view,blog
 datasavvy.me,https://datasavvy.me/2014/05/27/power-pivot-dynamically-identifying-outliers-with-dax/,2020-09-24,power pivot dynamically identifying outliers with dax,blog
-datasavvy.me,https://datasavvy.me/2014/06/23/create-a-power-view-sheet-connected-to-an-ssas-tabular-model-without-sharepoint/,2020-09-24,create a power view sheet connected to an ssas tabular model without sharepoint,blog
-datasavvy.me,https://datasavvy.me/2014/12/10/webucator-made-a-video-of-my-blog-post/,2020-09-24,webucator made a video of my blog post,blog
 datasavvy.me,https://datasavvy.me/2014/06/17/new-speaking-opportunities-this-summer/,2020-09-24,new speaking opportunities this summer,blog
 datasavvy.me,https://datasavvy.me/2014/07/31/favorite-bids-helper-ssas-features/,2020-09-24,favorite bids helper ssas features,blog
+datasavvy.me,https://datasavvy.me/2014/08/25/im-speaking-at-pass-summit-2014/,2020-09-24,im speaking at pass summit 2014,blog
+datasavvy.me,https://datasavvy.me/2014/12/10/webucator-made-a-video-of-my-blog-post/,2020-09-24,webucator made a video of my blog post,blog
+datasavvy.me,https://datasavvy.me/2014/06/23/create-a-power-view-sheet-connected-to-an-ssas-tabular-model-without-sharepoint/,2020-09-24,create a power view sheet connected to an ssas tabular model without sharepoint,blog
+datasavvy.me,https://datasavvy.me/2014/02/25/power-map-for-excel-is-now-generally-available-for-office-365-with-a-few-new-features-and-bug-fixes/,2020-09-24,power map for excel is now generally available for office 365 with a few new features and bug fixes,blog
 datasavvy.me,https://datasavvy.me/2015/01/09/2014-in-review/,2020-09-24,2014 in review,blog
-datasavvy.me,https://datasavvy.me/2015/01/18/power-view-maps-color-coding-positive-negative-sign/,2020-09-24,power view maps color coding positive negative sign,blog
-datasavvy.me,https://datasavvy.me/2015/02/19/improving-performance-in-excel-and-power-view-reports-with-a-power-pivot-data-source/,2020-09-24,improving performance in excel and power view reports with a power pivot data source,blog
-datasavvy.me,https://datasavvy.me/2015/03/22/using-power-query-to-transform-website-data-with-multiple-rows-per-entity/,2020-09-24,using power query to transform website data with multiple rows per entity,blog
 datasavvy.me,https://datasavvy.me/2015/07/30/notes-and-tips-on-sql-server-spatial-data-types/,2020-09-24,notes and tips on sql server spatial data types,blog
 datasavvy.me,https://datasavvy.me/2015/07/22/biml-for-a-type-1-slowly-changing-dimension/,2020-09-24,biml for a type 1 slowly changing dimension,blog
 datasavvy.me,https://datasavvy.me/2015/06/01/whats-the-deal-with-datazen/,2020-09-24,whats the deal with datazen,blog
-datasavvy.me,https://datasavvy.me/2015/05/17/biml-basics/,2020-09-24,biml basics,blog
+datasavvy.me,https://datasavvy.me/2015/03/22/using-power-query-to-transform-website-data-with-multiple-rows-per-entity/,2020-09-24,using power query to transform website data with multiple rows per entity,blog
+datasavvy.me,https://datasavvy.me/2015/02/19/improving-performance-in-excel-and-power-view-reports-with-a-power-pivot-data-source/,2020-09-24,improving performance in excel and power view reports with a power pivot data source,blog
 datasavvy.me,https://datasavvy.me/2015/04/29/beginning-with-biml/,2020-09-24,beginning with biml,blog
-datasavvy.me,https://datasavvy.me/2016/01/08/creating-a-matrix-in-power-bi-with-multiple-values-on-rows/,2023-08-07,creating a matrix in power bi with multiple values on rows,blog
-datasavvy.me,https://datasavvy.me/2015/07/30/storytelling-with-tableau/,2020-09-24,storytelling with tableau,blog
-datasavvy.me,https://datasavvy.me/2015/11/13/power-bi-updates-gotta-catch-em-all/,2020-09-24,power bi updates gotta catch em all,blog
-datasavvy.me,https://datasavvy.me/2015/11/18/datazen-lives-on-in-sql-server-2016/,2020-09-24,datazen lives on in sql server 2016,blog
-datasavvy.me,https://datasavvy.me/2015/12/10/kcstat-chart-makeover/,2020-09-24,kcstat chart makeover,blog
+datasavvy.me,https://datasavvy.me/2015/01/18/power-view-maps-color-coding-positive-negative-sign/,2020-09-24,power view maps color coding positive negative sign,blog
+datasavvy.me,https://datasavvy.me/2015/05/17/biml-basics/,2020-09-24,biml basics,blog
 datasavvy.me,https://datasavvy.me/2015/12/20/demystifying-the-type-2-slowly-changing-dimension-with-biml/,2020-09-24,demystifying the type 2 slowly changing dimension with biml,blog
-datasavvy.me,https://datasavvy.me/2015/12/26/type-6-or-hybrid-type-2-slowly-changing-dimension-with-biml/,2020-09-24,type 6 or hybrid type 2 slowly changing dimension with biml,blog
-datasavvy.me,https://datasavvy.me/2015/12/28/using-a-variable-to-populate-the-query-in-a-lookup-in-ssis/,2020-09-24,using a variable to populate the query in a lookup in ssis,blog
-datasavvy.me,https://datasavvy.me/2015/08/02/im-excited-about-kansas-city-sql-saturday/,2020-09-24,im excited about kansas city sql saturday,blog
+datasavvy.me,https://datasavvy.me/2015/07/30/storytelling-with-tableau/,2020-09-24,storytelling with tableau,blog
 datasavvy.me,https://datasavvy.me/2015/08/24/dev-connections/,2020-09-24,dev connections,blog
-datasavvy.me,https://datasavvy.me/2016/07/28/using-context-to-traverse-hierarchies-in-dax/,2020-09-24,using context to traverse hierarchies in dax,blog
+datasavvy.me,https://datasavvy.me/2015/11/18/datazen-lives-on-in-sql-server-2016/,2020-09-24,datazen lives on in sql server 2016,blog
+datasavvy.me,https://datasavvy.me/2015/08/02/im-excited-about-kansas-city-sql-saturday/,2020-09-24,im excited about kansas city sql saturday,blog
+datasavvy.me,https://datasavvy.me/2015/11/13/power-bi-updates-gotta-catch-em-all/,2020-09-24,power bi updates gotta catch em all,blog
+datasavvy.me,https://datasavvy.me/2015/12/26/type-6-or-hybrid-type-2-slowly-changing-dimension-with-biml/,2020-09-24,type 6 or hybrid type 2 slowly changing dimension with biml,blog
+datasavvy.me,https://datasavvy.me/2015/12/10/kcstat-chart-makeover/,2020-09-24,kcstat chart makeover,blog
+datasavvy.me,https://datasavvy.me/2016/01/08/creating-a-matrix-in-power-bi-with-multiple-values-on-rows/,2023-08-07,creating a matrix in power bi with multiple values on rows,blog
+datasavvy.me,https://datasavvy.me/2015/12/28/using-a-variable-to-populate-the-query-in-a-lookup-in-ssis/,2020-09-24,using a variable to populate the query in a lookup in ssis,blog
 datasavvy.me,https://datasavvy.me/2016/09/03/dax-date-dimension-and-fun-with-date-math/,2020-09-24,dax date dimension and fun with date math,blog
 datasavvy.me,https://datasavvy.me/2016/08/06/create-a-date-dimension-in-azure-sql-data-warehouse/,2020-09-24,create a date dimension in azure sql data warehouse,blog
-datasavvy.me,https://datasavvy.me/2016/08/01/polybase-is-a-picky-eater-remove-carriage-returns-before-ingesting-text/,2020-09-24,polybase is a picky eater remove carriage returns before ingesting text,blog
-datasavvy.me,https://datasavvy.me/2016/07/15/end-of-the-power-bi-updates-list/,2020-09-24,end of the power bi updates list,blog
+datasavvy.me,https://datasavvy.me/2016/07/28/using-context-to-traverse-hierarchies-in-dax/,2020-09-24,using context to traverse hierarchies in dax,blog
 datasavvy.me,https://datasavvy.me/2016/06/29/bimlscript-get-to-know-your-code-nuggets/,2020-09-24,bimlscript get to know your code nuggets,blog
 datasavvy.me,https://datasavvy.me/2016/02/29/trekking-through-the-dax-jungle-in-search-of-lost-customers/,2022-02-09,trekking through the dax jungle in search of lost customers,blog
+datasavvy.me,https://datasavvy.me/2016/07/15/end-of-the-power-bi-updates-list/,2020-09-24,end of the power bi updates list,blog
 datasavvy.me,https://datasavvy.me/2016/06/30/bimlscript-get-to-know-your-control-nuggets/,2020-09-24,bimlscript get to know your control nuggets,blog
-datasavvy.me,https://datasavvy.me/2016/03/11/bimling-in-the-northeast/,2020-09-24,bimling in the northeast,blog
 datasavvy.me,https://datasavvy.me/2016/04/22/colorblind-awareness-and-power-bi-kpis/,2020-09-24,colorblind awareness and power bi kpis,blog
+datasavvy.me,https://datasavvy.me/2016/03/11/bimling-in-the-northeast/,2020-09-24,bimling in the northeast,blog
 datasavvy.me,https://datasavvy.me/2016/06/24/my-pass-summit-abstract-feedback/,2020-09-24,my pass summit abstract feedback,blog
+datasavvy.me,https://datasavvy.me/2016/08/01/polybase-is-a-picky-eater-remove-carriage-returns-before-ingesting-text/,2020-09-24,polybase is a picky eater remove carriage returns before ingesting text,blog
+datasavvy.me,https://datasavvy.me/2017/02/28/my-thoughts-on-sql-saturday-596-denver-bi/,2020-09-24,my thoughts on sql saturday 596 denver bi,blog
+datasavvy.me,https://datasavvy.me/2017/05/01/azure-data-factory-and-the-case-of-the-missing-jre-that-wasnt/,2020-09-24,azure data factory and the case of the missing jre that wasnt,blog
+datasavvy.me,https://datasavvy.me/2017/07/16/updating-a-sharepoint-list-item-with-flow-when-you-dont-have-the-id/,2023-05-26,updating a sharepoint list item with flow when you dont have the id,blog
+datasavvy.me,https://datasavvy.me/2017/05/24/im-speaking-at-itdev-connections-2017/,2020-09-24,im speaking at itdev connections 2017,blog
 datasavvy.me,https://datasavvy.me/2016/09/21/byo-time-zone-conversion-with-ssas-dmvs/,2020-09-24,byo time zone conversion with ssas dmvs,blog
 datasavvy.me,https://datasavvy.me/2016/10/04/documenting-your-tabular-or-power-bi-model/,2020-10-07,documenting your tabular or power bi model,blog
 datasavvy.me,https://datasavvy.me/2016/10/14/process-compatibility-level-1200-ssas-tabular-model-from-ssis-2014/,2024-01-22,process compatibility level 1200 ssas tabular model from ssis 2014,blog
 datasavvy.me,https://datasavvy.me/2016/10/26/update-on-my-pass-summit-feedback/,2020-09-24,update on my pass summit feedback,blog
 datasavvy.me,https://datasavvy.me/2016/11/07/please-lend-me-your-vote-for-documentation-of-tmschema-dmvs/,2020-09-24,please lend me your vote for documentation of tmschema dmvs,blog
 datasavvy.me,https://datasavvy.me/2017/03/03/copying-data-from-on-prem-sql-to-adls-with-adf-and-biml-part-1/,2020-09-24,copying data from on prem sql to adls with adf and biml part 1,blog
-datasavvy.me,https://datasavvy.me/2017/02/28/my-thoughts-on-sql-saturday-596-denver-bi/,2020-09-24,my thoughts on sql saturday 596 denver bi,blog
-datasavvy.me,https://datasavvy.me/2017/05/01/azure-data-factory-and-the-case-of-the-missing-jre-that-wasnt/,2020-09-24,azure data factory and the case of the missing jre that wasnt,blog
-datasavvy.me,https://datasavvy.me/2017/07/16/updating-a-sharepoint-list-item-with-flow-when-you-dont-have-the-id/,2023-05-26,updating a sharepoint list item with flow when you dont have the id,blog
-datasavvy.me,https://datasavvy.me/2017/05/24/im-speaking-at-itdev-connections-2017/,2020-09-24,im speaking at itdev connections 2017,blog
 datasavvy.me,https://datasavvy.me/2017/03/14/insufficient-disk-space-t-sql-tuesday-88/,2020-09-24,insufficient disk space t sql tuesday 88,blog
 datasavvy.me,https://datasavvy.me/2017/03/10/copying-data-from-on-prem-sql-to-adls-with-adf-and-biml-part-2/,2020-09-24,copying data from on prem sql to adls with adf and biml part 2,blog
 datasavvy.me,https://datasavvy.me/2017/04/11/i-like-to-move-it-move-it-but-azure-data-factory-doesnt/,2020-09-24,i like to move it move it but azure data factory doesnt,blog
+datasavvy.me,https://datasavvy.me/2017/11/27/design-concepts-to-help-you-create-better-power-bi-reports/,2020-09-24,design concepts to help you create better power bi reports,blog
+datasavvy.me,https://datasavvy.me/2017/10/28/data-visualization-panel-at-pass-summit/,2020-09-24,data visualization panel at pass summit,blog
+datasavvy.me,https://datasavvy.me/2017/12/28/design-concepts-for-better-power-bi-reports-part-5-affordances/,2020-09-24,design concepts for better power bi reports part 5 affordances,blog
+datasavvy.me,https://datasavvy.me/2017/12/22/design-concepts-for-better-power-bi-reports-part-4-the-squint-test/,2020-09-24,design concepts for better power bi reports part 4 the squint test,blog
+datasavvy.me,https://datasavvy.me/2017/12/18/design-concepts-for-better-power-bi-reports-part-3-gestalt-principles/,2020-09-24,design concepts for better power bi reports part 3 gestalt principles,blog
+datasavvy.me,https://datasavvy.me/2017/11/30/design-concepts-for-better-power-bi-reports-part-2-preattentive-attributes/,2022-11-15,design concepts for better power bi reports part 2 preattentive attributes,blog
 datasavvy.me,https://datasavvy.me/2017/07/20/installing-the-microsoft-ace-oledb-12-0-provider-for-both-64-bit-and-32-bit-processing/,2024-07-16,installing the microsoft ace oledb 12 0 provider for both 64 bit and 32 bit processing,blog
 datasavvy.me,https://datasavvy.me/2017/08/10/you-can-now-put-values-on-rows-in-power-bi/,2023-04-04,you can now put values on rows in power bi,blog
 datasavvy.me,https://datasavvy.me/2017/09/18/my-thoughts-after-completing-a-power-bi-report-server-poc/,2021-08-25,my thoughts after completing a power bi report server poc,blog
 datasavvy.me,https://datasavvy.me/2017/09/19/the-tabular-model-documenter-is-now-a-power-bi-template/,2020-09-24,the tabular model documenter is now a power bi template,blog
-datasavvy.me,https://datasavvy.me/2017/10/28/data-visualization-panel-at-pass-summit/,2020-09-24,data visualization panel at pass summit,blog
 datasavvy.me,https://datasavvy.me/2017/11/22/biml-for-a-task-factory-dynamics-crm-source-component/,2020-09-24,biml for a task factory dynamics crm source component,blog
-datasavvy.me,https://datasavvy.me/2017/11/27/design-concepts-to-help-you-create-better-power-bi-reports/,2020-09-24,design concepts to help you create better power bi reports,blog
-datasavvy.me,https://datasavvy.me/2017/11/30/design-concepts-for-better-power-bi-reports-part-2-preattentive-attributes/,2022-11-15,design concepts for better power bi reports part 2 preattentive attributes,blog
-datasavvy.me,https://datasavvy.me/2017/12/18/design-concepts-for-better-power-bi-reports-part-3-gestalt-principles/,2020-09-24,design concepts for better power bi reports part 3 gestalt principles,blog
-datasavvy.me,https://datasavvy.me/2017/12/22/design-concepts-for-better-power-bi-reports-part-4-the-squint-test/,2020-09-24,design concepts for better power bi reports part 4 the squint test,blog
-datasavvy.me,https://datasavvy.me/2017/12/28/design-concepts-for-better-power-bi-reports-part-5-affordances/,2020-09-24,design concepts for better power bi reports part 5 affordances,blog
 datasavvy.me,https://datasavvy.me/2017/10/19/let-her-finish-voices-from-the-data-platform/,2020-09-24,let her finish voices from the data platform,blog
 datasavvy.me,https://datasavvy.me/2018/09/05/join-me-at-pass-summit-2018/,2020-09-24,join me at pass summit 2018,blog
 datasavvy.me,https://datasavvy.me/2018/02/22/join-me-on-speakingmentors-com/,2020-09-24,join me on speakingmentors com,blog
@@ -4428,10 +4433,10 @@ datasavvy.me,https://datasavvy.me/2018/11/13/learning-better-presentation-skills
 datasavvy.me,https://datasavvy.me/2018/10/02/data-factory-v2-activity-dependencies-are-a-logical-and/,2023-09-01,data factory v2 activity dependencies are a logical and,blog
 datasavvy.me,https://datasavvy.me/2018/08/10/dear-conferences-please-stop-making-inaccessible-presentation-templates/,2020-09-24,dear conferences please stop making inaccessible presentation templates,blog
 datasavvy.me,https://datasavvy.me/2018/07/27/considerations-for-using-layout-images-in-power-bi/,2020-09-24,considerations for using layout images in power bi,blog
-datasavvy.me,https://datasavvy.me/2018/02/06/power-bi-screen-reader-accessibility/,2020-09-24,power bi screen reader accessibility,blog
-datasavvy.me,https://datasavvy.me/2018/04/12/please-join-me-for-my-pass-summit-pre-con-with-melissa-coates/,2020-09-24,please join me for my pass summit pre con with melissa coates,blog
 datasavvy.me,https://datasavvy.me/2018/01/29/ten-ways-to-help-your-bi-consultant-be-successful/,2020-09-24,ten ways to help your bi consultant be successful,blog
+datasavvy.me,https://datasavvy.me/2018/04/12/please-join-me-for-my-pass-summit-pre-con-with-melissa-coates/,2020-09-24,please join me for my pass summit pre con with melissa coates,blog
 datasavvy.me,https://datasavvy.me/2018/05/26/choosing-a-color-palette-for-your-power-bi-report/,2020-09-24,choosing a color palette for your power bi report,blog
+datasavvy.me,https://datasavvy.me/2018/02/06/power-bi-screen-reader-accessibility/,2020-09-24,power bi screen reader accessibility,blog
 datasavvy.me,https://datasavvy.me/2018/04/25/thoughts-and-lessons-learned-from-a-power-bi-embedded-poc/,2020-09-24,thoughts and lessons learned from a power bi embedded poc,blog
 datasavvy.me,https://datasavvy.me/2018/03/09/four-easy-things-you-can-do-now-to-make-your-power-bi-reports-more-accessible/,2020-09-24,four easy things you can do now to make your power bi reports more accessible,blog
 datasavvy.me,https://datasavvy.me/2019/04/11/storytelling-without-data/,2020-09-24,storytelling without data,blog
@@ -4447,30 +4452,30 @@ datasavvy.me,https://datasavvy.me/2018/12/26/tab-order-enhances-power-bi-report-
 datasavvy.me,https://datasavvy.me/2019/02/06/join-me-for-the-pass-data-expert-series-feb-7/,2020-09-24,join me for the pass data expert series feb 7,blog
 datasavvy.me,https://datasavvy.me/2019/03/07/there-is-now-a-delete-activity-in-data-factory-v2/,2020-09-24,there is now a delete activity in data factory v2,blog
 datasavvy.me,https://datasavvy.me/2019/01/11/the-necessary-extras-that-arent-shown-in-your-azure-bi-architecture-diagram/,2020-09-24,the necessary extras that arent shown in your azure bi architecture diagram,blog
-datasavvy.me,https://datasavvy.me/2019/08/15/using-azure-automation-to-shut-down-a-vm-only-if-a-sql-agent-job-is-not-running/,2020-09-24,using azure automation to shut down a vm only if a sql agent job is not running,blog
+datasavvy.me,https://datasavvy.me/2019/08/22/new-centralized-view-of-sql-resources-in-azure/,2020-09-24,new centralized view of sql resources in azure,blog
 datasavvy.me,https://datasavvy.me/2019/07/25/why-we-dont-truncate-dimensions-and-facts-during-a-data-load/,2020-09-24,why we dont truncate dimensions and facts during a data load,blog
 datasavvy.me,https://datasavvy.me/2019/12/05/new-power-bi-report-design-pre-con-in-2020/,2020-09-24,new power bi report design pre con in 2020,blog
 datasavvy.me,https://datasavvy.me/2019/08/01/check-out-the-updated-violin-plot-power-bi-custom-visual/,2020-09-24,check out the updated violin plot power bi custom visual,blog
 datasavvy.me,https://datasavvy.me/2019/10/09/im-speaking-at-microsoft-ignite-2019/,2020-09-24,im speaking at microsoft ignite 2019,blog
 datasavvy.me,https://datasavvy.me/2019/09/05/tips-for-more-accessible-presentations/,2020-09-24,tips for more accessible presentations,blog
-datasavvy.me,https://datasavvy.me/2019/08/22/new-centralized-view-of-sql-resources-in-azure/,2020-09-24,new centralized view of sql resources in azure,blog
+datasavvy.me,https://datasavvy.me/2019/08/15/using-azure-automation-to-shut-down-a-vm-only-if-a-sql-agent-job-is-not-running/,2020-09-24,using azure automation to shut down a vm only if a sql agent job is not running,blog
 datasavvy.me,https://datasavvy.me/2019/06/27/so-you-want-to-be-a-business-intelligence-consultant/,2020-09-24,so you want to be a business intelligence consultant,blog
 datasavvy.me,https://datasavvy.me/2019/08/08/my-preferences-for-ssis-design/,2020-09-24,my preferences for ssis design,blog
 datasavvy.me,https://datasavvy.me/2019/11/30/microsoft-cant-make-your-power-bi-reports-accessible-without-your-help/,2020-09-24,microsoft cant make your power bi reports accessible without your help,blog
 datasavvy.me,https://datasavvy.me/2020/05/21/power-up-exploring-the-power-bi-ecosystem-may-27-28/,2020-09-24,power up exploring the power bi ecosystem may 27 28,blog
 datasavvy.me,https://datasavvy.me/2020/01/30/parameterizing-a-rest-api-linked-service-in-data-factory/,2023-01-13,parameterizing a rest api linked service in data factory,blog
 datasavvy.me,https://datasavvy.me/2020/07/09/refreshing-a-power-bi-dataset-in-azure-data-factory/,2022-06-30,refreshing a power bi dataset in azure data factory,blog
-datasavvy.me,https://datasavvy.me/2020/06/18/power-bi-data-viz-makeover-from-drab-to-fab/,2020-09-24,power bi data viz makeover from drab to fab,blog
+datasavvy.me,https://datasavvy.me/2020/06/04/data-visualization-context-and-domain-expertise/,2020-09-24,data visualization context and domain expertise,blog
 datasavvy.me,https://datasavvy.me/2020/05/28/an-updated-version-of-the-power-bi-enterprise-deployment-whitepaper-is-available/,2020-09-24,an updated version of the power bi enterprise deployment whitepaper is available,blog
 datasavvy.me,https://datasavvy.me/2020/05/14/check-out-my-mbas-presentation-on-power-bi-report-accessibility/,2020-09-24,check out my mbas presentation on power bi report accessibility,blog
 datasavvy.me,https://datasavvy.me/2020/05/07/using-logic-apps-in-a-data-factory-execution-framework-part-1/,2021-05-28,using logic apps in a data factory execution framework part 1,blog
 datasavvy.me,https://datasavvy.me/2020/03/26/stress-cases-and-data-visualization/,2020-09-24,stress cases and data visualization,blog
 datasavvy.me,https://datasavvy.me/2020/03/05/policyviz-podcast-episode-on-accessibility/,2020-09-24,policyviz podcast episode on accessibility,blog
-datasavvy.me,https://datasavvy.me/2020/06/04/data-visualization-context-and-domain-expertise/,2020-09-24,data visualization context and domain expertise,blog
+datasavvy.me,https://datasavvy.me/2020/06/18/power-bi-data-viz-makeover-from-drab-to-fab/,2020-09-24,power bi data viz makeover from drab to fab,blog
 datasavvy.me,https://datasavvy.me/2020/02/13/i-presented-with-live-captioning-and-sign-language-interpreters/,2020-09-24,i presented with live captioning and sign language interpreters,blog
-datasavvy.me,https://datasavvy.me/2020/08/20/fun-with-power-bi-and-color-math/,2020-09-24,fun with power bi and color math,blog
-datasavvy.me,https://datasavvy.me/2020/08/06/im-speaking-at-virtual-pass-summit-2020/,2020-09-24,im speaking at virtual pass summit 2020,blog
 datasavvy.me,https://datasavvy.me/2020/09/17/stop-letting-accessibility-be-optional-in-your-power-bi-reports/,2020-09-24,stop letting accessibility be optional in your power bi reports,blog
+datasavvy.me,https://datasavvy.me/2020/08/06/im-speaking-at-virtual-pass-summit-2020/,2020-09-24,im speaking at virtual pass summit 2020,blog
+datasavvy.me,https://datasavvy.me/2020/08/20/fun-with-power-bi-and-color-math/,2020-09-24,fun with power bi and color math,blog
 datasavvy.me,https://datasavvy.me/bookmarks-brain-pixels-and-bar-charts-creating-effective-power-bi-reports/,2019-12-05,bookmarks brain pixels and bar charts creating effective power bi reports,blog
 datasavvy.me,https://datasavvy.me/pbi-data-viz-checklist/,2018-11-21,pbi data viz checklist,blog
 datasavvy.me,https://datasavvy.me/2018/07/04/submit-your-pre-cons-to-sqlsaturday-denver-774-by-july-15/,2018-07-04,submit your pre cons to sqlsaturday denver 774 by july 15,blog
@@ -4482,7 +4487,7 @@ datasavvy.me,https://datasavvy.me/2013/08/16/im-speaking-at-sql-saturday-190-in-
 datasavvy.me,https://datasavvy.me/2013/07/03/im-speaking-at-sqlsaturday-236-in-st-louis/,2013-07-03,im speaking at sqlsaturday 236 in st louis,blog
 datasavvy.me,https://datasavvy.me/2013/06/30/links-for-excel-data-explorer/,2013-06-30,links for excel data explorer,blog
 datasavvy.me,https://datasavvy.me/2013/03/24/im-speaking-at-sql-saturday-197/,2013-03-24,im speaking at sql saturday 197,blog
-datasavvy.me,https://datasavvy.me,2024-09-25,,blog
+datasavvy.me,https://datasavvy.me,2024-09-26,,blog
 www.thatbluecloud.com,https://www.thatbluecloud.com/fabric-dataflows-support-service-principal-auth/,2024-07-09,fabric dataflows support service principal auth,blog
 www.thatbluecloud.com,https://www.thatbluecloud.com/delta-lake-v3-announced/,2024-07-09,delta lake v3 announced,blog
 www.thatbluecloud.com,https://www.thatbluecloud.com/5-new-features-in-microsoft-fabric-with-july-2023-update/,2024-07-09,5 new features in microsoft fabric with july 2023 update,blog
