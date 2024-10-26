@@ -1,9 +1,8 @@
 website,loc,lastmod,cured_name,type
-www.kevinrchant.com,https://www.kevinrchant.com/,2024-10-24,,blog
+www.kevinrchant.com,https://www.kevinrchant.com/,2024-10-25,,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2019/08/28/finding-sql-server-versions-for-docker-and-linux-using-a-web-browser/,2019-08-29,finding sql server versions for docker and linux using a web browser,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2019/10/14/speaking-at-sql-saturday-sofia/,2019-10-14,speaking at sql saturday sofia,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2019/10/16/challenging-yourself-at-conferences/,2019-10-16,challenging yourself at conferences,blog
-www.kevinrchant.com,https://www.kevinrchant.com/2019/10/21/guidelines-for-deploying-big-data-clusters-using-a-visual-studio-subscription/,2019-10-21,guidelines for deploying big data clusters using a visual studio subscription,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2019/10/23/using-azure-data-studio-insiders-build/,2019-10-23,using azure data studio insiders build,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2019/10/28/being-sql-server-product-owner/,2019-10-28,being sql server product owner,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2019/11/12/t-sql-tuesday-120-severely-neglected-index/,2019-11-12,t sql tuesday 120 severely neglected index,blog
@@ -143,7 +142,6 @@ www.kevinrchant.com,https://www.kevinrchant.com/2019/04/01/current-sql-server-20
 www.kevinrchant.com,https://www.kevinrchant.com/2019/12/05/maintaining-larger-sql-server-databases-recap/,2021-06-29,maintaining larger sql server databases recap,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2020/02/24/tips-for-dealing-with-large-sql-server-scripts/,2021-06-29,tips for dealing with large sql server scripts,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2020/01/08/lessons-learned-by-a-time-travelling-sql-server-dba-part-one-the-past/,2021-06-29,lessons learned by a time travelling sql server dba part one the past,blog
-www.kevinrchant.com,https://www.kevinrchant.com/2019/05/08/current-sql-server-2019-big-data-clusters-learning-resources/,2021-06-29,current sql server 2019 big data clusters learning resources,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2019/01/24/study-tips-for-sql-server-and-azure-exams/,2021-06-29,study tips for sql server and azure exams,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2020/07/01/testing-sql-server-assessment-in-azure-data-studio/,2021-06-30,testing sql server assessment in azure data studio,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2020/01/15/lessons-learned-by-a-time-travelling-sql-server-dba-part-two-the-future/,2021-06-30,lessons learned by a time travelling sql server dba part two the future,blog
@@ -419,6 +417,7 @@ www.kevinrchant.com,https://www.kevinrchant.com/2024/10/09/will-the-new-dp-700-m
 www.kevinrchant.com,https://www.kevinrchant.com/2024/10/22/fabricators-guide-to-database-projects-for-microsoft-fabric-data-warehouses/,2024-10-22,fabricators guide to database projects for microsoft fabric data warehouses,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2024/09/30/about-the-dp-700-exam-for-the-new-microsoft-fabric-data-engineering-certification/,2024-10-24,about the dp 700 exam for the new microsoft fabric data engineering certification,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2024/10/03/checklist-for-the-dp-700-beta-exam-for-the-new-microsoft-fabric-data-engineering-certification/,2024-10-24,checklist for the dp 700 beta exam for the new microsoft fabric data engineering certification,blog
+www.kevinrchant.com,https://www.kevinrchant.com/2024/10/25/five-simple-facts-about-the-dp-600-exam-updates/,2024-10-25,five simple facts about the dp 600 exam updates,blog
 thomas-leblanc.com,https://thomas-leblanc.com/,,,blog
 thomas-leblanc.com,https://thomas-leblanc.com/sample-page/,2016-02-12,sample page,blog
 thomas-leblanc.com,https://thomas-leblanc.com/2016/02/14/cost-threshold-and-max-degree-of-parallelism/,2016-03-13,cost threshold and max degree of parallelism,blog
@@ -488,7 +487,7 @@ thomas-leblanc.com,https://thomas-leblanc.com/2024/03/15/power-bi-performance-ca
 thomas-leblanc.com,https://thomas-leblanc.com/2024/03/29/power-bi-or-fabric-monitoring/,2024-08-29,power bi or fabric monitoring,blog
 thomas-leblanc.com,https://thomas-leblanc.com/2024/08/29/power-bi-vision/,2024-08-29,power bi vision,blog
 thomas-leblanc.com,https://thomas-leblanc.com/2024/10/01/power-bi-gathering-the-troops/,2024-10-01,power bi gathering the troops,blog
-www.oliviertravers.com,https://www.oliviertravers.com/running-llms-locally-the-getting-started-windows-stack/,2024-10-13,running llms locally the getting started windows stack,blog
+www.oliviertravers.com,https://www.oliviertravers.com/running-llms-locally-the-getting-started-windows-stack/,2024-10-25,running llms locally the getting started windows stack,blog
 www.oliviertravers.com,https://www.oliviertravers.com/running-ai-image-generation-on-your-windows-pc-beginner-friendly-starter-pack/,2024-09-08,running ai image generation on your windows pc beginner friendly starter pack,blog
 www.oliviertravers.com,https://www.oliviertravers.com/ebook-collection-search-everything-calibre/,2024-08-01,ebook collection search everything calibre,blog
 www.oliviertravers.com,https://www.oliviertravers.com/launchy-everything-dopus/,2024-08-01,launchy everything dopus,blog
@@ -2424,6 +2423,7 @@ pragmaticworks.com,https://pragmaticworks.com/blog/5-questions-we-can-answer-wit
 pragmaticworks.com,https://pragmaticworks.com/blog/inner-vs.-outer-in-sql,2023-11-11,inner vs. outer in sql,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/pragmatic-works-recognized-as-finalist-for-2020-microsoft-power-bi-powerapps-partner-of-the-year-award,2023-10-03,pragmatic works recognized as finalist for 2020 microsoft power bi powerapps partner of the year award,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/why-i-love-working-at-pragmatic-works-during-the-holidays,2023-03-16,why i love working at pragmatic works during the holidays,blog
+pragmaticworks.com,https://pragmaticworks.com/blog/new-updates-to-the-matrix-visual-in-power-bi-may-2024-update,2024-10-25,new updates to the matrix visual in power bi may 2024 update,blog
 pragmaticworks.com,https://pragmaticworks.com/events/sep-17-copilot-for-microsoft-365-bootcamp-166,2024-07-17,sep 17 copilot for microsoft 365 bootcamp 166,blog
 pragmaticworks.com,https://pragmaticworks.com/courses/bookings-brilliance-mastering-microsoft-bookings,2024-07-03,bookings brilliance mastering microsoft bookings,blog
 pragmaticworks.com,https://pragmaticworks.com/microsoft-teams-for-the-consumer,2023-08-29,microsoft teams for the consumer,blog
@@ -2978,6 +2978,7 @@ pragmaticworks.com,https://pragmaticworks.com/blog/announcing-our-updated-power-
 pragmaticworks.com,https://pragmaticworks.com/courses/azure-devops-for-users,2024-07-03,azure devops for users,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/azure-queues,2023-03-28,azure queues,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/the-importance-of-data-warehouse-and-bi-testing,2024-02-06,the importance of data warehouse and bi testing,blog
+pragmaticworks.com,https://pragmaticworks.com/en/guides/dax-sum-function,2024-10-25,dax sum function,blog
 pragmaticworks.com,https://pragmaticworks.com/events/sep-11-virtual-power-bi-bootcamp-14,2024-03-14,sep 11 virtual power bi bootcamp 14,blog
 pragmaticworks.com,https://pragmaticworks.com/learn-with-the-nerds-power-bi-developer-of-the-future-with-fabric-recorded-live-event,2024-04-11,learn with the nerds power bi developer of the future with fabric recorded live event,blog
 pragmaticworks.com,https://pragmaticworks.com/learn-with-the-nerds-understanding-dax-concepts-with-power-bi-recorded-live-event,2023-08-29,learn with the nerds understanding dax concepts with power bi recorded live event,blog
@@ -3606,6 +3607,7 @@ pragmaticworks.com,https://pragmaticworks.com/blog/webinar-follow-up-whats-new-i
 pragmaticworks.com,https://pragmaticworks.com/pyspark-in-microsoft-fabric-student-files,2024-08-12,pyspark in microsoft fabric student files,blog
 pragmaticworks.com,https://pragmaticworks.com/courses-old/plan-like-a-pro-with-microsoft-planner,2024-07-03,plan like a pro with microsoft planner,blog
 pragmaticworks.com,https://pragmaticworks.com/learn-with-the-nerds-creating-a-microsoft-fabric-end-to-end-solution-recorded-live-event,2024-04-11,learn with the nerds creating a microsoft fabric end to end solution recorded live event,blog
+pragmaticworks.com,https://pragmaticworks.com/en/guides/if-function-in-dax,2024-10-26,if function in dax,blog
 pragmaticworks.com,https://pragmaticworks.com/instructors/all,2024-08-01,all,blog
 pragmaticworks.com,https://pragmaticworks.com/learn-with-the-nerds-power-apps-live-hackathon,2023-09-14,learn with the nerds power apps live hackathon,blog
 pragmaticworks.com,https://pragmaticworks.com/events/sep-16-virtual-advanced-data-modeling-135,2024-04-18,sep 16 virtual advanced data modeling 135,blog
@@ -3641,7 +3643,6 @@ pragmaticworks.com,https://pragmaticworks.com/2/blog/power-apps-display-forms-an
 pragmaticworks.com,https://pragmaticworks.com/introduction-to-mdx,2023-08-29,introduction to mdx,blog
 pragmaticworks.com,https://pragmaticworks.com/events/may-17-virtual-power-bi-administration-104,2024-03-14,may 17 virtual power bi administration 104,blog
 pragmaticworks.com,https://pragmaticworks.com/events/nov-21-virtual-advanced-data-visualizations-157,2024-07-12,nov 21 virtual advanced data visualizations 157,blog
-pragmaticworks.com,https://pragmaticworks.com/paginated-reports-in-power-bi-2024-registration,2024-10-24,paginated reports in power bi 2024 registration,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-custom-visuals-timeline-storyteller,2023-03-28,power bi custom visuals timeline storyteller,blog
 pragmaticworks.com,https://pragmaticworks.com/courses/modern-excel-analyst-in-a-day,2024-07-03,modern excel analyst in a day,blog
 pragmaticworks.com,https://pragmaticworks.com/power-bi-for-finance-mastering-power-bi-for-financial-insights,2024-02-22,power bi for finance mastering power bi for financial insights,blog
@@ -3973,6 +3974,7 @@ pragmaticworks.com,https://pragmaticworks.com/blog/preparing-for-the-new-azure-e
 pragmaticworks.com,https://pragmaticworks.com/blog/intro-to-azure-data-lake-store-gen-2,2023-03-28,intro to azure data lake store gen 2,blog
 pragmaticworks.com,https://pragmaticworks.com/events/oct-12-learn-with-the-nerds-power-platform-co-pilot-and-ai-builder-34,2024-03-14,oct 12 learn with the nerds power platform co pilot and ai builder 34,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/microsofts-underwater-cloud,2023-03-28,microsofts underwater cloud,blog
+pragmaticworks.com,https://pragmaticworks.com/paginated-reports-in-power-bi-2024-registration,2024-10-25,paginated reports in power bi 2024 registration,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/this-week-in-data-the-importance-of-data-testing,2024-08-27,this week in data the importance of data testing,blog
 pragmaticworks.com,https://pragmaticworks.com/learn-with-the-nerds-rpa-with-power-automate-desktop,2023-08-29,learn with the nerds rpa with power automate desktop,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/what-is-databricks-community-edition,2023-03-28,what is databricks community edition,blog
@@ -4116,6 +4118,7 @@ pragmaticworks.com,https://pragmaticworks.com/courses/introduction-to-azure-sql-
 pragmaticworks.com,https://pragmaticworks.com/blog/a-look-back-at-2014,2024-06-07,a look back at 2014,blog
 pragmaticworks.com,https://pragmaticworks.com/courses-old/administering-business-intelligence,2024-07-03,administering business intelligence,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-beginner-to-pro-part-1-data-cleansing-and-shaping,2024-08-27,power bi beginner to pro part 1 data cleansing and shaping,blog
+pragmaticworks.com,https://pragmaticworks.com/events/nov-21-paginated-reports-in-power-bi-2024-edition-196,2024-10-25,nov 21 paginated reports in power bi 2024 edition 196,blog
 pragmaticworks.com,https://pragmaticworks.com/courses-old/power-apps-problem-design-solution,2024-07-08,power apps problem design solution,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/most-important-components-of-azure-data-factory,2023-03-28,most important components of azure data factory,blog
 pragmaticworks.com,https://pragmaticworks.com/events/jul-15-virtual-advanced-power-bi-bootcamp-117,2024-04-18,jul 15 virtual advanced power bi bootcamp 117,blog
