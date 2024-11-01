@@ -1,5 +1,5 @@
 website,loc,lastmod,cured_name,type
-www.kevinrchant.com,https://www.kevinrchant.com/,2024-10-30,,blog
+www.kevinrchant.com,https://www.kevinrchant.com/,2024-10-31,,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2019/08/28/finding-sql-server-versions-for-docker-and-linux-using-a-web-browser/,2019-08-29,finding sql server versions for docker and linux using a web browser,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2019/10/14/speaking-at-sql-saturday-sofia/,2019-10-14,speaking at sql saturday sofia,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2019/10/16/challenging-yourself-at-conferences/,2019-10-16,challenging yourself at conferences,blog
@@ -415,10 +415,10 @@ www.kevinrchant.com,https://www.kevinrchant.com/2024/07/29/security-consideratio
 www.kevinrchant.com,https://www.kevinrchant.com/2024/10/16/populate-a-microsoft-fabric-lakehouse-in-different-deployment-pipeline-stages/,2024-10-16,populate a microsoft fabric lakehouse in different deployment pipeline stages,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2024/10/09/will-the-new-dp-700-microsoft-fabric-exam-replace-the-dp-600-exam/,2024-10-21,will the new dp 700 microsoft fabric exam replace the dp 600 exam,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2024/09/30/about-the-dp-700-exam-for-the-new-microsoft-fabric-data-engineering-certification/,2024-10-24,about the dp 700 exam for the new microsoft fabric data engineering certification,blog
-www.kevinrchant.com,https://www.kevinrchant.com/2024/10/03/checklist-for-the-dp-700-beta-exam-for-the-new-microsoft-fabric-data-engineering-certification/,2024-10-24,checklist for the dp 700 beta exam for the new microsoft fabric data engineering certification,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2024/10/25/five-simple-facts-about-the-dp-600-exam-updates/,2024-10-25,five simple facts about the dp 600 exam updates,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2024/10/22/fabricators-guide-to-database-projects-for-microsoft-fabric-data-warehouses/,2024-10-29,fabricators guide to database projects for microsoft fabric data warehouses,blog
 www.kevinrchant.com,https://www.kevinrchant.com/2024/10/30/fabricators-guide-to-version-control-in-microsoft-fabric/,2024-10-30,fabricators guide to version control in microsoft fabric,blog
+www.kevinrchant.com,https://www.kevinrchant.com/2024/10/03/checklist-for-the-dp-700-beta-exam-for-the-new-microsoft-fabric-data-engineering-certification/,2024-10-31,checklist for the dp 700 beta exam for the new microsoft fabric data engineering certification,blog
 thomas-leblanc.com,https://thomas-leblanc.com/,,,blog
 thomas-leblanc.com,https://thomas-leblanc.com/sample-page/,2016-02-12,sample page,blog
 thomas-leblanc.com,https://thomas-leblanc.com/2016/02/14/cost-threshold-and-max-degree-of-parallelism/,2016-03-13,cost threshold and max degree of parallelism,blog
@@ -2355,6 +2355,7 @@ pragmaticworks.com,https://pragmaticworks.com/courses-old/dax-for-paginated-repo
 pragmaticworks.com,https://pragmaticworks.com/introduction-to-data-modeling,2023-08-29,introduction to data modeling,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/power-platform-quick-tips-dynamic-power-apps-form-headers,2023-03-28,power platform quick tips dynamic power apps form headers,blog
 pragmaticworks.com,https://pragmaticworks.com/introduction-to-power-automate,2024-07-09,introduction to power automate,blog
+pragmaticworks.com,https://pragmaticworks.com/guides/distinctcount-dax-function,2024-10-31,distinctcount dax function,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/a-guide-to-gdpr-compliance-with-microsoft-data-platform,2023-03-28,a guide to gdpr compliance with microsoft data platform,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/questions-about-our-new-course-advanced-dax,2023-03-28,questions about our new course advanced dax,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/exploring-excel-2013-for-bi-show-explore,2023-03-16,exploring excel 2013 for bi show explore,blog
@@ -3336,6 +3337,7 @@ pragmaticworks.com,https://pragmaticworks.com/blog/setting-up-power-bi-team-proj
 pragmaticworks.com,https://pragmaticworks.com/blog/pragmatic-works-recognized-as-finalist-for-2020-microsoft-power-bi-powerapps-partner-of-the-year-award-0,2023-10-03,pragmatic works recognized as finalist for 2020 microsoft power bi powerapps partner of the year award 0,blog
 pragmaticworks.com,https://pragmaticworks.com/courses-old/introduction-to-sql-server-window-functions,2024-07-03,introduction to sql server window functions,blog
 pragmaticworks.com,https://pragmaticworks.com/courses/copilot-in-microsoft-teams,2024-07-03,copilot in microsoft teams,blog
+pragmaticworks.com,https://pragmaticworks.com/blog,2024-08-21,blog,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/introducing-our-new-course-azure-logic-apps,2023-03-28,introducing our new course azure logic apps,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/unique-ask-for-drill-through-1,2023-03-16,unique ask for drill through 1,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/grouping-and-binning-in-power-bi-2,2023-11-10,grouping and binning in power bi 2,blog
@@ -3715,7 +3717,6 @@ pragmaticworks.com,https://pragmaticworks.com/advanced-power-automate,2023-08-07
 pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-custom-visuals-impact-bubble-chart,2023-03-28,power bi custom visuals impact bubble chart,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/benefits-of-azure-sql-iaas-sql-server-agent-extension,2023-03-28,benefits of azure sql iaas sql server agent extension,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/unique-ask-for-drill-through,2023-03-28,unique ask for drill through,blog
-pragmaticworks.com,https://pragmaticworks.com/blog,2024-08-21,blog,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-custom-visuals-table-sorter,2023-03-28,power bi custom visuals table sorter,blog
 pragmaticworks.com,https://pragmaticworks.com/courses-old/learn-with-the-nerds-azure-data-factory-recorded-live-event,2024-07-03,learn with the nerds azure data factory recorded live event,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/whats-going-on-in-january,2024-07-09,whats going on in january,blog
@@ -3961,6 +3962,7 @@ pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-custom-visuals-mapbo
 pragmaticworks.com,https://pragmaticworks.com/courses/advanced-microsoft-project-for-the-project-management-office,2024-07-03,advanced microsoft project for the project management office,blog
 pragmaticworks.com,https://pragmaticworks.com/administering-business-intelligence,2023-08-29,administering business intelligence,blog
 pragmaticworks.com,https://pragmaticworks.com/events/oct-15-virtual-t-sql-boot-camp-146,2024-07-12,oct 15 virtual t sql boot camp 146,blog
+pragmaticworks.com,https://pragmaticworks.com/blog/pl-900-power-platform-certification-exam-questions-each-wrong-answer-is-an-hour-in-waffle-house,2024-10-31,pl 900 power platform certification exam questions each wrong answer is an hour in waffle house,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-monthly-digest-august2021,2023-03-16,power bi monthly digest august2021,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/introduction-to-azure-sql-database-questions-and-answers-part-2,2024-10-01,introduction to azure sql database questions and answers part 2,blog
 pragmaticworks.com,https://pragmaticworks.com/blog/introduction-to-microsoft-project-desktop-series-ep.-1,2024-07-24,introduction to microsoft project desktop series ep. 1,blog
