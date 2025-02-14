@@ -2031,58 +2031,58 @@ www.sqlbi.com,https://www.sqlbi.com/articles/re-using-visual-formatting-in-and-a
 www.sqlbi.com,https://www.sqlbi.com/articles/optimizing-incremental-inventory-calculations-in-dax/,2025-02-10,optimizing incremental inventory calculations in dax
 www.sqlbi.com,https://www.sqlbi.com/articles/differences-between-all-and-allcrossfiltered/,2025-02-10,differences between all and allcrossfiltered
 www.sqlbi.com,https://www.sqlbi.com/articles/using-pie-charts-is-not-the-end-of-the-world/,2025-02-10,using pie charts is not the end of the world
-en.brunner.bi,https://en.brunner.bi/post/1-click-optimization-and-fabric-git-integration,2024-07-11,1 click optimization and fabric git integration
-en.brunner.bi,https://en.brunner.bi/post/measure-killer-feedback-1,2025-02-10,measure killer feedback 1
-en.brunner.bi,https://en.brunner.bi/post/new-ways-to-check-if-queries-fold-in-power-query,2024-05-09,new ways to check if queries fold in power query
-en.brunner.bi,https://en.brunner.bi/post/how-to-mass-upload-power-bi-reports-to-the-power-bi-service,2024-08-01,how to mass upload power bi reports to the power bi service
-en.brunner.bi,https://en.brunner.bi/post/how-to-fix-duration-data-types-in-power-bi-dataflows-1,2024-05-09,how to fix duration data types in power bi dataflows 1
-en.brunner.bi,https://en.brunner.bi/post/fixing-delta-once-and-for-all-1,2023-05-01,fixing delta once and for all 1
-en.brunner.bi,https://en.brunner.bi/post/how-to-get-row-level-security-details-from-all-semantic-models-in-power-bi-or-fabric-1,2024-12-19,how to get row level security details from all semantic models in power bi or fabric 1
-en.brunner.bi,https://en.brunner.bi/post/exporting-data-from-power-bi-desktop-without-limits,2024-05-09,exporting data from power bi desktop without limits
-en.brunner.bi,https://en.brunner.bi/post/query-folding-and-data-types-from-snowflake-in-power-bi,2024-07-17,query folding and data types from snowflake in power bi
-en.brunner.bi,https://en.brunner.bi/post/find-duplicate-dax-expressions-in-your-power-bi-or-fabric-tenant,2024-11-19,find duplicate dax expressions in your power bi or fabric tenant
-en.brunner.bi,https://en.brunner.bi/post/running-power-bi-best-practices-for-reports-in-all-workspaces-1,2025-02-07,running power bi best practices for reports in all workspaces 1
-en.brunner.bi,https://en.brunner.bi/post/using-what-if-analysis-to-achieve-higher-levels-of-optimization-in-power-bi,2024-07-18,using what if analysis to achieve higher levels of optimization in power bi
-en.brunner.bi,https://en.brunner.bi/post/search-through-dax-expressions-in-power-bi-models-tenant-wide-1,2024-09-27,search through dax expressions in power bi models tenant wide 1
-en.brunner.bi,https://en.brunner.bi/post/removing-unused-columns-and-measures-in-power-bi-1,2024-12-14,removing unused columns and measures in power bi 1
-en.brunner.bi,https://en.brunner.bi/post/unexpected-behavior-for-auto-relationships-in-microsoft-fabric,2024-05-09,unexpected behavior for auto relationships in microsoft fabric
-en.brunner.bi,https://en.brunner.bi/post/extending-calculation-groups-in-power-bi-with-unstructured-data-targets-budgets-etc-1,2024-05-09,extending calculation groups in power bi with unstructured data targets budgets etc 1
-en.brunner.bi,https://en.brunner.bi/post/finding-all-custom-visuals-in-a-power-bi-tenant,2024-09-27,finding all custom visuals in a power bi tenant
-en.brunner.bi,https://en.brunner.bi/post/analyzing-what-is-going-on-in-personal-workspaces-in-power-bi-1,2024-09-27,analyzing what is going on in personal workspaces in power bi 1
-en.brunner.bi,https://en.brunner.bi/post/getting-report-and-page-views-for-an-entire-power-bi-or-fabric-tenant-1,2025-02-08,getting report and page views for an entire power bi or fabric tenant 1
-en.brunner.bi,https://en.brunner.bi/post/new-ways-to-move-report-level-measures-into-a-semantic-model-in-power-bi-1,2025-01-17,new ways to move report level measures into a semantic model in power bi 1
-en.brunner.bi,https://en.brunner.bi/post/semantic-model-storage-modes-across-an-entire-tenant-1,2025-01-01,semantic model storage modes across an entire tenant 1
-en.brunner.bi,https://en.brunner.bi/post/changing-data-types-that-do-not-break-query-folding-in-power-query-power-bi-1,2024-05-09,changing data types that do not break query folding in power query power bi 1
-en.brunner.bi,https://en.brunner.bi/post/complete-semantic-model-lineage-in-the-power-bi-service,2025-02-10,complete semantic model lineage in the power bi service
-en.brunner.bi,https://en.brunner.bi/post/how-to-disable-the-automatic-refresh-of-a-dataset-after-upload-to-the-power-bi-service,2024-05-09,how to disable the automatic refresh of a dataset after upload to the power bi service
-en.brunner.bi,https://en.brunner.bi/post/limitations-of-the-power-bi-lineage-view-or-impact-analysis,2024-09-27,limitations of the power bi lineage view or impact analysis
-en.brunner.bi,https://en.brunner.bi/post/getting-all-user-and-security-group-access-permissions-across-a-fabric-tenant-1,2025-01-04,getting all user and security group access permissions across a fabric tenant 1
-en.brunner.bi,https://en.brunner.bi/post/format-strings-for-calculation-groups-in-live-reports,2024-05-09,format strings for calculation groups in live reports
-en.brunner.bi,https://en.brunner.bi/post/integrating-jira-with-power-bi,2024-06-28,integrating jira with power bi
-en.brunner.bi,https://en.brunner.bi/post/how-to-visualize-any-map-in-power-bi,2024-05-09,how to visualize any map in power bi
-en.brunner.bi,https://en.brunner.bi/post/how-to-avoid-having-to-use-a-personal-gateway-for-web-data-sources-html-page-or-table-in-power-bi,2024-08-28,how to avoid having to use a personal gateway for web data sources html page or table in power bi
-en.brunner.bi,https://en.brunner.bi/post/how-i-use-azure-vms-for-power-bi-development-1,2024-05-09,how i use azure vms for power bi development 1
-en.brunner.bi,https://en.brunner.bi/post/new-ways-to-optimize-shared-datasets-in-power-bi-1-2-the-offline-approach-1,2025-01-20,new ways to optimize shared datasets in power bi 1 2 the offline approach 1
-en.brunner.bi,https://en.brunner.bi/post/finding-columns-and-measures-used-in-a-visual-or-page-in-power-bi-1,2024-07-24,finding columns and measures used in a visual or page in power bi 1
-en.brunner.bi,https://en.brunner.bi/post/comparing-cost-of-dataflows-gen1-vs-gen2-in-power-bi-and-fabric-1,2025-01-25,comparing cost of dataflows gen1 vs gen2 in power bi and fabric 1
-en.brunner.bi,https://en.brunner.bi/post/searching-a-power-bi-report-s-m-code-with-a-few-clicks-1,2024-08-19,searching a power bi report s m code with a few clicks 1
-en.brunner.bi,https://en.brunner.bi/post/how-to-open-ods-files-in-power-bi-power-query,2024-05-09,how to open ods files in power bi power query
-en.brunner.bi,https://en.brunner.bi/post/how-to-force-users-to-select-a-filter-in-power-bi-while-keeping-the-report-interactive,2024-05-09,how to force users to select a filter in power bi while keeping the report interactive
-en.brunner.bi,https://en.brunner.bi/post/building-a-low-cost-power-bi-solution-using-small-fabric-capacities-and-embedding-reports,2025-01-30,building a low cost power bi solution using small fabric capacities and embedding reports
-en.brunner.bi,https://en.brunner.bi/post/data-alerts-in-power-bi-reports-using-data-activator,2024-05-09,data alerts in power bi reports using data activator
-en.brunner.bi,https://en.brunner.bi/post/creating-a-custom-fiscal-calendar-in-power-bi-1,2024-05-09,creating a custom fiscal calendar in power bi 1
-en.brunner.bi,https://en.brunner.bi/post/time-saving-scripts-in-tabular-editor-3,2024-05-09,time saving scripts in tabular editor 3
-en.brunner.bi,https://en.brunner.bi/post/page-limits-for-email-subscriptions-in-power-bi-premium,2024-05-09,page limits for email subscriptions in power bi premium
 en.brunner.bi,https://en.brunner.bi/post/new-ways-to-analyze-best-practices-in-power-bi-1,2024-07-17,new ways to analyze best practices in power bi 1
-en.brunner.bi,https://en.brunner.bi/post/dynamic-pop-up-or-warning-images-in-power-bi-2,2024-05-09,dynamic pop up or warning images in power bi 2
-en.brunner.bi,https://en.brunner.bi/post/dataflows-gets-around-the-3-000-cell-enter-data-limit-in-power-bi,2024-05-09,dataflows gets around the 3 000 cell enter data limit in power bi
-en.brunner.bi,https://en.brunner.bi/post/finding-errors-in-dataflows-and-powerquery,2024-05-09,finding errors in dataflows and powerquery
-en.brunner.bi,https://en.brunner.bi/post/trigger-instant-refreshs-of-power-bi-datasets-with-power-automate,2024-05-09,trigger instant refreshs of power bi datasets with power automate
-en.brunner.bi,https://en.brunner.bi/post/hybrid-tables-in-power-bi-with-datacoveragedefinition,2025-02-01,hybrid tables in power bi with datacoveragedefinition
-en.brunner.bi,https://en.brunner.bi/post/costs-of-querying-semantic-models-in-power-bi-and-fabric-xmla-vs-api-calls-dax-info-functions,2025-01-09,costs of querying semantic models in power bi and fabric xmla vs api calls dax info functions
-en.brunner.bi,https://en.brunner.bi/post/benefits-of-using-dax-info-functions-instead-of-the-xmla-endpoint-in-power-bi,2025-02-03,benefits of using dax info functions instead of the xmla endpoint in power bi
-en.brunner.bi,https://en.brunner.bi/post/allocating-amounts-using-lists-in-power-query,2024-05-09,allocating amounts using lists in power query
+en.brunner.bi,https://en.brunner.bi/post/semantic-model-storage-modes-across-an-entire-tenant-1,2025-01-01,semantic model storage modes across an entire tenant 1
 en.brunner.bi,https://en.brunner.bi/post/dynamic-tooltip-pages-in-microsoft-power-bi-for-measure-columns,2024-06-28,dynamic tooltip pages in microsoft power bi for measure columns
+en.brunner.bi,https://en.brunner.bi/post/removing-unused-columns-and-measures-in-power-bi-1,2024-12-14,removing unused columns and measures in power bi 1
+en.brunner.bi,https://en.brunner.bi/post/how-to-force-users-to-select-a-filter-in-power-bi-while-keeping-the-report-interactive,2024-05-09,how to force users to select a filter in power bi while keeping the report interactive
+en.brunner.bi,https://en.brunner.bi/post/complete-semantic-model-lineage-in-the-power-bi-service,2025-02-10,complete semantic model lineage in the power bi service
+en.brunner.bi,https://en.brunner.bi/post/trigger-instant-refreshs-of-power-bi-datasets-with-power-automate,2024-05-09,trigger instant refreshs of power bi datasets with power automate
+en.brunner.bi,https://en.brunner.bi/post/finding-errors-in-dataflows-and-powerquery,2024-05-09,finding errors in dataflows and powerquery
+en.brunner.bi,https://en.brunner.bi/post/query-folding-and-data-types-from-snowflake-in-power-bi,2024-07-17,query folding and data types from snowflake in power bi
+en.brunner.bi,https://en.brunner.bi/post/time-saving-scripts-in-tabular-editor-3,2024-05-09,time saving scripts in tabular editor 3
+en.brunner.bi,https://en.brunner.bi/post/how-to-open-ods-files-in-power-bi-power-query,2024-05-09,how to open ods files in power bi power query
+en.brunner.bi,https://en.brunner.bi/post/how-to-mass-upload-power-bi-reports-to-the-power-bi-service,2024-08-01,how to mass upload power bi reports to the power bi service
+en.brunner.bi,https://en.brunner.bi/post/new-ways-to-check-if-queries-fold-in-power-query,2024-05-09,new ways to check if queries fold in power query
+en.brunner.bi,https://en.brunner.bi/post/page-limits-for-email-subscriptions-in-power-bi-premium,2024-05-09,page limits for email subscriptions in power bi premium
+en.brunner.bi,https://en.brunner.bi/post/costs-of-querying-semantic-models-in-power-bi-and-fabric-xmla-vs-api-calls-dax-info-functions,2025-01-09,costs of querying semantic models in power bi and fabric xmla vs api calls dax info functions
+en.brunner.bi,https://en.brunner.bi/post/how-to-avoid-having-to-use-a-personal-gateway-for-web-data-sources-html-page-or-table-in-power-bi,2024-08-28,how to avoid having to use a personal gateway for web data sources html page or table in power bi
+en.brunner.bi,https://en.brunner.bi/post/how-to-fix-duration-data-types-in-power-bi-dataflows-1,2024-05-09,how to fix duration data types in power bi dataflows 1
+en.brunner.bi,https://en.brunner.bi/post/searching-a-power-bi-report-s-m-code-with-a-few-clicks-1,2024-08-19,searching a power bi report s m code with a few clicks 1
+en.brunner.bi,https://en.brunner.bi/post/limitations-of-the-power-bi-lineage-view-or-impact-analysis,2024-09-27,limitations of the power bi lineage view or impact analysis
+en.brunner.bi,https://en.brunner.bi/post/how-to-visualize-any-map-in-power-bi,2024-05-09,how to visualize any map in power bi
+en.brunner.bi,https://en.brunner.bi/post/exporting-data-from-power-bi-desktop-without-limits,2024-05-09,exporting data from power bi desktop without limits
+en.brunner.bi,https://en.brunner.bi/post/hybrid-tables-in-power-bi-with-datacoveragedefinition,2025-02-01,hybrid tables in power bi with datacoveragedefinition
+en.brunner.bi,https://en.brunner.bi/post/search-through-dax-expressions-in-power-bi-models-tenant-wide-1,2024-09-27,search through dax expressions in power bi models tenant wide 1
+en.brunner.bi,https://en.brunner.bi/post/how-to-disable-the-automatic-refresh-of-a-dataset-after-upload-to-the-power-bi-service,2024-05-09,how to disable the automatic refresh of a dataset after upload to the power bi service
+en.brunner.bi,https://en.brunner.bi/post/data-alerts-in-power-bi-reports-using-data-activator,2024-05-09,data alerts in power bi reports using data activator
+en.brunner.bi,https://en.brunner.bi/post/getting-report-and-page-views-for-an-entire-power-bi-or-fabric-tenant-1,2025-02-08,getting report and page views for an entire power bi or fabric tenant 1
+en.brunner.bi,https://en.brunner.bi/post/comparing-cost-of-dataflows-gen1-vs-gen2-in-power-bi-and-fabric-1,2025-01-25,comparing cost of dataflows gen1 vs gen2 in power bi and fabric 1
+en.brunner.bi,https://en.brunner.bi/post/extending-calculation-groups-in-power-bi-with-unstructured-data-targets-budgets-etc-1,2024-05-09,extending calculation groups in power bi with unstructured data targets budgets etc 1
+en.brunner.bi,https://en.brunner.bi/post/changing-data-types-that-do-not-break-query-folding-in-power-query-power-bi-1,2024-05-09,changing data types that do not break query folding in power query power bi 1
+en.brunner.bi,https://en.brunner.bi/post/benefits-of-using-dax-info-functions-instead-of-the-xmla-endpoint-in-power-bi,2025-02-03,benefits of using dax info functions instead of the xmla endpoint in power bi
+en.brunner.bi,https://en.brunner.bi/post/measure-killer-feedback-1,2025-02-13,measure killer feedback 1
+en.brunner.bi,https://en.brunner.bi/post/allocating-amounts-using-lists-in-power-query,2024-05-09,allocating amounts using lists in power query
+en.brunner.bi,https://en.brunner.bi/post/finding-columns-and-measures-used-in-a-visual-or-page-in-power-bi-1,2024-07-24,finding columns and measures used in a visual or page in power bi 1
+en.brunner.bi,https://en.brunner.bi/post/getting-all-user-and-security-group-access-permissions-across-a-fabric-tenant-1,2025-01-04,getting all user and security group access permissions across a fabric tenant 1
+en.brunner.bi,https://en.brunner.bi/post/running-power-bi-best-practices-for-reports-in-all-workspaces-1,2025-02-07,running power bi best practices for reports in all workspaces 1
+en.brunner.bi,https://en.brunner.bi/post/dynamic-pop-up-or-warning-images-in-power-bi-2,2024-05-09,dynamic pop up or warning images in power bi 2
+en.brunner.bi,https://en.brunner.bi/post/integrating-jira-with-power-bi,2024-06-28,integrating jira with power bi
+en.brunner.bi,https://en.brunner.bi/post/format-strings-for-calculation-groups-in-live-reports,2024-05-09,format strings for calculation groups in live reports
+en.brunner.bi,https://en.brunner.bi/post/new-ways-to-move-report-level-measures-into-a-semantic-model-in-power-bi-1,2025-01-17,new ways to move report level measures into a semantic model in power bi 1
+en.brunner.bi,https://en.brunner.bi/post/1-click-optimization-and-fabric-git-integration,2024-07-11,1 click optimization and fabric git integration
+en.brunner.bi,https://en.brunner.bi/post/how-to-get-row-level-security-details-from-all-semantic-models-in-power-bi-or-fabric-1,2024-12-19,how to get row level security details from all semantic models in power bi or fabric 1
+en.brunner.bi,https://en.brunner.bi/post/how-i-use-azure-vms-for-power-bi-development-1,2024-05-09,how i use azure vms for power bi development 1
+en.brunner.bi,https://en.brunner.bi/post/fixing-delta-once-and-for-all-1,2023-05-01,fixing delta once and for all 1
+en.brunner.bi,https://en.brunner.bi/post/unexpected-behavior-for-auto-relationships-in-microsoft-fabric,2024-05-09,unexpected behavior for auto relationships in microsoft fabric
+en.brunner.bi,https://en.brunner.bi/post/creating-a-custom-fiscal-calendar-in-power-bi-1,2024-05-09,creating a custom fiscal calendar in power bi 1
+en.brunner.bi,https://en.brunner.bi/post/building-a-low-cost-power-bi-solution-using-small-fabric-capacities-and-embedding-reports,2025-01-30,building a low cost power bi solution using small fabric capacities and embedding reports
+en.brunner.bi,https://en.brunner.bi/post/using-what-if-analysis-to-achieve-higher-levels-of-optimization-in-power-bi,2024-07-18,using what if analysis to achieve higher levels of optimization in power bi
+en.brunner.bi,https://en.brunner.bi/post/dataflows-gets-around-the-3-000-cell-enter-data-limit-in-power-bi,2024-05-09,dataflows gets around the 3 000 cell enter data limit in power bi
+en.brunner.bi,https://en.brunner.bi/post/analyzing-what-is-going-on-in-personal-workspaces-in-power-bi-1,2024-09-27,analyzing what is going on in personal workspaces in power bi 1
+en.brunner.bi,https://en.brunner.bi/post/new-ways-to-optimize-shared-datasets-in-power-bi-1-2-the-offline-approach-1,2025-01-20,new ways to optimize shared datasets in power bi 1 2 the offline approach 1
+en.brunner.bi,https://en.brunner.bi/post/finding-all-custom-visuals-in-a-power-bi-tenant,2024-09-27,finding all custom visuals in a power bi tenant
+en.brunner.bi,https://en.brunner.bi/post/find-duplicate-dax-expressions-in-your-power-bi-or-fabric-tenant,2024-11-19,find duplicate dax expressions in your power bi or fabric tenant
 pragmaticworks.com,https://pragmaticworks.com/blog/best-way-to-start-learning-azure,2023-03-28,best way to start learning azure
 pragmaticworks.com,https://pragmaticworks.com/blog/how-are-iot-hub-event-hub-and-event-grid-related,2023-03-28,how are iot hub event hub and event grid related
 pragmaticworks.com,https://pragmaticworks.com/power-pages-in-a-day,2024-05-10,power pages in a day
@@ -2304,7 +2304,6 @@ pragmaticworks.com,https://pragmaticworks.com/blog/successful-enterprise-bi-migr
 pragmaticworks.com,https://pragmaticworks.com/blog/building-an-excel-dashboard-a-comprehensive-guide,2024-03-04,building an excel dashboard a comprehensive guide
 pragmaticworks.com,https://pragmaticworks.com/blog/new-options-for-sql-2008-end-of-support,2023-03-28,new options for sql 2008 end of support
 pragmaticworks.com,https://pragmaticworks.com/blog/how-to-integrate-azure-databricks-with-azure-devops,2023-03-28,how to integrate azure databricks with azure devops
-pragmaticworks.com,https://pragmaticworks.com/terms-conditions,2024-12-12,terms conditions
 pragmaticworks.com,https://pragmaticworks.com/blog/powerapps-problem-design-solution,2023-03-28,powerapps problem design solution
 pragmaticworks.com,https://pragmaticworks.com/courses/introduction-to-copilot-studio,2024-11-18,introduction to copilot studio
 pragmaticworks.com,https://pragmaticworks.com/blog/top-5-things-to-capture-in-a-data-dictionary,2023-03-28,top 5 things to capture in a data dictionary
@@ -2417,6 +2416,7 @@ pragmaticworks.com,https://pragmaticworks.com/courses/azure-devops-for-users,202
 pragmaticworks.com,https://pragmaticworks.com/events/mar-08-learn-with-the-nerds-microsoft-project-beginner-to-pro-111,2024-03-14,mar 08 learn with the nerds microsoft project beginner to pro 111
 pragmaticworks.com,https://pragmaticworks.com/blog/building-your-1st-data-solution-in-azure,2023-03-28,building your 1st data solution in azure
 pragmaticworks.com,https://pragmaticworks.com/guides-old/max-dax-function,2025-02-11,max dax function
+pragmaticworks.com,https://pragmaticworks.com/privacy-policy,2025-02-13,privacy policy
 pragmaticworks.com,https://pragmaticworks.com/blog/what-is-azure-data-studio,2023-03-28,what is azure data studio
 pragmaticworks.com,https://pragmaticworks.com/app-in-a-snap-project-proposal-and-purchase-approval-app,2023-08-07,app in a snap project proposal and purchase approval app
 pragmaticworks.com,https://pragmaticworks.com/thank-you-model-driven-apps-in-dataverse,2025-02-12,thank you model driven apps in dataverse
@@ -2718,7 +2718,6 @@ pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-custom-visuals-drill
 pragmaticworks.com,https://pragmaticworks.com/blog/have-assurance-in-your-training-investment,2024-06-17,have assurance in your training investment
 pragmaticworks.com,https://pragmaticworks.com/events/mar-10-virtual-power-bi-bootcamp-198,2024-11-05,mar 10 virtual power bi bootcamp 198
 pragmaticworks.com,https://pragmaticworks.com/courses/working-with-sql-server-views,2024-11-18,working with sql server views
-pragmaticworks.com,https://pragmaticworks.com/about-us/careers,2024-12-03,careers
 pragmaticworks.com,https://pragmaticworks.com/courses/microsoft-create,2024-11-18,microsoft create
 pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-custom-visuals-horizontal-funnel,2023-03-28,power bi custom visuals horizontal funnel
 pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-administration-webinar,2023-03-28,power bi administration webinar
@@ -3070,6 +3069,7 @@ pragmaticworks.com,https://pragmaticworks.com/blog/microsoft-forms-power-bi-inte
 pragmaticworks.com,https://pragmaticworks.com/courses/advanced-power-bi,2024-11-18,advanced power bi
 pragmaticworks.com,https://pragmaticworks.com/events/apr-15-virtual-azure-data-factory-bootcamp-86,2024-03-14,apr 15 virtual azure data factory bootcamp 86
 pragmaticworks.com,https://pragmaticworks.com/lp-thankyou-page-v2,2023-08-29,lp thankyou page v2
+pragmaticworks.com,https://pragmaticworks.com/terms-conditions,2025-02-13,terms conditions
 pragmaticworks.com,https://pragmaticworks.com/lp-thank-you-page,2024-06-17,lp thank you page
 pragmaticworks.com,https://pragmaticworks.com/blog/check-out-these-boot-camp-testimonials,2024-06-04,check out these boot camp testimonials
 pragmaticworks.com,https://pragmaticworks.com/courses/introduction-to-data-modeling,2024-11-18,introduction to data modeling
@@ -3209,6 +3209,7 @@ pragmaticworks.com,https://pragmaticworks.com/events/jan-21-virtual-microsoft-ex
 pragmaticworks.com,https://pragmaticworks.com/blog/azure-database-for-mariadb-in-preview,2023-03-28,azure database for mariadb in preview
 pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-custom-visuals-calendar-by-tallan,2023-03-28,power bi custom visuals calendar by tallan
 pragmaticworks.com,https://pragmaticworks.com/blog/building-dynamic-pipelines-in-azure-data-factory-v2,2024-06-04,building dynamic pipelines in azure data factory v2
+pragmaticworks.com,https://pragmaticworks.com/accessibility,2025-02-13,accessibility
 pragmaticworks.com,https://pragmaticworks.com/courses/advanced-power-automate,2024-11-18,advanced power automate
 pragmaticworks.com,https://pragmaticworks.com/blog/using-existing-dax-magic-to-perform-a-distinctx-in-power-bi,2024-10-21,using existing dax magic to perform a distinctx in power bi
 pragmaticworks.com,https://pragmaticworks.com/blog/using-approvals-in-power-automate-cloud-flows,2023-10-13,using approvals in power automate cloud flows
@@ -3390,7 +3391,6 @@ pragmaticworks.com,https://pragmaticworks.com/courses/interactive-dashboards-wit
 pragmaticworks.com,https://pragmaticworks.com/blog/building-your-first-power-apps-portal,2023-03-28,building your first power apps portal
 pragmaticworks.com,https://pragmaticworks.com/blog/what-is-a-data-lifecycle-assessment,2024-03-28,what is a data lifecycle assessment
 pragmaticworks.com,https://pragmaticworks.com/guides/dax-guide/aggregate-functions/dax-guide-count/sum,2025-02-11,sum
-pragmaticworks.com,https://pragmaticworks.com/resources/cheat-sheet/power-bi,2024-06-04,power bi
 pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-custom-visuals-table-heatmap,2023-03-28,power bi custom visuals table heatmap
 pragmaticworks.com,https://pragmaticworks.com/blog/does-your-business-have-talent-debt,2023-03-28,does your business have talent debt
 pragmaticworks.com,https://pragmaticworks.com/blog/etl-with-power-bi-dataflows,2023-03-28,etl with power bi dataflows
@@ -3540,7 +3540,6 @@ pragmaticworks.com,https://pragmaticworks.com/instructors/austin-libal,2024-04-2
 pragmaticworks.com,https://pragmaticworks.com/events/nov-21-copilot-studio-bootcamp-171,2024-08-06,nov 21 copilot studio bootcamp 171
 pragmaticworks.com,https://pragmaticworks.com/blog/monitoring-your-workloads-with-azure-monitor,2023-03-28,monitoring your workloads with azure monitor
 pragmaticworks.com,https://pragmaticworks.com/lwtn-building-intelligent-agents-with-copilot-studio-event,2025-01-21,lwtn building intelligent agents with copilot studio event
-pragmaticworks.com,https://pragmaticworks.com/privacy-policy,2024-08-21,privacy policy
 pragmaticworks.com,https://pragmaticworks.com/blog/how-to-implement-successful-bi-solutions,2023-03-28,how to implement successful bi solutions
 pragmaticworks.com,https://pragmaticworks.com/guides/dax-guide/aggregate-functions/dax-guide-min/mina,2025-02-11,mina
 pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-custom-visuals-histogram,2023-03-28,power bi custom visuals histogram
@@ -3739,7 +3738,6 @@ pragmaticworks.com,https://pragmaticworks.com/blog/microsoft-onenote-with-matthe
 pragmaticworks.com,https://pragmaticworks.com/blog/consulting-communicating-and-covid-19,2023-03-28,consulting communicating and covid 19
 pragmaticworks.com,https://pragmaticworks.com/events/feb-20-learn-with-the-nerds-excel-to-power-bi-2025-edition-235,2025-01-23,feb 20 learn with the nerds excel to power bi 2025 edition 235
 pragmaticworks.com,https://pragmaticworks.com/lwtn-power-apps-beginner-to-pro-thank-you,2024-02-23,lwtn power apps beginner to pro thank you
-pragmaticworks.com,https://pragmaticworks.com/accessibility,2024-08-31,accessibility
 pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-custom-visuals-chartaccent-barchart,2023-03-28,power bi custom visuals chartaccent barchart
 pragmaticworks.com,https://pragmaticworks.com/introduction-to-canvas-apps-with-power-apps,2023-08-29,introduction to canvas apps with power apps
 pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-monthly-digest-may-2020,2023-03-28,power bi monthly digest may 2020
@@ -3957,6 +3955,7 @@ pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-and-data-security-on
 pragmaticworks.com,https://pragmaticworks.com/blog/creating-your-first-powerapp-with-power-bi-and-flow,2024-06-17,creating your first powerapp with power bi and flow
 pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-custom-visuals-hierarchy-slicer,2023-03-28,power bi custom visuals hierarchy slicer
 pragmaticworks.com,https://pragmaticworks.com/blog/introducing-the-power-bi-activity-log-api,2023-03-28,introducing the power bi activity log api
+pragmaticworks.com,https://pragmaticworks.com/about-us/careers,2025-02-13,careers
 pragmaticworks.com,https://pragmaticworks.com/streamlining-business-operations-with-power-automate-robotic-process-automation,2025-01-31,streamlining business operations with power automate robotic process automation
 pragmaticworks.com,https://pragmaticworks.com/events/feb-03-virtual-advanced-canvas-apps-bootcamp-194,2024-10-01,feb 03 virtual advanced canvas apps bootcamp 194
 pragmaticworks.com,https://pragmaticworks.com/blog/exploring-the-newest-features-in-power-bi-apps,2024-02-15,exploring the newest features in power bi apps
@@ -4137,6 +4136,7 @@ pragmaticworks.com,https://pragmaticworks.com/power-automate-beginner-to-pro-tha
 pragmaticworks.com,https://pragmaticworks.com/blog/integrating-microsoft-cognitive-services-computer-vision-api-into-power-apps,2025-02-04,integrating microsoft cognitive services computer vision api into power apps
 pragmaticworks.com,https://pragmaticworks.com/dax-for-paginated-reports,2023-11-07,dax for paginated reports
 pragmaticworks.com,https://pragmaticworks.com/blog/power-bi-custom-visuals-sankey,2023-03-28,power bi custom visuals sankey
+pragmaticworks.com,https://pragmaticworks.com/resources/cheat-sheet/power-bi,2025-02-13,power bi
 pragmaticworks.com,https://pragmaticworks.com/blog/business-continuity-strategies-in-azure-webinar,2023-03-28,business continuity strategies in azure webinar
 pragmaticworks.com,https://pragmaticworks.com/events/may-20-virtual-power-bi-pl-300-bootcamp-105,2024-03-14,may 20 virtual power bi pl 300 bootcamp 105
 pragmaticworks.com,https://pragmaticworks.com/blog/preparing-a-technical-session-part-2-coming-up-with-a-title,2023-03-16,preparing a technical session part 2 coming up with a title
@@ -4147,6 +4147,7 @@ pragmaticworks.com,https://pragmaticworks.com/blog/why-use-azure-databricks,2023
 pragmaticworks.com,https://pragmaticworks.com/blog/pragmatic-works-at-pass-summit-2015,2024-06-17,pragmatic works at pass summit 2015
 pragmaticworks.com,https://pragmaticworks.com/blog/time-saving-quick-tips-for-power-bi-beginners,2023-03-28,time saving quick tips for power bi beginners
 pragmaticworks.com,https://pragmaticworks.com/courses/azure-devops-for-project-managers,2024-11-18,azure devops for project managers
+data-marc.com,https://data-marc.com/2025/02/13/structure-fabric-items-by-applying-naming-conventions/,2025-02-13,structure fabric items by applying naming conventions
 data-marc.com,https://data-marc.com/2025/02/11/behind-the-scenes-how-i-automated-my-fabric-workshop-training/,2025-02-11,behind the scenes how i automated my fabric workshop training
 data-marc.com,https://data-marc.com/2025/01/23/ask-questions-to-your-data-is-copilot-the-way-to-go-or-should-we-consider-alternatives-like-ai-skills/,2025-01-23,ask questions to your data is copilot the way to go or should we consider alternatives like ai skills
 data-marc.com,https://data-marc.com/2024/12/11/your-data-security-is-a-joke/,2024-12-12,your data security is a joke
@@ -4290,7 +4291,7 @@ data-marc.com,https://data-marc.com/2018/11/15/parameterize-your-data-source/,20
 data-marc.com,https://data-marc.com/2018/12/06/format-your-colors-based-on-advanced-controls/,2019-03-12,format your colors based on advanced controls
 data-marc.com,https://data-marc.com/2018/10/19/multiple-tier-architecture-and-continuous-delivery-with-power-bi/,2021-04-01,multiple tier architecture and continuous delivery with power bi
 data-marc.com,https://data-marc.com/2018/09/25/the-journey-begins/,2018-10-06,the journey begins
-data-marc.com,https://data-marc.com,2025-02-11,
+data-marc.com,https://data-marc.com,2025-02-13,
 www.data-traveling.com,https://www.data-traveling.com/articles,2024-11-01,articles
 www.data-traveling.com,https://www.data-traveling.com/articles/part-2-microsoft-fabric-admin-adding-entra-id-groups-to-workspaces-with-semantic-link-and-python,2024-11-01,part 2 microsoft fabric admin adding entra id groups to workspaces with semantic link and python
 www.data-traveling.com,https://www.data-traveling.com/articles/microsoft-fabric-admin-first-thoughts-and-use-cases-on-using-terraform-for-infrastructure-as-code-iac,2024-09-29,microsoft fabric admin first thoughts and use cases on using terraform for infrastructure as code iac
@@ -4348,7 +4349,7 @@ datasavvy.me,https://datasavvy.me/2023/08/18/restoring-ssas-cubes-to-a-sql-2022-
 datasavvy.me,https://datasavvy.me/2023/08/17/quick-tip-about-fonts-in-deneb-visuals-in-power-bi/,2023-08-17,quick tip about fonts in deneb visuals in power bi
 datasavvy.me,https://datasavvy.me/2023/07/14/enhancements-id-like-to-see-in-the-power-bi-treemap-visual/,2024-02-19,enhancements id like to see in the power bi treemap visual
 datasavvy.me,https://datasavvy.me/2023/06/02/using-a-tnsnames-ora-file-with-the-microsoft-connector-for-oracle-in-ssis/,2023-06-03,using a tnsnames ora file with the microsoft connector for oracle in ssis
-datasavvy.me,https://datasavvy.me/2023/05/17/the-many-oracle-connectors-for-ssis/,2023-11-07,the many oracle connectors for ssis
+datasavvy.me,https://datasavvy.me/2023/05/17/the-many-oracle-connectors-for-ssis/,2025-02-13,the many oracle connectors for ssis
 datasavvy.me,https://datasavvy.me/2023/05/24/custom-labels-on-bar-and-column-charts-in-power-bi/,2023-08-31,custom labels on bar and column charts in power bi
 datasavvy.me,https://datasavvy.me/3-things-my-employer-does-that-helped-me-work-while-depressed/,2023-05-04,3 things my employer does that helped me work while depressed
 datasavvy.me,https://datasavvy.me/2023/04/21/how-to-use-the-new-dynamic-format-strings-for-measures-in-power-bi/,2023-04-21,how to use the new dynamic format strings for measures in power bi
@@ -4529,7 +4530,7 @@ datasavvy.me,https://datasavvy.me/2013/08/16/im-speaking-at-sql-saturday-190-in-
 datasavvy.me,https://datasavvy.me/2013/07/03/im-speaking-at-sqlsaturday-236-in-st-louis/,2013-07-03,im speaking at sqlsaturday 236 in st louis
 datasavvy.me,https://datasavvy.me/2013/06/30/links-for-excel-data-explorer/,2013-06-30,links for excel data explorer
 datasavvy.me,https://datasavvy.me/2013/03/24/im-speaking-at-sql-saturday-197/,2013-03-24,im speaking at sql saturday 197
-datasavvy.me,https://datasavvy.me,2025-02-11,
+datasavvy.me,https://datasavvy.me,2025-02-13,
 www.thatbluecloud.com,https://www.thatbluecloud.com/fabric-dataflows-support-service-principal-auth/,2024-07-09,fabric dataflows support service principal auth
 www.thatbluecloud.com,https://www.thatbluecloud.com/delta-lake-v3-announced/,2024-07-09,delta lake v3 announced
 www.thatbluecloud.com,https://www.thatbluecloud.com/5-new-features-in-microsoft-fabric-with-july-2023-update/,2024-07-09,5 new features in microsoft fabric with july 2023 update
