@@ -4166,7 +4166,7 @@ data-marc.com,https://data-marc.com/2024/09/17/sync-two-slicers-without-bi-direc
 data-marc.com,https://data-marc.com/2024/09/09/purchasing-fabric-capacities-as-reserved-instance/,2024-09-09,purchasing fabric capacities as reserved instance
 data-marc.com,https://data-marc.com/2024/07/18/comparing-calculation-options-in-power-bi-including-visual-calculations/,2024-07-18,comparing calculation options in power bi including visual calculations
 data-marc.com,https://data-marc.com/2024/07/09/fabric-ci-cd-with-git-deployment-and-release-strategies/,2025-01-30,fabric ci cd with git deployment and release strategies
-data-marc.com,https://data-marc.com/2024/06/25/fabric-git-branching-with-the-new-branch-out-option-how-it-works-and-what-you-should-keep-in-mind/,2024-06-25,fabric git branching with the new branch out option how it works and what you should keep in mind
+data-marc.com,https://data-marc.com/2024/06/25/fabric-git-branching-with-the-new-branch-out-option-how-it-works-and-what-you-should-keep-in-mind/,2025-02-22,fabric git branching with the new branch out option how it works and what you should keep in mind
 data-marc.com,https://data-marc.com/2024/06/24/power-bi-and-fabric-capacities-understand-the-difference-and-cost-structure/,2024-07-11,power bi and fabric capacities understand the difference and cost structure
 data-marc.com,https://data-marc.com/2024/06/11/gotchas-of-bringing-dataverse-data-into-microsoft-fabric/,2024-09-12,gotchas of bringing dataverse data into microsoft fabric
 data-marc.com,https://data-marc.com/2024/05/28/dynamically-refreshing-historical-partitions-in-power-bi-incremental-refresh-semantic-models-using-fabric-semantic-link/,2024-12-04,dynamically refreshing historical partitions in power bi incremental refresh semantic models using fabric semantic link
@@ -4298,7 +4298,7 @@ data-marc.com,https://data-marc.com/2018/11/15/parameterize-your-data-source/,20
 data-marc.com,https://data-marc.com/2018/12/06/format-your-colors-based-on-advanced-controls/,2019-03-12,format your colors based on advanced controls
 data-marc.com,https://data-marc.com/2018/10/19/multiple-tier-architecture-and-continuous-delivery-with-power-bi/,2021-04-01,multiple tier architecture and continuous delivery with power bi
 data-marc.com,https://data-marc.com/2018/09/25/the-journey-begins/,2018-10-06,the journey begins
-data-marc.com,https://data-marc.com,2025-02-19,
+data-marc.com,https://data-marc.com,2025-02-22,
 www.data-traveling.com,https://www.data-traveling.com/articles,2024-11-01,articles
 www.data-traveling.com,https://www.data-traveling.com/articles/part-2-microsoft-fabric-admin-adding-entra-id-groups-to-workspaces-with-semantic-link-and-python,2024-11-01,part 2 microsoft fabric admin adding entra id groups to workspaces with semantic link and python
 www.data-traveling.com,https://www.data-traveling.com/articles/microsoft-fabric-admin-first-thoughts-and-use-cases-on-using-terraform-for-infrastructure-as-code-iac,2024-09-29,microsoft fabric admin first thoughts and use cases on using terraform for infrastructure as code iac
